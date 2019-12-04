@@ -27,7 +27,7 @@ package lxl.DEC;
 public class ImplementStrstr {
     //具体看java源码。。。。
     public int strStr(String haystack, String needle) {
-        if(haystack == null || haystack == null){
+        if(haystack == null){
             return -1;
         }
         return haystack.indexOf(needle);
