@@ -1,5 +1,7 @@
 package lxl.DEC;
 
+import lxl.util.ListNode;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.LinkedList;
@@ -27,20 +29,20 @@ import java.util.List;
  * @create: 2019-12-03 17:11
  **/
 public class MergeKSortedLists {
-    static class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode(int x) {
-            val = x;
-        }
-
-
-        @Override
-        public String toString() {
-            return val+"-"+ (next == null ? "end":next.toString());
-        }
-    }
+    //static class ListNode {
+    //    int val;
+    //    ListNode next;
+    //
+    //    ListNode(int x) {
+    //        val = x;
+    //    }
+    //
+    //
+    //    @Override
+    //    public String toString() {
+    //        return val+"-"+ (next == null ? "end":next.toString());
+    //    }
+    //}
 
     public ListNode mergeKLists(ListNode[] lists) {
         lists = this.removeArrayEmptyTextBackNewArray(lists);

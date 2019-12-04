@@ -1,5 +1,7 @@
 package lxl.DEC;
 
+import lxl.util.ListNode;
+
 /**
  * @program: leetcode-hz
  * @description:
@@ -17,19 +19,19 @@ package lxl.DEC;
  * @create: 2019-12-03 15:41
  **/
 public class MergeTwoSortedLists {
-    static class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode(int x) {
-            val = x;
-        }
-
-        @Override
-        public String toString() {
-            return val+"-"+ (next == null ? "end":next.toString());
-        }
-    }
+    //static class ListNode {
+    //    int val;
+    //    ListNode next;
+    //
+    //    ListNode(int x) {
+    //        val = x;
+    //    }
+    //
+    //    @Override
+    //    public String toString() {
+    //        return val+"-"+ (next == null ? "end":next.toString());
+    //    }
+    //}
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         ListNode listNode = new ListNode(0);
         ListNode next = listNode;

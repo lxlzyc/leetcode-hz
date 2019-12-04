@@ -1,5 +1,7 @@
 package lxl.DEC;
 
+import lxl.util.ListNode;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -28,19 +30,19 @@ import java.util.List;
  * @create: 2019-12-03 11:00
  **/
 public class RemoveNthNode {
-    static class ListNode {
-        int val;
-        ListNode next;
-
-        ListNode(int x) {
-            val = x;
-        }
-
-        @Override
-        public String toString() {
-            return val+"-"+ (next == null ? "end":next.toString());
-        }
-    }
+    //static class ListNode {
+    //    int val;
+    //    ListNode next;
+    //
+    //    ListNode(int x) {
+    //        val = x;
+    //    }
+    //
+    //    @Override
+    //    public String toString() {
+    //        return val+"-"+ (next == null ? "end":next.toString());
+    //    }
+    //}
     //前后塞入null listnode处理特殊情况 单次遍历记录
     public ListNode removeNthFromEnd(ListNode head, int n) {
         List<ListNode> nodes = new ArrayList<>();
