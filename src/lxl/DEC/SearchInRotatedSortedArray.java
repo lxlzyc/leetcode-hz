@@ -37,6 +37,7 @@ public class SearchInRotatedSortedArray {
                     return i;
                 }
             }
+            return -1;
         }
 
         //二分查找
