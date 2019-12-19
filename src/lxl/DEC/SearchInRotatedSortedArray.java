@@ -49,13 +49,15 @@ public class SearchInRotatedSortedArray {
         int start = 0;
         int end = srcArray.length - 1;
 
-        int left = srcArray[0];
-        int right = srcArray[end];
+        int left;
+        int right;
 
         //确保不会出现重复查找，越界
         int middle;
         int index;
         while (start <= end) {
+            left = srcArray[start];
+            right = srcArray[end];
             //计算出中间索引值
             //防止溢出
             middle = (end + start) >>> 1;
