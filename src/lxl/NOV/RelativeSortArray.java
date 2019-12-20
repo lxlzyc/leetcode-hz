@@ -2,7 +2,7 @@ package lxl.NOV;
 
 /**
  * @program: leetcode-hz
- * @description: 数组的相对排序
+ * @description:  1122. 数组的相对排序
  * 给你两个数组，arr1 和 arr2，
  *
  *     arr2 中的元素各不相同

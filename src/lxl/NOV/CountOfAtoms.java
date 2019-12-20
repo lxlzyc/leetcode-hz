@@ -5,7 +5,7 @@ import java.util.TreeMap;
 
 /**
  * @program: leetcode-hz
- * @description:
+ * @description: 726. 原子的数量
  * 给定一个化学式formula（作为字符串），返回每种原子的数量。
  *
  * 原子总是以一个大写字母开始，接着跟随0个或任意个小写字母，表示原子的名字。

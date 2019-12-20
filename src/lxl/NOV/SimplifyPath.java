@@ -4,7 +4,7 @@ import java.util.Stack;
 
 /**
  * @program: leetcode-hz
- * @description:
+ * @description: 71. 简化路径
  * 以 Unix 风格给出一个文件的绝对路径，你需要简化它。或者换句话说，将其转换为规范路径。
  *
  * 在 Unix 风格的文件系统中，

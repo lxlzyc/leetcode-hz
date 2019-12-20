@@ -39,12 +39,19 @@ public class ListNodeTest {
         ListNode a2 = new ListNode(5);
         ListNode b2 = new ListNode(6);
         ListNode c2 = new ListNode(7);
-        ListNode d2 = new ListNode(8);
-        ListNode e2 = new ListNode(9);
+        ListNode d2 = new ListNode(7);
+        ListNode e2 = new ListNode(7);
+        ListNode f2 = new ListNode(8);
+        ListNode g2 = new ListNode(9);
+        ListNode h2 = new ListNode(9);
+
         a2.next = b2;
         b2.next = c2;
         c2.next = d2;
         d2.next = e2;
+        e2.next = f2;
+        f2.next = g2;
+        g2.next = h2;
         return a2;
     }
 

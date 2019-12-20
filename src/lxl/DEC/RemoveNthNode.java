@@ -7,7 +7,8 @@ import java.util.List;
 
 /**
  * @program: leetcode-hz
- * @description: 给定一个链表，删除链表的倒数第 n 个节点，并且返回链表的头结点。
+ * @description: 19. 删除链表的倒数第N个节点
+ * 给定一个链表，删除链表的倒数第 n 个节点，并且返回链表的头结点。
  * <p>
  * 示例：
  * <p>
