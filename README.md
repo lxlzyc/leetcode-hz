@@ -80,6 +80,8 @@ leetcode 刷题记录
 * [79. 单词搜索](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/WordSearch.java)
 * [80. 删除排序数组中的重复项 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/RemoveDuplicatesFromSortedArray2.java)
 * [81. 搜索旋转排序数组 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/SearchInRotatedSortedArray2.java)
+* [82. 删除排序链表中的重复元素 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/RemoveDuplicatesFromSortedList2.java)
+* [83. 删除排序链表中的重复元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/RemoveDuplicatesFromSortedList.java)
 
 
 ## 全部顺序
@@ -149,6 +151,8 @@ leetcode 刷题记录
 * [79. 单词搜索](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/WordSearch.java)
 * [80. 删除排序数组中的重复项 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/RemoveDuplicatesFromSortedArray2.java)
 * [81. 搜索旋转排序数组 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/SearchInRotatedSortedArray2.java)
+* [82. 删除排序链表中的重复元素 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/RemoveDuplicatesFromSortedList2.java)
+* [83. 删除排序链表中的重复元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/RemoveDuplicatesFromSortedList.java)
 * [343. 整数拆分](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/IntegerBreak.java)
 * [463. 岛屿的周长](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/IsLandPerimeter.java)
 * [714. 买卖股票的最佳时机含手续费](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaxProfit.java)
