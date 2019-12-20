@@ -4,8 +4,8 @@ leetcode 刷题记录
 部分困难题目暂时跳过
 题目名称与leetcode一致
 
-###   2019-11
---- 
+### 2019-11 
+
 * [2. 两数相加](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/AddTwoNumbers.java)
 * [3. 无重复字符的最长子串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/LongestSubstringWithoutRep.java)
 * [6. Z 字形变换](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/ZigzagConversion.java)
@@ -26,8 +26,8 @@ leetcode 刷题记录
 * [787. K 站中转内最便宜的航班](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/FindCheapestPrice.java)
 * [1122. 数组的相对排序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/RelativeSortArray.java)
 
-###   2019-12
----
+### 2019-12
+
 * [15. 三数之和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/ThreeSum.java)
 * [16. 最接近的三数之和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/ThreeSumCloset.java)
 * [17. 电话号码的字母组合](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/LetterCombinationsOfPhone.java)
