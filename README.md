@@ -1,7 +1,7 @@
 # leetcode-hz
 leetcode 刷题记录
 
-部分困难题目暂时跳过
+部分困难题目暂时跳过 
 题目名称与leetcode一致
 
 ### 2019-11 
