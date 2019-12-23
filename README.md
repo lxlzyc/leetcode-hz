@@ -82,7 +82,12 @@ leetcode 刷题记录
 * [81. 搜索旋转排序数组 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/SearchInRotatedSortedArray2.java)
 * [82. 删除排序链表中的重复元素 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/RemoveDuplicatesFromSortedList2.java)
 * [83. 删除排序链表中的重复元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/RemoveDuplicatesFromSortedList.java)
-
+* [85. 最大矩形](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/MaximalRectangle.java)
+* [86. 分隔链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/PartitionList.java)
+* [88. 合并两个有序数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/RemoveDuplicatesFromSortedList.java)
+* [89. 格雷编码](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/GrayCode.java)
+* [90. 子集 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/Subsets2.java)
+* [92. 反转链表 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/ReverseLinkedList2.java)
 
 ## 全部顺序
 
@@ -153,6 +158,11 @@ leetcode 刷题记录
 * [81. 搜索旋转排序数组 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/SearchInRotatedSortedArray2.java)
 * [82. 删除排序链表中的重复元素 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/RemoveDuplicatesFromSortedList2.java)
 * [83. 删除排序链表中的重复元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/RemoveDuplicatesFromSortedList.java)
+* [85. 最大矩形](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/MaximalRectangle.java)
+* [86. 分隔链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/PartitionList.java)
+* [88. 合并两个有序数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/RemoveDuplicatesFromSortedList.java)
+* [90. 反转链表 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/Subsets2.java)
+* [92. 反转链表 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/ReverseLinkedList2.java)
 * [343. 整数拆分](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/IntegerBreak.java)
 * [463. 岛屿的周长](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/IsLandPerimeter.java)
 * [714. 买卖股票的最佳时机含手续费](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaxProfit.java)
