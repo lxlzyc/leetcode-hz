@@ -93,6 +93,17 @@ leetcode 刷题记录
 * [100. 相同的树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/SameTree.java)
 * [101. 对称二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/SymmetricTree.java)
 * [102. 二叉树的层次遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/BinaryTreeLevelOrderTraversal.java)
+* [103. 二叉树的锯齿形层次遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/BinaryTreeZigzagLevelOrderTraversal.java)
+* [104. 二叉树的最大深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/MaximumDepthOfBinaryTree.java)
+* [107. 二叉树的层次遍历 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/BinaryTreeLevelOrderTraversal2.java)
+* [109. 有序链表转换二叉搜索树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/ConvertSortedListToBinarySearchTree.java)
+* [111. 二叉树的最小深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/MinimumDepthOfBinaryTree.java)
+* [112. 路径总和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/PathSum.java)
+* [113. 路径总和 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/PathSum2.java)
+* [116. 填充每个节点的下一个右侧节点指针](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/PopulatingNextRightPointersInEachNode.java)
+* [118. 杨辉三角](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/PascalsTriangle.java)
+* [119. 杨辉三角2](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/PascalsTriangle2.java)
+* [120. 三角形最小路径和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/TriangleMiniMumTotal.java)
 
 ## 全部顺序
 
@@ -173,6 +184,17 @@ leetcode 刷题记录
 * [100. 相同的树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/SameTree.java)
 * [101. 对称二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/SymmetricTree.java)
 * [102. 二叉树的层次遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/BinaryTreeLevelOrderTraversal.java)
+* [103. 二叉树的锯齿形层次遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/BinaryTreeZigzagLevelOrderTraversal.java)
+* [104. 二叉树的最大深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/MaximumDepthOfBinaryTree.java)
+* [107. 二叉树的层次遍历 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/BinaryTreeLevelOrderTraversal2.java)
+* [109. 有序链表转换二叉搜索树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/ConvertSortedListToBinarySearchTree.java)
+* [111. 二叉树的最小深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/MinimumDepthOfBinaryTree.java)
+* [112. 路径总和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/PathSum.java)
+* [113. 路径总和 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/PathSum2.java)
+* [116. 填充每个节点的下一个右侧节点指针](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/PopulatingNextRightPointersInEachNode.java)
+* [118. 杨辉三角](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/PascalsTriangle.java)
+* [119. 杨辉三角2](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/PascalsTriangle2.java)
+* [120. 三角形最小路径和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/TriangleMiniMumTotal.java)
 * [343. 整数拆分](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/IntegerBreak.java)
 * [463. 岛屿的周长](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/IsLandPerimeter.java)
 * [714. 买卖股票的最佳时机含手续费](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaxProfit.java)
@@ -190,14 +212,14 @@ leetcode 刷题记录
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
