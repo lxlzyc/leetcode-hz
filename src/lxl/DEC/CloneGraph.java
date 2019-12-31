@@ -47,8 +47,6 @@ public class CloneGraph {
         }
     }
 
-    ;
-
     public Node cloneGraph(Node node) {
         Set<Integer> clones = new HashSet<>();
         HashMap<Integer, Node> map = new HashMap<>();
