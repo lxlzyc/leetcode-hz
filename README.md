@@ -111,6 +111,11 @@ leetcode 刷题记录
 * [125. 验证回文串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/ValidPalindrome.java)
 * [128. 最长连续序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/LongestConsecutiveSequence.java)
 * [129. 求根到叶子节点数字之和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/SumRootToLeafNumbers.java)
+* [133. 克隆图](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/CloneGraph.java)
+* [134. 加油站](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/GasStation.java)
+* [135. 分发糖果](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/Candy.java)
+* [136. 只出现一次的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/SingleNumber.java)
+* [137. 只出现一次的数字 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/SingleNumber2.java)
 
 ## 全部顺序
 
@@ -209,6 +214,11 @@ leetcode 刷题记录
 * [125. 验证回文串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/ValidPalindrome.java)
 * [128. 最长连续序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/LongestConsecutiveSequence.java)
 * [129. 求根到叶子节点数字之和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/SumRootToLeafNumbers.java)
+* [133. 克隆图](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/CloneGraph.java)
+* [134. 加油站](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/GasStation.java)
+* [135. 分发糖果](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/Candy.java)
+* [136. 只出现一次的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/SingleNumber.java)
+* [137. 只出现一次的数字 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/SingleNumber2.java)
 * [343. 整数拆分](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/IntegerBreak.java)
 * [463. 岛屿的周长](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/IsLandPerimeter.java)
 * [714. 买卖股票的最佳时机含手续费](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaxProfit.java)
@@ -216,4 +226,19 @@ leetcode 刷题记录
 * [726. 原子的数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/CountOfAtoms.java)
 * [787. K 站中转内最便宜的航班](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/FindCheapestPrice.java)
 * [1122. 数组的相对排序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/RelativeSortArray.java)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
