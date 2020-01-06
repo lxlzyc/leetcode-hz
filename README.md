@@ -116,6 +116,20 @@ leetcode 刷题记录
 * [135. 分发糖果](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/Candy.java)
 * [136. 只出现一次的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/SingleNumber.java)
 * [137. 只出现一次的数字 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/SingleNumber2.java)
+* [138. 复制带随机指针的链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/CopyListWithRandomPointer.java)
+
+### 2020-01
+
+* [141. 环形链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/LinkedListCycle.java)
+* [142. 环形链表 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/LinkedListCycle2.java)
+* [143. 重排链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ReorderList.java)
+* [144. 二叉树的前序遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/BinaryTreePreorderTraversal.java)
+* [145. 二叉树的后序遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/BinaryTreePostorderTraversal.java)
+* [147. 对链表进行插入排序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/InsertionSortList.java)
+* [148. 排序链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/SortList.java)
+* [150. 逆波兰表达式求值](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/EvaluateReversePolishNotation.java)
+* [151. 翻转字符串里的单词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ReverseWordsInAString.java)
+
 
 ## 全部顺序
 
@@ -219,6 +233,16 @@ leetcode 刷题记录
 * [135. 分发糖果](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/Candy.java)
 * [136. 只出现一次的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/SingleNumber.java)
 * [137. 只出现一次的数字 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/SingleNumber2.java)
+* [138. 复制带随机指针的链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/CopyListWithRandomPointer.java)
+* [141. 环形链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/LinkedListCycle.java)
+* [142. 环形链表 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/LinkedListCycle2.java)
+* [143. 重排链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ReorderList.java)
+* [144. 二叉树的前序遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/BinaryTreePreorderTraversal.java)
+* [145. 二叉树的后序遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/BinaryTreePostorderTraversal.java)
+* [147. 对链表进行插入排序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/InsertionSortList.java)
+* [148. 排序链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/SortList.java)
+* [150. 逆波兰表达式求值](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/EvaluateReversePolishNotation.java)
+* [151. 翻转字符串里的单词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ReverseWordsInAString.java)
 * [343. 整数拆分](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/IntegerBreak.java)
 * [463. 岛屿的周长](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/IsLandPerimeter.java)
 * [714. 买卖股票的最佳时机含手续费](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaxProfit.java)
@@ -230,6 +254,24 @@ leetcode 刷题记录
 
 
 
+
+
+
+
+ 
+ 
+
+ 
+
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
 
 
 
