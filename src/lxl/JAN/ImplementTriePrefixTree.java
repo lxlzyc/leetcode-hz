@@ -108,16 +108,12 @@ public class ImplementTriePrefixTree {
         System.out.println(implementTriePrefixTree.search("apple"));
         System.out.println(implementTriePrefixTree.startsWith("appl"));
         System.out.println("----------------");
-
         System.out.println(implementTriePrefixTree.startsWith("appt"));
         System.out.println(implementTriePrefixTree.startsWith("app"));
         System.out.println(implementTriePrefixTree.startsWith("ad"));
         System.out.println("----------------");
-
         implementTriePrefixTree.insert("addd");
         System.out.println(implementTriePrefixTree.search("mddd"));
         System.out.println(implementTriePrefixTree.startsWith("ad"));
-
-
     }
 }
