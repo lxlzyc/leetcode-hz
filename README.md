@@ -140,6 +140,17 @@ leetcode 刷题记录
 * [171. Excel表列序号](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ExcelSheetColumnNumber.java)
 * [172. 阶乘后的零](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/FactorialTrailingZeroes.java)
 * [173. 二叉搜索树迭代器](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/BSTIterator.java)
+* [174. 地下城游戏](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/DungeonGame.java)
+* [175. 组合两个表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/CombineTtwoTables.sql)
+* [176. 第二高的薪水](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/SecondHighestSalary.sql)
+* [179. 最大数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/LargestNumber.java)
+* [199. 二叉树的右视图](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/BinaryTreeRightSideView.java)
+* [200. 岛屿数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/NumberOfIslands.java)
+* [202. 快乐数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/HappyNumber.java)
+* [203. 移除链表元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/RemoveLinkedListElements.java)
+* [205. 同构字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/IsomorphicStrings.java)
+* [206. 反转链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ReverseLinkedList.java)
+* [208. 实现 Trie (前缀树)](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ImplementTriePrefixTree.java)
 
 ## 全部顺序
 
@@ -264,6 +275,17 @@ leetcode 刷题记录
 * [171. Excel表列序号](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ExcelSheetColumnNumber.java)
 * [172. 阶乘后的零](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/FactorialTrailingZeroes.java)
 * [173. 二叉搜索树迭代器](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/BSTIterator.java)
+* [174. 地下城游戏](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/DungeonGame.java)
+* [175. 组合两个表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/CombineTtwoTables.sql)
+* [176. 第二高的薪水](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/SecondHighestSalary.sql)
+* [179. 最大数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/LargestNumber.java)
+* [199. 二叉树的右视图](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/BinaryTreeRightSideView.java)
+* [200. 岛屿数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/NumberOfIslands.java)
+* [202. 快乐数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/HappyNumber.java)
+* [203. 移除链表元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/RemoveLinkedListElements.java)
+* [205. 同构字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/IsomorphicStrings.java)
+* [206. 反转链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ReverseLinkedList.java)
+* [208. 实现 Trie (前缀树)](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ImplementTriePrefixTree.java)
 * [343. 整数拆分](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/IntegerBreak.java)
 * [463. 岛屿的周长](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/IsLandPerimeter.java)
 * [714. 买卖股票的最佳时机含手续费](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaxProfit.java)
@@ -275,27 +297,29 @@ leetcode 刷题记录
 
 
   
- 
 
-  
-
-  
-
- 
- 
-
- 
-
- 
- 
- 
 
  
   
-
+  
+                      
+  
 
  
+ 
+ 
+ 
+ 
+   
+  
+ 
 
+  
+  
+ 
+ 
+  
+ 
 
  
 
