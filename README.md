@@ -155,6 +155,15 @@ leetcode 刷题记录
 * [215. 数组中的第K个最大元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/KthLargestElementInAnArray.java)
 * [216. 组合总和 III](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/CombinationSum3.java)
 * [217. 存在重复元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ContainsDuplicate.java)
+* [222. 完全二叉树的节点个数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/CountCompleteTreeNodes.java)
+* [223. 矩形面积](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/RectangleArea.java)
+* [225. 用队列实现栈](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ImplementStackUsingQueues.java)
+* [226. 翻转二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/InvertBinaryTree.java)
+* [228. 汇总区间](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/SummaryRanges.java)
+* [230. 二叉搜索树中第K小的元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/KthSmallestElementInABst.java)
+* [231. 2的幂](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/PowerOfTwo.java)
+* [232. 用栈实现队列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ImplementQueueUsingStacks.java)
+* [234. 回文链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/PalindromeLinkedList.java)
 
 ## 全部顺序
 
@@ -294,6 +303,15 @@ leetcode 刷题记录
 * [215. 数组中的第K个最大元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/KthLargestElementInAnArray.java)
 * [216. 组合总和 III](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/CombinationSum3.java)
 * [217. 存在重复元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ContainsDuplicate.java)
+* [222. 完全二叉树的节点个数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/CountCompleteTreeNodes.java)
+* [223. 矩形面积](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/RectangleArea.java)
+* [225. 用队列实现栈](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ImplementStackUsingQueues.java)
+* [226. 翻转二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/InvertBinaryTree.java)
+* [228. 汇总区间](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/SummaryRanges.java)
+* [230. 二叉搜索树中第K小的元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/KthSmallestElementInABst.java)
+* [231. 2的幂](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/PowerOfTwo.java)
+* [232. 用栈实现队列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ImplementQueueUsingStacks.java)
+* [234. 回文链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/PalindromeLinkedList.java)
 * [343. 整数拆分](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/IntegerBreak.java)
 * [463. 岛屿的周长](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/IsLandPerimeter.java)
 * [714. 买卖股票的最佳时机含手续费](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaxProfit.java)
@@ -303,21 +321,24 @@ leetcode 刷题记录
 * [1122. 数组的相对排序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/RelativeSortArray.java)
 
 
- 
 
 
  
+ 
+ 
 
  
-  
+ 
+ 
+   
 
  
                       
   
-
  
  
- 
+  
+  
  
  
    
