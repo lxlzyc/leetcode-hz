@@ -164,7 +164,12 @@ leetcode 刷题记录
 * [231. 2的幂](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/PowerOfTwo.java)
 * [232. 用栈实现队列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ImplementQueueUsingStacks.java)
 * [234. 回文链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/PalindromeLinkedList.java)
-
+* [238. 除自身以外数组的乘积](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ProductOfArrayExceptSelf.java)
+* [240. 搜索二维矩阵 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/SearchA2DMatrix2.java)
+* [242. 有效的字母异位词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ValidAnagram.java)
+* [257. 二叉树的所有路径](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/BinaryTreePaths.java)
+* [268. 缺失数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/MissingNumber.java)
+ 
 ## 全部顺序
 
 * [2. 两数相加](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/AddTwoNumbers.java)
@@ -312,6 +317,11 @@ leetcode 刷题记录
 * [231. 2的幂](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/PowerOfTwo.java)
 * [232. 用栈实现队列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ImplementQueueUsingStacks.java)
 * [234. 回文链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/PalindromeLinkedList.java)
+* [238. 除自身以外数组的乘积](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ProductOfArrayExceptSelf.java)
+* [240. 搜索二维矩阵 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/SearchA2DMatrix2.java)
+* [242. 有效的字母异位词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ValidAnagram.java)
+* [257. 二叉树的所有路径](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/BinaryTreePaths.java)
+* [268. 缺失数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/MissingNumber.java)
 * [343. 整数拆分](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/IntegerBreak.java)
 * [463. 岛屿的周长](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/IsLandPerimeter.java)
 * [714. 买卖股票的最佳时机含手续费](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaxProfit.java)
@@ -323,15 +333,16 @@ leetcode 刷题记录
 
 
 
- 
- 
- 
 
- 
- 
- 
+
+  
    
 
+ 
+  
+ 
+    
+ 
  
                       
   
