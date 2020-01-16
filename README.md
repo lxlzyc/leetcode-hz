@@ -169,7 +169,11 @@ leetcode 刷题记录
 * [242. 有效的字母异位词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ValidAnagram.java)
 * [257. 二叉树的所有路径](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/BinaryTreePaths.java)
 * [268. 缺失数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/MissingNumber.java)
- 
+* [284. 顶端迭代器](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/PeekingIterator.java)
+* [287. 寻找重复数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/FindTheDuplicateNumber.java)
+* [292. Nim 游戏](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/NimGame.java)
+* [299. 猜数字游戏](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/BullsAndCows.java)
+
 ## 全部顺序
 
 * [2. 两数相加](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/AddTwoNumbers.java)
@@ -322,6 +326,10 @@ leetcode 刷题记录
 * [242. 有效的字母异位词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ValidAnagram.java)
 * [257. 二叉树的所有路径](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/BinaryTreePaths.java)
 * [268. 缺失数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/MissingNumber.java)
+* [284. 顶端迭代器](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/PeekingIterator.java)
+* [287. 寻找重复数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/FindTheDuplicateNumber.java)
+* [292. Nim 游戏](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/NimGame.java)
+* [299. 猜数字游戏](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/BullsAndCows.java)
 * [343. 整数拆分](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/IntegerBreak.java)
 * [463. 岛屿的周长](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/IsLandPerimeter.java)
 * [714. 买卖股票的最佳时机含手续费](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaxProfit.java)
@@ -333,29 +341,12 @@ leetcode 刷题记录
 
 
 
-
-
-  
-   
-
- 
-  
- 
-    
- 
- 
-                      
-  
- 
- 
-  
-  
- 
- 
-   
-  
  
 
+ 
+
+ 
+  
   
   
  
