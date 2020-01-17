@@ -173,6 +173,11 @@ leetcode 刷题记录
 * [287. 寻找重复数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/FindTheDuplicateNumber.java)
 * [292. Nim 游戏](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/NimGame.java)
 * [299. 猜数字游戏](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/BullsAndCows.java)
+* [303. 区域和检索 - 数组不可变](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/RangeSumQueryImmutable.java)
+* [304. 二维区域和检索 - 矩阵不可变](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/RangeSumQuery2dImmutable.java)
+* [307. 区域和检索 - 数组可修改](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/RangeSumQueryMutable.java)
+* [309. 最佳买卖股票时机含冷冻期](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/BestTimeToBuyAndSellStockWithCooldown.java)
+
 
 ## 全部顺序
 
@@ -330,6 +335,10 @@ leetcode 刷题记录
 * [287. 寻找重复数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/FindTheDuplicateNumber.java)
 * [292. Nim 游戏](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/NimGame.java)
 * [299. 猜数字游戏](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/BullsAndCows.java)
+* [303. 区域和检索 - 数组不可变](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/RangeSumQueryImmutable.java)
+* [304. 二维区域和检索 - 矩阵不可变](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/RangeSumQuery2dImmutable.java)
+* [307. 区域和检索 - 数组可修改](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/RangeSumQueryMutable.java)
+* [309. 最佳买卖股票时机含冷冻期](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/BestTimeToBuyAndSellStockWithCooldown.java)
 * [343. 整数拆分](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/IntegerBreak.java)
 * [463. 岛屿的周长](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/IsLandPerimeter.java)
 * [714. 买卖股票的最佳时机含手续费](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaxProfit.java)
@@ -338,13 +347,12 @@ leetcode 刷题记录
 * [787. K 站中转内最便宜的航班](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/FindCheapestPrice.java)
 * [1122. 数组的相对排序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/RelativeSortArray.java)
 
-
-
-
  
 
  
 
+  
+ 
  
   
   
