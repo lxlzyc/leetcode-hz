@@ -178,6 +178,12 @@ leetcode 刷题记录
 * [307. 区域和检索 - 数组可修改](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/RangeSumQueryMutable.java)
 * [309. 最佳买卖股票时机含冷冻期](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/BestTimeToBuyAndSellStockWithCooldown.java)
 
+### 2020-02
+
+* [402. 移掉K位数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/FEB/RemoveKDigits.java)
+* [404. 左叶子之和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/FEB/SumOfLeftLeaves.java)
+
+
 
 ## 全部顺序
 
