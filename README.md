@@ -189,7 +189,13 @@ leetcode 刷题记录
 * [409. 最长回文串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/LongestPalindrome.java)
 * [412. Fizz Buzz](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/FizzBuzz.java)
 * [414. 第三大的数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/ThirdMaximumNumber.java)
-
+* [415. 字符串相加](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/AddStrings.java)
+* [416. 分割等和子集](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/PartitionEqualSubsetSum.java)
+* [417. 太平洋大西洋水流问题](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/PacificAtlanticWaterFlow.java)
+* [419. 甲板上的战舰](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/BattleshipsInABoard.java)
+* [423. 从英文中重建数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/ReconstructOriginalDigitsFromEnglish.java)
+* [429. N叉树的层序遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/NAryTreeLevelOrderTraversal.java)
+ 
 ## 全部顺序
 
 * [2. 两数相加](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/AddTwoNumbers.java)
@@ -355,6 +361,12 @@ leetcode 刷题记录
 * [409. 最长回文串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/LongestPalindrome.java)
 * [412. Fizz Buzz](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/FizzBuzz.java)
 * [414. 第三大的数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/ThirdMaximumNumber.java)
+* [415. 字符串相加](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/AddStrings.java)
+* [416. 分割等和子集](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/PartitionEqualSubsetSum.java)
+* [417. 太平洋大西洋水流问题](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/PacificAtlanticWaterFlow.java)
+* [419. 甲板上的战舰](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/BattleshipsInABoard.java)
+* [423. 从英文中重建数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/ReconstructOriginalDigitsFromEnglish.java)
+* [429. N叉树的层序遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/NAryTreeLevelOrderTraversal.java)
 * [463. 岛屿的周长](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/IsLandPerimeter.java)
 * [714. 买卖股票的最佳时机含手续费](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaxProfit.java)
 * [724. 寻找数组的中心索引](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/PivotIndex.java)
@@ -363,15 +375,6 @@ leetcode 刷题记录
 * [1122. 数组的相对排序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/RelativeSortArray.java)
 
  
-
- 
-
-
- 
- 
-  
- 
-
  
 
   
