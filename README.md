@@ -195,7 +195,14 @@ leetcode 刷题记录
 * [419. 甲板上的战舰](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/BattleshipsInABoard.java)
 * [423. 从英文中重建数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/ReconstructOriginalDigitsFromEnglish.java)
 * [429. N叉树的层序遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/NAryTreeLevelOrderTraversal.java)
- 
+* [434. 字符串中的单词数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/NumberOfSegmentsInAString.java)
+* [437. 路径总和 III](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/PathSumiii.java)
+* [441. 排列硬币](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/ArrangingCoins.java)
+* [442. 数组中重复的数据](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/FindAllDuplicatesInAnArray.java)
+* [443. 压缩字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/StringCompression.java)
+* [445. 两数相加 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/AddTwoNumbersii.java)
+* [448. 找到所有数组中消失的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/FindAllNumbersDisappearedInAnArray.java)
+  
 ## 全部顺序
 
 * [2. 两数相加](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/AddTwoNumbers.java)
@@ -367,20 +374,17 @@ leetcode 刷题记录
 * [419. 甲板上的战舰](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/BattleshipsInABoard.java)
 * [423. 从英文中重建数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/ReconstructOriginalDigitsFromEnglish.java)
 * [429. N叉树的层序遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/NAryTreeLevelOrderTraversal.java)
+* [434. 字符串中的单词数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/NumberOfSegmentsInAString.java)
+* [437. 路径总和 III](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/PathSumiii.java)
+* [441. 排列硬币](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/ArrangingCoins.java)
+* [442. 数组中重复的数据](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/FindAllDuplicatesInAnArray.java)
+* [443. 压缩字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/StringCompression.java)
+* [445. 两数相加 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/AddTwoNumbersii.java)
+* [448. 找到所有数组中消失的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/FindAllNumbersDisappearedInAnArray.java)
 * [463. 岛屿的周长](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/IsLandPerimeter.java)
 * [714. 买卖股票的最佳时机含手续费](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaxProfit.java)
 * [724. 寻找数组的中心索引](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/PivotIndex.java)
 * [726. 原子的数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/CountOfAtoms.java)
 * [787. K 站中转内最便宜的航班](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/FindCheapestPrice.java)
 * [1122. 数组的相对排序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/RelativeSortArray.java)
-
- 
- 
-
-  
-
- 
-
-
-
 
