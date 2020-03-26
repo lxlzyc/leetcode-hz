@@ -202,7 +202,11 @@ leetcode 刷题记录
 * [443. 压缩字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/StringCompression.java)
 * [445. 两数相加 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/AddTwoNumbersii.java)
 * [448. 找到所有数组中消失的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/FindAllNumbersDisappearedInAnArray.java)
-  
+* [449. 序列化和反序列化二叉搜索树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/SerializeAndDeserializeBst.java)
+* [450. 删除二叉搜索树中的节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/DeleteNodeInABst.java)
+* [451. 根据字符出现频率排序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/SortCharactersByFrequency.java)
+* [999. 车的可用捕获量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/AvailableCapturesForRook.java)
+
 ## 全部顺序
 
 * [2. 两数相加](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/AddTwoNumbers.java)
@@ -381,10 +385,17 @@ leetcode 刷题记录
 * [443. 压缩字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/StringCompression.java)
 * [445. 两数相加 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/AddTwoNumbersii.java)
 * [448. 找到所有数组中消失的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/FindAllNumbersDisappearedInAnArray.java)
+* [449. 序列化和反序列化二叉搜索树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/SerializeAndDeserializeBst.java)
+* [450. 删除二叉搜索树中的节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/DeleteNodeInABst.java)
+* [451. 根据字符出现频率排序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/SortCharactersByFrequency.java)
 * [463. 岛屿的周长](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/IsLandPerimeter.java)
 * [714. 买卖股票的最佳时机含手续费](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaxProfit.java)
 * [724. 寻找数组的中心索引](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/PivotIndex.java)
 * [726. 原子的数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/CountOfAtoms.java)
 * [787. K 站中转内最便宜的航班](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/FindCheapestPrice.java)
+* [999. 车的可用捕获量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/AvailableCapturesForRook.java)
 * [1122. 数组的相对排序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/RelativeSortArray.java)
 
+
+
+ 
