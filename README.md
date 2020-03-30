@@ -205,7 +205,12 @@ leetcode 刷题记录
 * [449. 序列化和反序列化二叉搜索树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/SerializeAndDeserializeBst.java)
 * [450. 删除二叉搜索树中的节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/DeleteNodeInABst.java)
 * [451. 根据字符出现频率排序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/SortCharactersByFrequency.java)
+* [452. 用最少数量的箭引爆气球](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/MinimumNumberOfArrowsToBurstBalloons.java)
+* [453. 最小移动次数使数组元素相等](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/MinimumMovesToEqualArrayElements.java)
+* [456. 132模式](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/Find132pattern.java)
 * [999. 车的可用捕获量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/AvailableCapturesForRook.java)
+
+* [面试题62. 圆圈中最后剩下的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/lastRemaining.java)
 
 ## 全部顺序
 
@@ -388,6 +393,9 @@ leetcode 刷题记录
 * [449. 序列化和反序列化二叉搜索树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/SerializeAndDeserializeBst.java)
 * [450. 删除二叉搜索树中的节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/DeleteNodeInABst.java)
 * [451. 根据字符出现频率排序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/SortCharactersByFrequency.java)
+* [452. 用最少数量的箭引爆气球](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/MinimumNumberOfArrowsToBurstBalloons.java)
+* [453. 最小移动次数使数组元素相等](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/MinimumMovesToEqualArrayElements.java)
+* [456. 132模式](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/Find132pattern.java)
 * [463. 岛屿的周长](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/IsLandPerimeter.java)
 * [714. 买卖股票的最佳时机含手续费](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaxProfit.java)
 * [724. 寻找数组的中心索引](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/PivotIndex.java)
@@ -396,6 +404,5 @@ leetcode 刷题记录
 * [999. 车的可用捕获量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/AvailableCapturesForRook.java)
 * [1122. 数组的相对排序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/RelativeSortArray.java)
 
-
-
+* [面试题62. 圆圈中最后剩下的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/lastRemaining.java)
  
