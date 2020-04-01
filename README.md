@@ -213,8 +213,14 @@ leetcode 刷题记录
 * [462. 最少移动次数使数组元素相等 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/MinimumMovesToEqualArrayElementsii.java)
 * [912. 排序数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/SortAnArray.java)
 * [999. 车的可用捕获量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/AvailableCapturesForRook.java)
-
 * [面试题62. 圆圈中最后剩下的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/lastRemaining.java)
+
+### 2020-04
+
+* [467. 环绕字符串中唯一的子字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/UniqueSubstringsInWraparoundString.java)
+* [468. 验证IP地址](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ValidateIpAddress.java)
+* [470. 用 Rand7() 实现 Rand10()](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ImplementRand10UsingRand7.java)
+* [1111. 有效括号的嵌套深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MaximumNestingDepthOfTwoValidParenthesesStrings.java)
 
 ## 全部顺序
 
@@ -404,13 +410,21 @@ leetcode 刷题记录
 * [461. 汉明距离](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/HammingDistance.java)
 * [462. 最少移动次数使数组元素相等 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/MinimumMovesToEqualArrayElementsii.java)
 * [463. 岛屿的周长](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/IsLandPerimeter.java)
+* [467. 环绕字符串中唯一的子字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/UniqueSubstringsInWraparoundString.java)
+* [468. 验证IP地址](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ValidateIpAddress.java)
+* [470. 用 Rand7() 实现 Rand10()](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ImplementRand10UsingRand7.java)
 * [714. 买卖股票的最佳时机含手续费](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaxProfit.java)
 * [724. 寻找数组的中心索引](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/PivotIndex.java)
 * [726. 原子的数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/CountOfAtoms.java)
 * [787. K 站中转内最便宜的航班](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/FindCheapestPrice.java)
 * [912. 排序数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/SortAnArray.java)
 * [999. 车的可用捕获量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/AvailableCapturesForRook.java)
+* [1111. 有效括号的嵌套深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MaximumNestingDepthOfTwoValidParenthesesStrings.java)
 * [1122. 数组的相对排序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/RelativeSortArray.java)
 
 * [面试题62. 圆圈中最后剩下的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/lastRemaining.java)
  
+
+   
+
+
