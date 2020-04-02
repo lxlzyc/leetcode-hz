@@ -217,10 +217,15 @@ leetcode 刷题记录
 
 ### 2020-04
 
+* [289. 生命游戏](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/GameOfLife.java)
 * [467. 环绕字符串中唯一的子字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/UniqueSubstringsInWraparoundString.java)
 * [468. 验证IP地址](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ValidateIpAddress.java)
 * [470. 用 Rand7() 实现 Rand10()](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ImplementRand10UsingRand7.java)
+* [473. 火柴拼正方形](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MatchsticksToSquare.java)
+* [475. 供暖器](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/Heaters.java)
+* [476. 数字的补数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/NumberComplement.java)
 * [1111. 有效括号的嵌套深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MaximumNestingDepthOfTwoValidParenthesesStrings.java)
+
 
 ## 全部顺序
 
@@ -376,6 +381,7 @@ leetcode 刷题记录
 * [268. 缺失数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/MissingNumber.java)
 * [284. 顶端迭代器](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/PeekingIterator.java)
 * [287. 寻找重复数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/FindTheDuplicateNumber.java)
+* [289. 生命游戏](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/GameOfLife.java)
 * [292. Nim 游戏](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/NimGame.java)
 * [299. 猜数字游戏](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/BullsAndCows.java)
 * [303. 区域和检索 - 数组不可变](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/RangeSumQueryImmutable.java)
@@ -413,6 +419,9 @@ leetcode 刷题记录
 * [467. 环绕字符串中唯一的子字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/UniqueSubstringsInWraparoundString.java)
 * [468. 验证IP地址](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ValidateIpAddress.java)
 * [470. 用 Rand7() 实现 Rand10()](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ImplementRand10UsingRand7.java)
+* [473. 火柴拼正方形](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MatchsticksToSquare.java)
+* [475. 供暖器](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/Heaters.java)
+* [476. 数字的补数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/NumberComplement.java)
 * [714. 买卖股票的最佳时机含手续费](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaxProfit.java)
 * [724. 寻找数组的中心索引](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/PivotIndex.java)
 * [726. 原子的数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/CountOfAtoms.java)
@@ -423,8 +432,5 @@ leetcode 刷题记录
 * [1122. 数组的相对排序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/RelativeSortArray.java)
 
 * [面试题62. 圆圈中最后剩下的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/lastRemaining.java)
+
  
-
-   
-
-
