@@ -217,6 +217,7 @@ leetcode 刷题记录
 
 ### 2020-04
 
+* [8. 字符串转换整数 (atoi)](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/StringToIntegerAtoi.java)
 * [289. 生命游戏](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/GameOfLife.java)
 * [467. 环绕字符串中唯一的子字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/UniqueSubstringsInWraparoundString.java)
 * [468. 验证IP地址](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ValidateIpAddress.java)
@@ -224,8 +225,10 @@ leetcode 刷题记录
 * [473. 火柴拼正方形](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MatchsticksToSquare.java)
 * [475. 供暖器](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/Heaters.java)
 * [476. 数字的补数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/NumberComplement.java)
+* [477. 汉明距离总和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/TotalHammingDistance.java)
+* [478. 在圆内随机生成点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/GenerateRandomPointInACircle.java)
+* [482. 密钥格式化](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/LicenseKeyFormatting.java)
 * [1111. 有效括号的嵌套深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MaximumNestingDepthOfTwoValidParenthesesStrings.java)
-
 
 ## 全部顺序
 
@@ -233,6 +236,7 @@ leetcode 刷题记录
 * [3. 无重复字符的最长子串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/LongestSubstringWithoutRep.java)
 * [6. Z 字形变换](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/ZigzagConversion.java)
 * [7. 整数反转](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/ReverseInteger.java)
+* [8. 字符串转换整数 (atoi)](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/StringToIntegerAtoi.java)
 * [9. 回文数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/PalindromeNumber.java)
 * [11. 盛最多水的容器](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/ContainerWithMostWater.java)
 * [12. 整数转罗马数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/IntegerToRoman.java)
@@ -422,6 +426,9 @@ leetcode 刷题记录
 * [473. 火柴拼正方形](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MatchsticksToSquare.java)
 * [475. 供暖器](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/Heaters.java)
 * [476. 数字的补数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/NumberComplement.java)
+* [477. 汉明距离总和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/TotalHammingDistance.java)
+* [478. 在圆内随机生成点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/GenerateRandomPointInACircle.java)
+* [482. 密钥格式化](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/LicenseKeyFormatting.java)
 * [714. 买卖股票的最佳时机含手续费](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaxProfit.java)
 * [724. 寻找数组的中心索引](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/PivotIndex.java)
 * [726. 原子的数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/CountOfAtoms.java)
@@ -433,4 +440,8 @@ leetcode 刷题记录
 
 * [面试题62. 圆圈中最后剩下的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/lastRemaining.java)
 
+
+
  
+
+
