@@ -218,6 +218,7 @@ leetcode 刷题记录
 ### 2020-04
 
 * [8. 字符串转换整数 (atoi)](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/StringToIntegerAtoi.java)
+* [72. 编辑距离](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/EditDistance.java)
 * [289. 生命游戏](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/GameOfLife.java)
 * [467. 环绕字符串中唯一的子字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/UniqueSubstringsInWraparoundString.java)
 * [468. 验证IP地址](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ValidateIpAddress.java)
@@ -228,7 +229,14 @@ leetcode 刷题记录
 * [477. 汉明距离总和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/TotalHammingDistance.java)
 * [478. 在圆内随机生成点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/GenerateRandomPointInACircle.java)
 * [482. 密钥格式化](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/LicenseKeyFormatting.java)
+* [485. 最大连续1的个数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MaxConsecutiveOnes.java)
+* [495. 提莫攻击](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/TeemoAttacking.java)
+* [492. 构造矩形](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ConstructTheRectangle.java)
+* [491. 递增子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/IncreasingSubsequences.java)
+* [496. 下一个更大元素 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/NextGreaterElementi.java)
+* [497. 非重叠矩形中的随机点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/RandomPointInNonOverlappingRectangles.java)
 * [1111. 有效括号的嵌套深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MaximumNestingDepthOfTwoValidParenthesesStrings.java)
+* [面试题13. 机器人的运动范围](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MovingCount.java)
 
 ## 全部顺序
 
@@ -289,6 +297,7 @@ leetcode 刷题记录
 * [68. 文本左右对齐](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/TextJustTification.java)
 * [70. 爬楼梯](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/ClimbingStairs.java)
 * [71. 简化路径](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/SimplifyPath.java)
+* [72. 编辑距离](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/EditDistance.java)
 * [73. 矩阵置零](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/SetMatrixZeroes.java)
 * [74. 搜索二维矩阵](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/SearchA2DMatrix.java)
 * [75. 颜色分类](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/SortColor.java)
@@ -429,6 +438,12 @@ leetcode 刷题记录
 * [477. 汉明距离总和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/TotalHammingDistance.java)
 * [478. 在圆内随机生成点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/GenerateRandomPointInACircle.java)
 * [482. 密钥格式化](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/LicenseKeyFormatting.java)
+* [485. 最大连续1的个数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MaxConsecutiveOnes.java)
+* [495. 提莫攻击](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/TeemoAttacking.java)
+* [492. 构造矩形](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ConstructTheRectangle.java)
+* [491. 递增子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/IncreasingSubsequences.java)
+* [496. 下一个更大元素 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/NextGreaterElementi.java)
+* [497. 非重叠矩形中的随机点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/RandomPointInNonOverlappingRectangles.java)
 * [714. 买卖股票的最佳时机含手续费](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaxProfit.java)
 * [724. 寻找数组的中心索引](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/PivotIndex.java)
 * [726. 原子的数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/CountOfAtoms.java)
@@ -438,10 +453,11 @@ leetcode 刷题记录
 * [1111. 有效括号的嵌套深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MaximumNestingDepthOfTwoValidParenthesesStrings.java)
 * [1122. 数组的相对排序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/RelativeSortArray.java)
 
+
+* [面试题13. 机器人的运动范围](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MovingCount.java)
 * [面试题62. 圆圈中最后剩下的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/lastRemaining.java)
 
 
 
- 
 
 
