@@ -235,6 +235,9 @@ leetcode 刷题记录
 * [491. 递增子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/IncreasingSubsequences.java)
 * [496. 下一个更大元素 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/NextGreaterElementi.java)
 * [497. 非重叠矩形中的随机点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/RandomPointInNonOverlappingRectangles.java)
+* [498. 对角线遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/DiagonalTraverse.java)
+* [500. 键盘行](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/KeyboardRow.java)
+* [501. 二叉搜索树中的众数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/FindModeInBinarySearchTree.java)
 * [1111. 有效括号的嵌套深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MaximumNestingDepthOfTwoValidParenthesesStrings.java)
 * [面试题13. 机器人的运动范围](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MovingCount.java)
 
@@ -444,6 +447,9 @@ leetcode 刷题记录
 * [491. 递增子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/IncreasingSubsequences.java)
 * [496. 下一个更大元素 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/NextGreaterElementi.java)
 * [497. 非重叠矩形中的随机点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/RandomPointInNonOverlappingRectangles.java)
+* [498. 对角线遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/DiagonalTraverse.java)
+* [500. 键盘行](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/KeyboardRow.java)
+* [501. 二叉搜索树中的众数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/FindModeInBinarySearchTree.java)
 * [714. 买卖股票的最佳时机含手续费](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaxProfit.java)
 * [724. 寻找数组的中心索引](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/PivotIndex.java)
 * [726. 原子的数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/CountOfAtoms.java)
@@ -459,5 +465,8 @@ leetcode 刷题记录
 
 
 
+ 
+ 
+ 
 
 
