@@ -238,6 +238,9 @@ leetcode 刷题记录
 * [498. 对角线遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/DiagonalTraverse.java)
 * [500. 键盘行](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/KeyboardRow.java)
 * [501. 二叉搜索树中的众数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/FindModeInBinarySearchTree.java)
+* [503. 下一个更大元素 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/NextGreaterElementii.java)
+* [504. 七进制数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ConvertToBase7.java)
+* [506. 相对名次](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/RelativeRanks.java)
 * [1111. 有效括号的嵌套深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MaximumNestingDepthOfTwoValidParenthesesStrings.java)
 * [面试题13. 机器人的运动范围](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MovingCount.java)
 
