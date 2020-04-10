@@ -450,6 +450,9 @@ leetcode 刷题记录
 * [498. 对角线遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/DiagonalTraverse.java)
 * [500. 键盘行](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/KeyboardRow.java)
 * [501. 二叉搜索树中的众数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/FindModeInBinarySearchTree.java)
+* [503. 下一个更大元素 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/NextGreaterElementii.java)
+* [504. 七进制数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ConvertToBase7.java)
+* [506. 相对名次](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/RelativeRanks.java)
 * [714. 买卖股票的最佳时机含手续费](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaxProfit.java)
 * [724. 寻找数组的中心索引](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/PivotIndex.java)
 * [726. 原子的数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/CountOfAtoms.java)
@@ -466,6 +469,8 @@ leetcode 刷题记录
 
 
  
+ 
+  
  
  
 
