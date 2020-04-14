@@ -248,6 +248,8 @@ leetcode 刷题记录
 * [521. 最长特殊序列 Ⅰ](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/LongestUncommonSubsequencei.java)
 * [530. 二叉搜索树的最小绝对差](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MinimumAbsoluteDifferenceInBst.java)
 * [532. 数组中的K-diff数对](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/KDiffPairsInAnArray.java)
+* [538. 把二叉搜索树转换为累加树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ConvertBstToGreaterTree.java)
+* [541. 反转字符串 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ReverseStringii.java)
 * [1111. 有效括号的嵌套深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MaximumNestingDepthOfTwoValidParenthesesStrings.java)
 * [面试题13. 机器人的运动范围](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MovingCount.java)
 
@@ -470,6 +472,8 @@ leetcode 刷题记录
 * [521. 最长特殊序列 Ⅰ](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/LongestUncommonSubsequencei.java)
 * [530. 二叉搜索树的最小绝对差](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MinimumAbsoluteDifferenceInBst.java)
 * [532. 数组中的K-diff数对](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/KDiffPairsInAnArray.java)
+* [538. 把二叉搜索树转换为累加树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ConvertBstToGreaterTree.java)
+* [541. 反转字符串 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ReverseStringii.java)
 * [714. 买卖股票的最佳时机含手续费](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaxProfit.java)
 * [724. 寻找数组的中心索引](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/PivotIndex.java)
 * [726. 原子的数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/CountOfAtoms.java)
@@ -483,11 +487,10 @@ leetcode 刷题记录
 * [面试题13. 机器人的运动范围](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MovingCount.java)
 * [面试题62. 圆圈中最后剩下的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/lastRemaining.java)
 
+ 
+ 
 
- 
-  
- 
-  
+   
   
  
  
