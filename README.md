@@ -248,9 +248,12 @@ leetcode 刷题记录
 * [515. 在每个树行中找最大值](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/FindLargestValueInEachTreeRow.java)
 * [520. 检测大写字母](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/DetectCapital.java)
 * [521. 最长特殊序列 Ⅰ](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/LongestUncommonSubsequencei.java)
+* [528. 按权重随机选择](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/RandomPickWithWeight.java) 
 * [530. 二叉搜索树的最小绝对差](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MinimumAbsoluteDifferenceInBst.java)
 * [532. 数组中的K-diff数对](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/KDiffPairsInAnArray.java)
+* [535. TinyURL 的加密与解密](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/EncodeAndDecodeTinyurl.java)
 * [538. 把二叉搜索树转换为累加树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ConvertBstToGreaterTree.java)
+* [539. 最小时间差](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MinimumTimeDifference.java)
 * [541. 反转字符串 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ReverseStringii.java)
 * [542. 01 矩阵](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ZeroOneMatrix.java)
 * [1111. 有效括号的嵌套深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MaximumNestingDepthOfTwoValidParenthesesStrings.java)
@@ -475,9 +478,12 @@ leetcode 刷题记录
 * [515. 在每个树行中找最大值](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/FindLargestValueInEachTreeRow.java)
 * [520. 检测大写字母](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/DetectCapital.java)
 * [521. 最长特殊序列 Ⅰ](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/LongestUncommonSubsequencei.java)
+* [528. 按权重随机选择](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/RandomPickWithWeight.java) 
 * [530. 二叉搜索树的最小绝对差](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MinimumAbsoluteDifferenceInBst.java)
 * [532. 数组中的K-diff数对](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/KDiffPairsInAnArray.java)
+* [535. TinyURL 的加密与解密](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/EncodeAndDecodeTinyurl.java)
 * [538. 把二叉搜索树转换为累加树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ConvertBstToGreaterTree.java)
+* [539. 最小时间差](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MinimumTimeDifference.java)
 * [541. 反转字符串 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ReverseStringii.java)
 * [542. 01 矩阵](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ZeroOneMatrix.java)
 * [714. 买卖股票的最佳时机含手续费](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaxProfit.java)
@@ -494,8 +500,8 @@ leetcode 刷题记录
 * [面试题62. 圆圈中最后剩下的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/lastRemaining.java)
 
 
- 
- 
+
+
  
 
    
