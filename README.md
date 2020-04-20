@@ -259,6 +259,12 @@ leetcode 刷题记录
 * [542. 01 矩阵](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ZeroOneMatrix.java)
 * [540. 有序数组中的单一元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/SingleElementInASortedArray.java)
 * [543. 二叉树的直径](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/DiameterOfBinaryTree.java)
+* [547. 朋友圈](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/FriendCircles.java)
+* [551. 学生出勤记录 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/StudentAttendanceRecordI.java)
+* [554.砖墙](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/BrickWall.java)
+* [560. 和为K的子数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/SubarraySumEqualsk.java)
+* [557. 反转字符串中的单词 III](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ReverseWordsInAStringIII.java)
+* [559. N叉树的最大深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MaximumDepthOfNAryTree.java)
 * [1111. 有效括号的嵌套深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MaximumNestingDepthOfTwoValidParenthesesStrings.java)
 * [面试题13. 机器人的运动范围](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MovingCount.java)
 
@@ -492,6 +498,12 @@ leetcode 刷题记录
 * [542. 01 矩阵](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ZeroOneMatrix.java)
 * [540. 有序数组中的单一元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/SingleElementInASortedArray.java)
 * [543. 二叉树的直径](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/DiameterOfBinaryTree.java)
+* [547. 朋友圈](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/FriendCircles.java)
+* [551. 学生出勤记录 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/StudentAttendanceRecordI.java)
+* [554.砖墙](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/BrickWall.java)
+* [560. 和为K的子数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/SubarraySumEqualsk.java)
+* [557. 反转字符串中的单词 III](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ReverseWordsInAStringIII.java)
+* [559. N叉树的最大深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MaximumDepthOfNAryTree.java)
 * [714. 买卖股票的最佳时机含手续费](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaxProfit.java)
 * [724. 寻找数组的中心索引](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/PivotIndex.java)
 * [726. 原子的数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/CountOfAtoms.java)
@@ -507,6 +519,12 @@ leetcode 刷题记录
 
 
 
+ 
+ 
+ 
+ 
+  
+ 
  
 
    
