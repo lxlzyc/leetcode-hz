@@ -265,7 +265,10 @@ leetcode 刷题记录
 * [560. 和为K的子数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/SubarraySumEqualsk.java)
 * [557. 反转字符串中的单词 III](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ReverseWordsInAStringIII.java)
 * [559. N叉树的最大深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MaximumDepthOfNAryTree.java)
+* [561. 数组拆分 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ArrayPartitioni.java)
+* [563. 二叉树的坡度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/BinaryTreeTilt.java)
 * [1111. 有效括号的嵌套深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MaximumNestingDepthOfTwoValidParenthesesStrings.java)
+* [1248. 统计「优美子数组」](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/CountNumberOfNiceSubarrays.java)
 * [面试题13. 机器人的运动范围](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MovingCount.java)
 
 ## 全部顺序
@@ -504,6 +507,8 @@ leetcode 刷题记录
 * [560. 和为K的子数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/SubarraySumEqualsk.java)
 * [557. 反转字符串中的单词 III](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ReverseWordsInAStringIII.java)
 * [559. N叉树的最大深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MaximumDepthOfNAryTree.java)
+* [561. 数组拆分 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ArrayPartitioni.java)
+* [563. 二叉树的坡度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/BinaryTreeTilt.java)
 * [714. 买卖股票的最佳时机含手续费](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaxProfit.java)
 * [724. 寻找数组的中心索引](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/PivotIndex.java)
 * [726. 原子的数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/CountOfAtoms.java)
@@ -512,6 +517,7 @@ leetcode 刷题记录
 * [999. 车的可用捕获量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/AvailableCapturesForRook.java)
 * [1111. 有效括号的嵌套深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MaximumNestingDepthOfTwoValidParenthesesStrings.java)
 * [1122. 数组的相对排序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/RelativeSortArray.java)
+* [1248. 统计「优美子数组」](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/CountNumberOfNiceSubarrays.java)
 
 
 * [面试题13. 机器人的运动范围](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MovingCount.java)
@@ -519,6 +525,9 @@ leetcode 刷题记录
 
 
 
+ 
+ 
+ 
  
  
  
