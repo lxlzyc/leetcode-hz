@@ -270,9 +270,13 @@ leetcode 刷题记录
 * [565. 数组嵌套](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ArrayNesting.java)
 * [566. 重塑矩阵](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ReshapeTheMatrix.java)
 * [567. 字符串的排列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/PermutationInString.java)
+* [572. 另一个树的子树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/SubtreeOfAnotherTree.java)
+* [575. 分糖果](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/DistributeCandies.java)
+* [583. 两个字符串的删除操作](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/DeleteOperationForTwoStrings.java)
 * [1111. 有效括号的嵌套深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MaximumNestingDepthOfTwoValidParenthesesStrings.java)
 * [1248. 统计「优美子数组」](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/CountNumberOfNiceSubarrays.java)
 * [面试题13. 机器人的运动范围](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MovingCount.java)
+* [面试题 08.11. 硬币](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/CoinLcci.java)
 
 ## 全部顺序
 
@@ -515,6 +519,9 @@ leetcode 刷题记录
 * [565. 数组嵌套](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ArrayNesting.java)
 * [566. 重塑矩阵](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ReshapeTheMatrix.java)
 * [567. 字符串的排列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/PermutationInString.java)
+* [572. 另一个树的子树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/SubtreeOfAnotherTree.java)
+* [575. 分糖果](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/DistributeCandies.java)
+* [583. 两个字符串的删除操作](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/DeleteOperationForTwoStrings.java)
 * [714. 买卖股票的最佳时机含手续费](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaxProfit.java)
 * [724. 寻找数组的中心索引](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/PivotIndex.java)
 * [726. 原子的数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/CountOfAtoms.java)
@@ -528,6 +535,9 @@ leetcode 刷题记录
 
 * [面试题13. 机器人的运动范围](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MovingCount.java)
 * [面试题62. 圆圈中最后剩下的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/lastRemaining.java)
+* [面试题 08.11. 硬币](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/CoinLcci.java)
+
+
 
 
 
