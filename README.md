@@ -275,6 +275,9 @@ leetcode 刷题记录
 * [581. 最短无序连续子数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ShortestUnsortedContinuousSubarray.java)
 * [583. 两个字符串的删除操作](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/DeleteOperationForTwoStrings.java)
 * [589. N叉树的前序遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/NAryTreePreorderTraversal.java)
+* [590. N叉树的后序遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/NAryTreePostorderTraversal.java)
+* [593. 有效的正方形](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ValidSquare.java)
+* [594. 最长和谐子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/LongestHarmoniousSubsequence.java)
 * [1111. 有效括号的嵌套深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MaximumNestingDepthOfTwoValidParenthesesStrings.java)
 * [1248. 统计「优美子数组」](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/CountNumberOfNiceSubarrays.java)
 * [面试题13. 机器人的运动范围](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MovingCount.java)
@@ -527,6 +530,9 @@ leetcode 刷题记录
 * [581. 最短无序连续子数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ShortestUnsortedContinuousSubarray.java)
 * [583. 两个字符串的删除操作](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/DeleteOperationForTwoStrings.java)
 * [589. N叉树的前序遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/NAryTreePreorderTraversal.java)
+* [590. N叉树的后序遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/NAryTreePostorderTraversal.java)
+* [593. 有效的正方形](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ValidSquare.java)
+* [594. 最长和谐子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/LongestHarmoniousSubsequence.java)
 * [714. 买卖股票的最佳时机含手续费](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaxProfit.java)
 * [724. 寻找数组的中心索引](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/PivotIndex.java)
 * [726. 原子的数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/CountOfAtoms.java)
@@ -545,7 +551,11 @@ leetcode 刷题记录
 
 
  
+ 
+ 
+ 
 
+ 
  
 
 
