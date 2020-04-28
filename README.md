@@ -278,10 +278,16 @@ leetcode 刷题记录
 * [590. N叉树的后序遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/NAryTreePostorderTraversal.java)
 * [593. 有效的正方形](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ValidSquare.java)
 * [594. 最长和谐子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/LongestHarmoniousSubsequence.java)
+* [598. 范围求和 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/RangeAdditionii.java)
+* [599. 两个列表的最小索引总和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MinimumIndexSumOfTwoLists.java)
+* [605. 种花问题](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/CanPlaceFlowers.java)
+* [609. 在系统中查找重复文件](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/FindDuplicateFileInSystem.java)
+* [611. 有效三角形的个数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ValidTriangleNumber.java)
 * [1111. 有效括号的嵌套深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MaximumNestingDepthOfTwoValidParenthesesStrings.java)
 * [1248. 统计「优美子数组」](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/CountNumberOfNiceSubarrays.java)
 * [面试题13. 机器人的运动范围](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MovingCount.java)
 * [面试题51. 数组中的逆序对](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ReversePairs.java)
+* [面试题56 - I. 数组中数字出现的次数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/SingleNumbers.java)
 * [面试题 08.11. 硬币](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/CoinLcci.java)
 
 ## 全部顺序
@@ -533,6 +539,11 @@ leetcode 刷题记录
 * [590. N叉树的后序遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/NAryTreePostorderTraversal.java)
 * [593. 有效的正方形](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ValidSquare.java)
 * [594. 最长和谐子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/LongestHarmoniousSubsequence.java)
+* [598. 范围求和 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/RangeAdditionii.java)
+* [599. 两个列表的最小索引总和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MinimumIndexSumOfTwoLists.java)
+* [605. 种花问题](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/CanPlaceFlowers.java)
+* [609. 在系统中查找重复文件](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/FindDuplicateFileInSystem.java)
+* [611. 有效三角形的个数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ValidTriangleNumber.java)
 * [714. 买卖股票的最佳时机含手续费](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaxProfit.java)
 * [724. 寻找数组的中心索引](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/PivotIndex.java)
 * [726. 原子的数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/CountOfAtoms.java)
@@ -546,17 +557,12 @@ leetcode 刷题记录
 
 * [面试题13. 机器人的运动范围](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MovingCount.java)
 * [面试题51. 数组中的逆序对](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ReversePairs.java)
+* [面试题56 - I. 数组中数字出现的次数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/SingleNumbers.java)
 * [面试题62. 圆圈中最后剩下的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/lastRemaining.java)
 * [面试题 08.11. 硬币](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/CoinLcci.java)
 
 
- 
- 
- 
- 
 
- 
- 
 
 
  
