@@ -283,6 +283,9 @@ leetcode 刷题记录
 * [605. 种花问题](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/CanPlaceFlowers.java)
 * [609. 在系统中查找重复文件](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/FindDuplicateFileInSystem.java)
 * [611. 有效三角形的个数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ValidTriangleNumber.java)
+* [617. 合并二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MergeTwoBinaryTrees.java)
+* [621. 任务调度器](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/TaskScheduler.java)
+* [1095. 山脉数组中查找目标值](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/FindinMountainArray.java)
 * [1111. 有效括号的嵌套深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MaximumNestingDepthOfTwoValidParenthesesStrings.java)
 * [1248. 统计「优美子数组」](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/CountNumberOfNiceSubarrays.java)
 * [面试题13. 机器人的运动范围](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MovingCount.java)
@@ -544,12 +547,15 @@ leetcode 刷题记录
 * [605. 种花问题](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/CanPlaceFlowers.java)
 * [609. 在系统中查找重复文件](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/FindDuplicateFileInSystem.java)
 * [611. 有效三角形的个数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ValidTriangleNumber.java)
+* [617. 合并二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MergeTwoBinaryTrees.java)
+* [621. 任务调度器](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/TaskScheduler.java)
 * [714. 买卖股票的最佳时机含手续费](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaxProfit.java)
 * [724. 寻找数组的中心索引](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/PivotIndex.java)
 * [726. 原子的数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/CountOfAtoms.java)
 * [787. K 站中转内最便宜的航班](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/FindCheapestPrice.java)
 * [912. 排序数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/SortAnArray.java)
 * [999. 车的可用捕获量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/AvailableCapturesForRook.java)
+* [1095. 山脉数组中查找目标值](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/FindinMountainArray.java)
 * [1111. 有效括号的嵌套深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MaximumNestingDepthOfTwoValidParenthesesStrings.java)
 * [1122. 数组的相对排序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/RelativeSortArray.java)
 * [1248. 统计「优美子数组」](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/CountNumberOfNiceSubarrays.java)
@@ -561,14 +567,7 @@ leetcode 刷题记录
 * [面试题62. 圆圈中最后剩下的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/lastRemaining.java)
 * [面试题 08.11. 硬币](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/CoinLcci.java)
 
-
-
-
-
  
- 
- 
-
  
  
  
