@@ -298,6 +298,10 @@ leetcode 刷题记录
 
 ### 2020-05
 
+* [646. 最长数对链](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/MaximumLengthOfPairChain.java)
+* [647. 回文子串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/PalindromicSubstrings.java)
+* [650. 只有两个键的键盘](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/TwoKeysKeyboard.java)
+* [652. 寻找重复的子树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/FindDuplicateSubtrees.java)
 * [983. 最低票价](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/MinimumCostForTickets.java)
 
 ## 全部顺序
@@ -559,6 +563,10 @@ leetcode 刷题记录
 * [623. 在二叉树中增加一行](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/AddOneRowToTree.java)
 * [628. 三个数的最大乘积](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MaximumProductOfThreeNumbers.java)
 * [637. 二叉树的层平均值](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/AverageOfLevelsInBinaryTree.java)
+* [646. 最长数对链](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/MaximumLengthOfPairChain.java)
+* [647. 回文子串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/PalindromicSubstrings.java)
+* [650. 只有两个键的键盘](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/TwoKeysKeyboard.java)
+* [652. 寻找重复的子树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/FindDuplicateSubtrees.java)
 * [714. 买卖股票的最佳时机含手续费](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaxProfit.java)
 * [724. 寻找数组的中心索引](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/PivotIndex.java)
 * [726. 原子的数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/CountOfAtoms.java)
@@ -580,7 +588,9 @@ leetcode 刷题记录
 
 
  
-
+ 
+ 
+ 
  
  
  
