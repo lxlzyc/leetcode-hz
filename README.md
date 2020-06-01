@@ -316,6 +316,12 @@ leetcode 刷题记录
 * [680. 验证回文字符串 Ⅱ](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/ValidPalindromeii.java)
 * [983. 最低票价](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/MinimumCostForTickets.java)
 
+### 2020-06
+
+* [670. 最大交换](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/MaximumSwap.java)
+* [682. 棒球比赛](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/BaseballGame.java)
+* [1431. 拥有最多糖果的孩子](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/KidsWithTheGreatestNumberOfCandies.java)
+
  
 ## 全部顺序
 
@@ -591,6 +597,8 @@ leetcode 刷题记录
 * [658. 找到 K 个最接近的元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/FindKClosestElements.java)
 * [661. 图片平滑器](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/ImageSmoother.java)
 * [662. 二叉树最大宽度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/MaximumWidthOfBinaryTree.java)
+* [670. 最大交换](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaximumSwap.java)
+* [682. 棒球比赛](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/BaseballGame.java)
 * [680. 验证回文字符串 Ⅱ](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/ValidPalindromeii.java)
 * [714. 买卖股票的最佳时机含手续费](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaxProfit.java)
 * [724. 寻找数组的中心索引](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/PivotIndex.java)
@@ -603,6 +611,7 @@ leetcode 刷题记录
 * [1111. 有效括号的嵌套深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MaximumNestingDepthOfTwoValidParenthesesStrings.java)
 * [1122. 数组的相对排序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/RelativeSortArray.java)
 * [1248. 统计「优美子数组」](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/CountNumberOfNiceSubarrays.java)
+* [1431. 拥有最多糖果的孩子](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/KidsWithTheGreatestNumberOfCandies.java)
 
 
 * [面试题13. 机器人的运动范围](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MovingCount.java)
@@ -612,7 +621,7 @@ leetcode 刷题记录
 * [面试题 08.11. 硬币](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/CoinLcci.java)
 
 
- 
+
  
 
   
