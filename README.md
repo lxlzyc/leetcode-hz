@@ -319,9 +319,12 @@ leetcode 刷题记录
 ### 2020-06
 
 * [670. 最大交换](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/MaximumSwap.java)
+* [671. 二叉树中第二小的节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SecondMinimumNodeInABinaryTree.java)
+* [674. 最长连续递增序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/LongestContinuousIncreasingSubsequence.java)
+* [676. 实现一个魔法字典](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/MagicDictionary.java)
 * [682. 棒球比赛](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/BaseballGame.java)
 * [1431. 拥有最多糖果的孩子](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/KidsWithTheGreatestNumberOfCandies.java)
-
+* [面试题64. 求1+2+…+n](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/Sum1toNNums.java)
  
 ## 全部顺序
 
@@ -598,6 +601,9 @@ leetcode 刷题记录
 * [661. 图片平滑器](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/ImageSmoother.java)
 * [662. 二叉树最大宽度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/MaximumWidthOfBinaryTree.java)
 * [670. 最大交换](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaximumSwap.java)
+* [671. 二叉树中第二小的节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SecondMinimumNodeInABinaryTree.java)
+* [674. 最长连续递增序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/LongestContinuousIncreasingSubsequence.java)
+* [676. 实现一个魔法字典](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/MagicDictionary.java)
 * [682. 棒球比赛](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/BaseballGame.java)
 * [680. 验证回文字符串 Ⅱ](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/ValidPalindromeii.java)
 * [714. 买卖股票的最佳时机含手续费](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaxProfit.java)
@@ -619,7 +625,7 @@ leetcode 刷题记录
 * [面试题56 - I. 数组中数字出现的次数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/SingleNumbers.java)
 * [面试题62. 圆圈中最后剩下的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/lastRemaining.java)
 * [面试题 08.11. 硬币](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/CoinLcci.java)
-
+* [面试题64. 求1+2+…+n](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/Sum1toNNums.java)
 
 
  
