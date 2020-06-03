@@ -322,7 +322,11 @@ leetcode 刷题记录
 * [671. 二叉树中第二小的节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SecondMinimumNodeInABinaryTree.java)
 * [674. 最长连续递增序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/LongestContinuousIncreasingSubsequence.java)
 * [676. 实现一个魔法字典](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/MagicDictionary.java)
+* [677. 键值映射](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/MapSumPairs.java)
+* [678. 有效的括号字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/ValidParenthesisString.java)
 * [682. 棒球比赛](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/BaseballGame.java)
+* [687. 最长同值路径](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/LongestUnivaluePath.java)
+* [837. 新21点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/New21Game.java)
 * [1431. 拥有最多糖果的孩子](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/KidsWithTheGreatestNumberOfCandies.java)
 * [面试题64. 求1+2+…+n](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/Sum1toNNums.java)
  
@@ -604,12 +608,16 @@ leetcode 刷题记录
 * [671. 二叉树中第二小的节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SecondMinimumNodeInABinaryTree.java)
 * [674. 最长连续递增序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/LongestContinuousIncreasingSubsequence.java)
 * [676. 实现一个魔法字典](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/MagicDictionary.java)
-* [682. 棒球比赛](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/BaseballGame.java)
+* [677. 键值映射](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/MapSumPairs.java)
+* [678. 有效的括号字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/ValidParenthesisString.java)
 * [680. 验证回文字符串 Ⅱ](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/ValidPalindromeii.java)
+* [682. 棒球比赛](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/BaseballGame.java)
+* [687. 最长同值路径](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/LongestUnivaluePath.java)
 * [714. 买卖股票的最佳时机含手续费](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaxProfit.java)
 * [724. 寻找数组的中心索引](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/PivotIndex.java)
 * [726. 原子的数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/CountOfAtoms.java)
 * [787. K 站中转内最便宜的航班](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/FindCheapestPrice.java)
+* [837. 新21点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/New21Game.java)
 * [912. 排序数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/SortAnArray.java)
 * [983. 最低票价](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/MinimumCostForTickets.java)
 * [999. 车的可用捕获量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/AvailableCapturesForRook.java)
@@ -628,7 +636,10 @@ leetcode 刷题记录
 * [面试题64. 求1+2+…+n](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/Sum1toNNums.java)
 
 
- 
+* [677. 键值映射](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/MapSumPairs.java)
+* [678. 有效的括号字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/ValidParenthesisString.java)
+* [687. 最长同值路径](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/LongestUnivaluePath.java)
+* [837. 新21点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/New21Game.java)
 
   
  
