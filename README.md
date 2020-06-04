@@ -326,6 +326,10 @@ leetcode 刷题记录
 * [678. 有效的括号字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/ValidParenthesisString.java)
 * [682. 棒球比赛](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/BaseballGame.java)
 * [687. 最长同值路径](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/LongestUnivaluePath.java)
+* [692. 前K个高频单词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/TopKFrequentWords.java)
+* [693. 交替位二进制数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/BinaryNumberWithAlternatingBits.java)
+* [696. 计数二进制子串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/CountBinarySubstrings.java)
+* [697. 数组的度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/DegreeOfAnArray.java)
 * [837. 新21点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/New21Game.java)
 * [1431. 拥有最多糖果的孩子](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/KidsWithTheGreatestNumberOfCandies.java)
 * [面试题64. 求1+2+…+n](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/Sum1toNNums.java)
@@ -613,6 +617,10 @@ leetcode 刷题记录
 * [680. 验证回文字符串 Ⅱ](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/ValidPalindromeii.java)
 * [682. 棒球比赛](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/BaseballGame.java)
 * [687. 最长同值路径](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/LongestUnivaluePath.java)
+* [692. 前K个高频单词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/TopKFrequentWords.java)
+* [693. 交替位二进制数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/BinaryNumberWithAlternatingBits.java)
+* [696. 计数二进制子串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/CountBinarySubstrings.java)
+* [697. 数组的度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/DegreeOfAnArray.java)
 * [714. 买卖股票的最佳时机含手续费](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaxProfit.java)
 * [724. 寻找数组的中心索引](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/PivotIndex.java)
 * [726. 原子的数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/CountOfAtoms.java)
@@ -636,12 +644,7 @@ leetcode 刷题记录
 * [面试题64. 求1+2+…+n](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/Sum1toNNums.java)
 
 
-* [677. 键值映射](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/MapSumPairs.java)
-* [678. 有效的括号字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/ValidParenthesisString.java)
-* [687. 最长同值路径](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/LongestUnivaluePath.java)
-* [837. 新21点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/New21Game.java)
 
-  
  
  
  
