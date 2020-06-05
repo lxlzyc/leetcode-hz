@@ -113,6 +113,82 @@ public class SpiralMatrix {
 
     }
 
+    public int[] spiralOrder2(int[][] matrix) {
+        if (matrix.length == 0 || matrix[0].length == 0) {
+            return new int[0];
+        }
+        int top = 0;
+        int right = matrix[0].length;
+        int bottom = matrix.length;
+        int[] re = new int[right * bottom];
+        int i = 0;
+        int left = 0;
+        // 1 往右 2 往下 3往左 4 往上
+        int status = 1;
+        int beginI = 0;
+        int beginJ = -1;
+        int count = 0;
+        int maxCount = right * bottom;
+        while (count < maxCount) {
+            boolean hasNext = true;
+            while (true) {
+                if (status % 4 == 1) {
+                    if (beginJ + 1 < right) {
+                        beginJ++;
+                        break;
+                    } else {
+                        status++;
+                        top++;
+                    }
+                }
+                if (status % 4 == 2) {
+                    if (beginI + 1 < bottom) {
+                        beginI++;
+                        break;
+                    } else {
+                        status++;
+                        right--;
+                    }
+                }
+                if (status % 4 == 3) {
+                    if (beginJ - 1 >= left) {
+                        beginJ--;
+                        break;
+                    } else {
+                        status++;
+                        bottom--;
+                    }
+                }
+                if (status % 4 == 0) {
+                    if (beginI - 1 >= top) {
+                        beginI--;
+                        break;
+                    } else {
+                        status++;
+                        left++;
+                    }
+                }
+                if (status % 4 == 1) {
+                    if (beginJ + 1 < right) {
+                        beginJ++;
+                        break;
+                    } else {
+                        hasNext = false;
+                        break;
+                    }
+                }
+            }
+            if (!hasNext) {
+                break;
+            }
+            count++;
+            re[i] = matrix[beginI][beginJ];
+            i++;
+        }
+
+        return re;
+    }
+
     public static void main(String[] args) {
         int[][] matrix = {
                 { 5, 1, 9,11},
@@ -121,7 +197,7 @@ public class SpiralMatrix {
                 {15,14,12,16}
         };
         SpiralMatrix spiralMatrix = new SpiralMatrix();
-        System.out.println(JSONUtil.toJson(spiralMatrix.spiralOrder(matrix)));
+        System.out.println(JSONUtil.toJson(spiralMatrix.spiralOrder2(matrix)));
     }
 
 }
