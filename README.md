@@ -336,9 +336,14 @@ leetcode 刷题记录
 * [701. 二叉搜索树中的插入操作](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/InsertIntoABinarySearchTree.java)
 * [703. 数据流中的第K大元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/KthLargestElementInAStream.java)
 * [704. 二分查找](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/BinarySearch.java)
-* [990. 等式方程的可满足性](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SatisfiabilityOfEqualityEquations.java)
+* [705. 设计哈希集合](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/DesignHashset.java)
+* [706. 设计哈希映射](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/DesignHashmap.java)
+* [707. 设计链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/DesignLinkedList.java)
+* [709. 转换成小写字母](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/ToLowerCase.java)
 * [837. 新21点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/New21Game.java)
+* [990. 等式方程的可满足性](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SatisfiabilityOfEqualityEquations.java)
 * [1431. 拥有最多糖果的孩子](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/KidsWithTheGreatestNumberOfCandies.java)
+* [面试题46. 把数字翻译成字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/TranslateNumToString.java)
 * [面试题64. 求1+2+…+n](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/Sum1toNNums.java)
  
 ## 全部顺序
@@ -634,6 +639,10 @@ leetcode 刷题记录
 * [701. 二叉搜索树中的插入操作](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/InsertIntoABinarySearchTree.java)
 * [703. 数据流中的第K大元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/KthLargestElementInAStream.java)
 * [704. 二分查找](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/BinarySearch.java)
+* [705. 设计哈希集合](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/DesignHashset.java)
+* [706. 设计哈希映射](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/DesignHashmap.java)
+* [707. 设计链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/DesignLinkedList.java)
+* [709. 转换成小写字母](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/ToLowerCase.java)
 * [714. 买卖股票的最佳时机含手续费](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaxProfit.java)
 * [724. 寻找数组的中心索引](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/PivotIndex.java)
 * [726. 原子的数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/CountOfAtoms.java)
@@ -651,6 +660,7 @@ leetcode 刷题记录
 
 
 * [面试题13. 机器人的运动范围](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MovingCount.java)
+* [面试题46. 把数字翻译成字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/TranslateNumToString.java)
 * [面试题51. 数组中的逆序对](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ReversePairs.java)
 * [面试题56 - I. 数组中数字出现的次数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/SingleNumbers.java)
 * [面试题62. 圆圈中最后剩下的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/lastRemaining.java)
@@ -659,8 +669,8 @@ leetcode 刷题记录
 
 
 
- 
- 
+
+
  
  
  
