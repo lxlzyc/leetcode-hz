@@ -351,6 +351,7 @@ leetcode 刷题记录
 * [739. 每日温度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/DailyTemperatures.java)
 * [837. 新21点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/New21Game.java)
 * [990. 等式方程的可满足性](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SatisfiabilityOfEqualityEquations.java)
+* [1300. 转变数组后最接近目标值的数组和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SumOfMutatedArrayClosestToTarget.java)
 * [1431. 拥有最多糖果的孩子](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/KidsWithTheGreatestNumberOfCandies.java)
 * [面试题46. 把数字翻译成字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/TranslateNumToString.java)
 * [面试题64. 求1+2+…+n](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/Sum1toNNums.java)
@@ -674,6 +675,7 @@ leetcode 刷题记录
 * [1111. 有效括号的嵌套深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MaximumNestingDepthOfTwoValidParenthesesStrings.java)
 * [1122. 数组的相对排序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/RelativeSortArray.java)
 * [1248. 统计「优美子数组」](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/CountNumberOfNiceSubarrays.java)
+* [1300. 转变数组后最接近目标值的数组和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SumOfMutatedArrayClosestToTarget.java)
 * [1431. 拥有最多糖果的孩子](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/KidsWithTheGreatestNumberOfCandies.java)
 
 
@@ -686,8 +688,8 @@ leetcode 刷题记录
 * [面试题64. 求1+2+…+n](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/Sum1toNNums.java)
 
  
- 
- 
+  
+
 
 
  
