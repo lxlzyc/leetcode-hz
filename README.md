@@ -318,6 +318,7 @@ leetcode 刷题记录
 
 ### 2020-06
 
+* [14. 最长公共前缀](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/LongestCommonPrefix.java)
 * [670. 最大交换](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/MaximumSwap.java)
 * [671. 二叉树中第二小的节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SecondMinimumNodeInABinaryTree.java)
 * [674. 最长连续递增序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/LongestContinuousIncreasingSubsequence.java)
@@ -349,6 +350,9 @@ leetcode 刷题记录
 * [729. 我的日程安排表 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/MyCalendari.java)
 * [733. 图像渲染](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/FloodFill.java)
 * [739. 每日温度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/DailyTemperatures.java)
+* [740. 删除与获得点数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/DeleteAndEarn.java)
+* [743. 网络延迟时间](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/NetworkDelayTime.java)
+* [744. 寻找比目标字母大的最小字母](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/FindSmallestLetterGreaterThanTarget.java)
 * [837. 新21点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/New21Game.java)
 * [990. 等式方程的可满足性](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SatisfiabilityOfEqualityEquations.java)
 * [1300. 转变数组后最接近目标值的数组和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SumOfMutatedArrayClosestToTarget.java)
@@ -368,6 +372,7 @@ leetcode 刷题记录
 * [11. 盛最多水的容器](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/ContainerWithMostWater.java)
 * [12. 整数转罗马数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/IntegerToRoman.java)
 * [13. 罗马数字转整数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/RomanToInteger.java)
+* [14. 最长公共前缀](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/LongestCommonPrefix.java)
 * [15. 三数之和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/ThreeSum.java)
 * [16. 最接近的三数之和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/ThreeSumCloset.java)
 * [17. 电话号码的字母组合](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/LetterCombinationsOfPhone.java)
@@ -660,11 +665,14 @@ leetcode 刷题记录
 * [721. 账户合并](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/AccountsMerge.java)
 * [724. 寻找数组的中心索引](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/PivotIndex.java)
 * [725. 分隔链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SplitLinkedListInParts.java)
+* [726. 原子的数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/CountOfAtoms.java)
 * [728. 自除数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SelfDividingNumbers.java)
 * [729. 我的日程安排表 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/MyCalendari.java)
 * [733. 图像渲染](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/FloodFill.java)
 * [739. 每日温度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/DailyTemperatures.java)
-* [726. 原子的数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/CountOfAtoms.java)
+* [740. 删除与获得点数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/DeleteAndEarn.java)
+* [743. 网络延迟时间](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/NetworkDelayTime.java)
+* [744. 寻找比目标字母大的最小字母](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/FindSmallestLetterGreaterThanTarget.java)
 * [787. K 站中转内最便宜的航班](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/FindCheapestPrice.java)
 * [837. 新21点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/New21Game.java)
 * [912. 排序数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/SortAnArray.java)
@@ -688,6 +696,9 @@ leetcode 刷题记录
 * [面试题64. 求1+2+…+n](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/Sum1toNNums.java)
 
  
+
+
+
   
 
 
