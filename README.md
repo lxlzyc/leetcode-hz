@@ -319,6 +319,7 @@ leetcode 刷题记录
 ### 2020-06
 
 * [14. 最长公共前缀](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/LongestCommonPrefix.java)
+* [297. 二叉树的序列化与反序列化](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SerializeAndDeserializeBinaryTree.java)
 * [670. 最大交换](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/MaximumSwap.java)
 * [671. 二叉树中第二小的节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SecondMinimumNodeInABinaryTree.java)
 * [674. 最长连续递增序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/LongestContinuousIncreasingSubsequence.java)
@@ -353,6 +354,9 @@ leetcode 刷题记录
 * [740. 删除与获得点数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/DeleteAndEarn.java)
 * [743. 网络延迟时间](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/NetworkDelayTime.java)
 * [744. 寻找比目标字母大的最小字母](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/FindSmallestLetterGreaterThanTarget.java)
+* [746. 使用最小花费爬楼梯](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/MinCostClimbingStairs.java)
+* [747. 至少是其他数字两倍的最大数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/LargestNumberAtLeastTwiceOfOthers.java)
+* [748. 最短完整词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/ShortestCompletingWord.java)
 * [837. 新21点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/New21Game.java)
 * [990. 等式方程的可满足性](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SatisfiabilityOfEqualityEquations.java)
 * [1300. 转变数组后最接近目标值的数组和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SumOfMutatedArrayClosestToTarget.java)
@@ -525,6 +529,7 @@ leetcode 刷题记录
 * [287. 寻找重复数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/FindTheDuplicateNumber.java)
 * [289. 生命游戏](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/GameOfLife.java)
 * [292. Nim 游戏](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/NimGame.java)
+* [297. 二叉树的序列化与反序列化](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SerializeAndDeserializeBinaryTree.java)
 * [299. 猜数字游戏](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/BullsAndCows.java)
 * [303. 区域和检索 - 数组不可变](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/RangeSumQueryImmutable.java)
 * [304. 二维区域和检索 - 矩阵不可变](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/RangeSumQuery2dImmutable.java)
@@ -673,6 +678,9 @@ leetcode 刷题记录
 * [740. 删除与获得点数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/DeleteAndEarn.java)
 * [743. 网络延迟时间](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/NetworkDelayTime.java)
 * [744. 寻找比目标字母大的最小字母](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/FindSmallestLetterGreaterThanTarget.java)
+* [746. 使用最小花费爬楼梯](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/MinCostClimbingStairs.java)
+* [747. 至少是其他数字两倍的最大数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/LargestNumberAtLeastTwiceOfOthers.java)
+* [748. 最短完整词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/ShortestCompletingWord.java)
 * [787. K 站中转内最便宜的航班](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/FindCheapestPrice.java)
 * [837. 新21点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/New21Game.java)
 * [912. 排序数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/SortAnArray.java)
@@ -692,10 +700,11 @@ leetcode 刷题记录
 * [面试题51. 数组中的逆序对](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ReversePairs.java)
 * [面试题56 - I. 数组中数字出现的次数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/SingleNumbers.java)
 * [面试题62. 圆圈中最后剩下的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/lastRemaining.java)
-* [面试题 08.11. 硬币](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/CoinLcci.java)
 * [面试题64. 求1+2+…+n](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/Sum1toNNums.java)
+* [面试题 08.11. 硬币](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/CoinLcci.java)
 
- 
+
+
 
 
 
