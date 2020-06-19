@@ -361,10 +361,13 @@ leetcode 刷题记录
 * [763. 划分字母区间](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/PartitionLabels.java)
 * [765. 情侣牵手](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/CouplesHoldingHands.java)
 * [766. 托普利茨矩阵](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/ToeplitzMatrix.java)
+* [767. 重构字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/ReorganizeString.java)
 * [837. 新21点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/New21Game.java)
 * [990. 等式方程的可满足性](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SatisfiabilityOfEqualityEquations.java)
 * [1014. 最佳观光组合](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/BestSightseeingPair.java)
 * [1028. 从先序遍历还原二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/RecoverATreeFromPreorderTraversal.java)
+* [1114. 按序打印](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/PrintInOrder.java)
+* [1115. 交替打印FooBar](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/PrintFoobarAlternately.java)
 * [1300. 转变数组后最接近目标值的数组和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SumOfMutatedArrayClosestToTarget.java)
 * [1431. 拥有最多糖果的孩子](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/KidsWithTheGreatestNumberOfCandies.java)
 * [面试题46. 把数字翻译成字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/TranslateNumToString.java)
@@ -691,6 +694,7 @@ leetcode 刷题记录
 * [763. 划分字母区间](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/PartitionLabels.java)
 * [765. 情侣牵手](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/CouplesHoldingHands.java)
 * [766. 托普利茨矩阵](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/ToeplitzMatrix.java)
+* [767. 重构字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/ReorganizeString.java)
 * [787. K 站中转内最便宜的航班](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/FindCheapestPrice.java)
 * [837. 新21点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/New21Game.java)
 * [912. 排序数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/SortAnArray.java)
@@ -701,6 +705,8 @@ leetcode 刷题记录
 * [1028. 从先序遍历还原二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/RecoverATreeFromPreorderTraversal.java)
 * [1095. 山脉数组中查找目标值](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/FindinMountainArray.java)
 * [1111. 有效括号的嵌套深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MaximumNestingDepthOfTwoValidParenthesesStrings.java)
+* [1114. 按序打印](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/PrintInOrder.java)
+* [1115. 交替打印FooBar](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/PrintFoobarAlternately.java)
 * [1122. 数组的相对排序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/RelativeSortArray.java)
 * [1248. 统计「优美子数组」](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/CountNumberOfNiceSubarrays.java)
 * [1300. 转变数组后最接近目标值的数组和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SumOfMutatedArrayClosestToTarget.java)
@@ -714,8 +720,6 @@ leetcode 刷题记录
 * [面试题62. 圆圈中最后剩下的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/lastRemaining.java)
 * [面试题64. 求1+2+…+n](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/Sum1toNNums.java)
 * [面试题 08.11. 硬币](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/CoinLcci.java)
-
-
 
 
 
