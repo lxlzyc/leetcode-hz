@@ -318,6 +318,8 @@ leetcode 刷题记录
 
 ### 2020-06
 
+* [1. 两数之和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/TwoSum.java)
+* [10. 正则表达式匹配](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/RegularExpressionMatching.java)
 * [14. 最长公共前缀](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/LongestCommonPrefix.java)
 * [297. 二叉树的序列化与反序列化](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SerializeAndDeserializeBinaryTree.java)
 * [670. 最大交换](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/MaximumSwap.java)
@@ -362,6 +364,8 @@ leetcode 刷题记录
 * [765. 情侣牵手](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/CouplesHoldingHands.java)
 * [766. 托普利茨矩阵](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/ToeplitzMatrix.java)
 * [767. 重构字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/ReorganizeString.java)
+* [771. 宝石与石头](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/JewelsAndStones.java)
+* [775. 全局倒置与局部倒置](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/GlobalAndLocalInversions.java)
 * [837. 新21点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/New21Game.java)
 * [990. 等式方程的可满足性](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SatisfiabilityOfEqualityEquations.java)
 * [1014. 最佳观光组合](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/BestSightseeingPair.java)
@@ -372,9 +376,11 @@ leetcode 刷题记录
 * [1431. 拥有最多糖果的孩子](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/KidsWithTheGreatestNumberOfCandies.java)
 * [面试题46. 把数字翻译成字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/TranslateNumToString.java)
 * [面试题64. 求1+2+…+n](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/Sum1toNNums.java)
- 
+* [面试题 16.18. 模式匹配](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/PatternMatchingLcci.java)
+
 ## 全部顺序
 
+* [1. 两数之和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/TwoSum.java)
 * [2. 两数相加](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/AddTwoNumbers.java)
 * [3. 无重复字符的最长子串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/LongestSubstringWithoutRep.java)
 * [5. 最长回文子串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/LongestPalindromicSubstring.java)
@@ -382,6 +388,7 @@ leetcode 刷题记录
 * [7. 整数反转](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/ReverseInteger.java)
 * [8. 字符串转换整数 (atoi)](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/StringToIntegerAtoi.java)
 * [9. 回文数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/PalindromeNumber.java)
+* [10. 正则表达式匹配](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/RegularExpressionMatching.java)
 * [11. 盛最多水的容器](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/ContainerWithMostWater.java)
 * [12. 整数转罗马数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/IntegerToRoman.java)
 * [13. 罗马数字转整数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/RomanToInteger.java)
@@ -695,6 +702,8 @@ leetcode 刷题记录
 * [765. 情侣牵手](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/CouplesHoldingHands.java)
 * [766. 托普利茨矩阵](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/ToeplitzMatrix.java)
 * [767. 重构字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/ReorganizeString.java)
+* [771. 宝石与石头](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/JewelsAndStones.java)
+* [775. 全局倒置与局部倒置](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/GlobalAndLocalInversions.java)
 * [787. K 站中转内最便宜的航班](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/FindCheapestPrice.java)
 * [837. 新21点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/New21Game.java)
 * [912. 排序数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/SortAnArray.java)
@@ -720,15 +729,14 @@ leetcode 刷题记录
 * [面试题62. 圆圈中最后剩下的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/lastRemaining.java)
 * [面试题64. 求1+2+…+n](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/Sum1toNNums.java)
 * [面试题 08.11. 硬币](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/CoinLcci.java)
+* [面试题 16.18. 模式匹配](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/PatternMatchingLcci.java)
 
 
+ 
+ 
+ 
 
-
-
-
-
-
-
+ 
  
 
 
