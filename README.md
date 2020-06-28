@@ -370,6 +370,8 @@ leetcode 刷题记录
 * [781. 森林中的兔子](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/RabbitsInForest.java)
 * [783. 二叉搜索树节点最小距离](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/MinimumDistanceBetweenBstNodes.java)
 * [784. 字母大小写全排列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/LetterCasePermutation.java)
+* [788. 旋转数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/RotatedDigits.java)
+* [789. 逃脱阻碍者](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/EscapeTheGhosts.java)
 * [837. 新21点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/New21Game.java)
 * [990. 等式方程的可满足性](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SatisfiabilityOfEqualityEquations.java)
 * [1014. 最佳观光组合](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/BestSightseeingPair.java)
@@ -713,6 +715,8 @@ leetcode 刷题记录
 * [783. 二叉搜索树节点最小距离](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/MinimumDistanceBetweenBstNodes.java)
 * [784. 字母大小写全排列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/LetterCasePermutation.java)
 * [787. K 站中转内最便宜的航班](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/FindCheapestPrice.java)
+* [788. 旋转数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/RotatedDigits.java)
+* [789. 逃脱阻碍者](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/EscapeTheGhosts.java)
 * [837. 新21点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/New21Game.java)
 * [912. 排序数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/SortAnArray.java)
 * [983. 最低票价](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/MinimumCostForTickets.java)
@@ -744,6 +748,7 @@ leetcode 刷题记录
 
  
  
+
 
  
  
