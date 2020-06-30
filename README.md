@@ -365,6 +365,7 @@ leetcode 刷题记录
 * [766. 托普利茨矩阵](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/ToeplitzMatrix.java)
 * [767. 重构字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/ReorganizeString.java)
 * [771. 宝石与石头](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/JewelsAndStones.java)
+* [773. 滑动谜题](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SlidingPuzzle.java)
 * [775. 全局倒置与局部倒置](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/GlobalAndLocalInversions.java)
 * [779. 第K个语法符号](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/KThSymbolInGrammar.java)
 * [781. 森林中的兔子](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/RabbitsInForest.java)
@@ -373,7 +374,9 @@ leetcode 刷题记录
 * [788. 旋转数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/RotatedDigits.java)
 * [789. 逃脱阻碍者](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/EscapeTheGhosts.java)
 * [791. 自定义字符串排序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/CustomSortString.java)
+* [795. 区间子数组个数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/NumberOfSubarraysWithHoundedMaximum.java)
 * [796. 旋转字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/RotateString.java)
+* [797. 所有可能的路径](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/AllPathsFromSourceToTarget.java)
 * [804. 唯一摩尔斯密码词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/UniqueMorseCodeWords.java)
 * [837. 新21点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/New21Game.java)
 * [990. 等式方程的可满足性](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SatisfiabilityOfEqualityEquations.java)
@@ -386,6 +389,8 @@ leetcode 刷题记录
 * [面试题46. 把数字翻译成字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/TranslateNumToString.java)
 * [面试题64. 求1+2+…+n](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/Sum1toNNums.java)
 * [面试题 16.18. 模式匹配](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/PatternMatchingLcci.java)
+* [剑指 Offer 09. 用两个栈实现队列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/CQueue.java)
+
 
 ## 全部顺序
 
@@ -712,6 +717,7 @@ leetcode 刷题记录
 * [766. 托普利茨矩阵](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/ToeplitzMatrix.java)
 * [767. 重构字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/ReorganizeString.java)
 * [771. 宝石与石头](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/JewelsAndStones.java)
+* [773. 滑动谜题](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SlidingPuzzle.java)
 * [775. 全局倒置与局部倒置](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/GlobalAndLocalInversions.java)
 * [779. 第K个语法符号](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/KThSymbolInGrammar.java)
 * [781. 森林中的兔子](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/RabbitsInForest.java)
@@ -721,7 +727,9 @@ leetcode 刷题记录
 * [788. 旋转数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/RotatedDigits.java)
 * [789. 逃脱阻碍者](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/EscapeTheGhosts.java)
 * [791. 自定义字符串排序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/CustomSortString.java)
+* [795. 区间子数组个数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/NumberOfSubarraysWithHoundedMaximum.java)
 * [796. 旋转字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/RotateString.java)
+* [797. 所有可能的路径](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/AllPathsFromSourceToTarget.java)
 * [804. 唯一摩尔斯密码词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/UniqueMorseCodeWords.java)
 * [837. 新21点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/New21Game.java)
 * [912. 排序数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/SortAnArray.java)
@@ -750,9 +758,8 @@ leetcode 刷题记录
 * [面试题 16.18. 模式匹配](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/PatternMatchingLcci.java)
 
 
- 
- 
- 
+* [剑指 Offer 09. 用两个栈实现队列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/CQueue.java)
+
 
  
  
