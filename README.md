@@ -391,6 +391,11 @@ leetcode 刷题记录
 * [面试题 16.18. 模式匹配](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/PatternMatchingLcci.java)
 * [剑指 Offer 09. 用两个栈实现队列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/CQueue.java)
 
+### 2020-07
+
+* [剑指 Offer 52. 两个链表的第一个公共节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IntersectionNode.java)
+* [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SearchI.java)
+* [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MissingNumber.java)
 
 ## 全部顺序
 
@@ -759,12 +764,16 @@ leetcode 刷题记录
 
 
 * [剑指 Offer 09. 用两个栈实现队列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/CQueue.java)
+* [剑指 Offer 52. 两个链表的第一个公共节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IntersectionNode.java)
+* [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SearchI.java)
+* [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MissingNumber.java)
 
 
  
  
 
-
+ 
+ 
  
  
 
