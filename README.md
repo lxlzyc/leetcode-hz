@@ -393,6 +393,8 @@ leetcode 刷题记录
 
 ### 2020-07
 
+* [108. 将有序数组转换为二叉搜索树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ConvertSortedArrayToBinarySearchTree.java)
+* [378. 有序矩阵中第K小的元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/KthSmallestElementInASortedMatrix.java)
 * [剑指 Offer 52. 两个链表的第一个公共节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IntersectionNode.java)
 * [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SearchI.java)
 * [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MissingNumber.java)
@@ -487,6 +489,7 @@ leetcode 刷题记录
 * [104. 二叉树的最大深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/MaximumDepthOfBinaryTree.java)
 * [105. 从前序与中序遍历序列构造二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/ConstructBinaryTreeFromPreorderAndInorderTraversal.java)
 * [107. 二叉树的层次遍历 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/BinaryTreeLevelOrderTraversal2.java)
+* [108. 将有序数组转换为二叉搜索树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ConvertSortedArrayToBinarySearchTree.java)
 * [109. 有序链表转换二叉搜索树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/ConvertSortedListToBinarySearchTree.java)
 * [111. 二叉树的最小深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/MinimumDepthOfBinaryTree.java)
 * [112. 路径总和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/PathSum.java)
@@ -571,6 +574,7 @@ leetcode 刷题记录
 * [307. 区域和检索 - 数组可修改](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/RangeSumQueryMutable.java)
 * [309. 最佳买卖股票时机含冷冻期](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/BestTimeToBuyAndSellStockWithCooldown.java)
 * [343. 整数拆分](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/IntegerBreak.java)
+* [378. 有序矩阵中第K小的元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/KthSmallestElementInASortedMatrix.java)
 * [406. 根据身高重建队列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/QueueReconstructionByHeight.java)
 * [409. 最长回文串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/LongestPalindrome.java)
 * [412. Fizz Buzz](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/FizzBuzz.java)
@@ -770,8 +774,8 @@ leetcode 刷题记录
 
 
  
+  
  
-
  
  
  
