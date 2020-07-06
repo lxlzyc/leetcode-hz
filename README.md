@@ -395,6 +395,9 @@ leetcode 刷题记录
 
 * [108. 将有序数组转换为二叉搜索树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ConvertSortedArrayToBinarySearchTree.java)
 * [378. 有序矩阵中第K小的元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/KthSmallestElementInASortedMatrix.java)
+* [792. 匹配子序列的单词数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/NumberOfMatchingSubsequences.java)
+* [799. 香槟塔](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ChampagneTower.java)
+* [806. 写字符串需要的行数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/NumberOfLinesToWriteString.java)
 * [剑指 Offer 03. 数组中重复的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/FindRepeatNumber.java)
 * [剑指 Offer 05. 替换空格](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ReplaceSpace.java)
 * [剑指 Offer 06. 从尾到头打印链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ReversePrint.java)
@@ -739,10 +742,13 @@ leetcode 刷题记录
 * [788. 旋转数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/RotatedDigits.java)
 * [789. 逃脱阻碍者](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/EscapeTheGhosts.java)
 * [791. 自定义字符串排序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/CustomSortString.java)
+* [792. 匹配子序列的单词数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/NumberOfMatchingSubsequences.java)
 * [795. 区间子数组个数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/NumberOfSubarraysWithHoundedMaximum.java)
 * [796. 旋转字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/RotateString.java)
 * [797. 所有可能的路径](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/AllPathsFromSourceToTarget.java)
+* [799. 香槟塔](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ChampagneTower.java)
 * [804. 唯一摩尔斯密码词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/UniqueMorseCodeWords.java)
+* [806. 写字符串需要的行数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/NumberOfLinesToWriteString.java)
 * [837. 新21点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/New21Game.java)
 * [912. 排序数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/SortAnArray.java)
 * [983. 最低票价](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/MinimumCostForTickets.java)
@@ -780,7 +786,8 @@ leetcode 刷题记录
 
 
  
-  
+ 
+ 
  
  
  
