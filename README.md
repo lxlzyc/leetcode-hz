@@ -378,6 +378,8 @@ leetcode 刷题记录
 * [796. 旋转字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/RotateString.java)
 * [797. 所有可能的路径](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/AllPathsFromSourceToTarget.java)
 * [804. 唯一摩尔斯密码词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/UniqueMorseCodeWords.java)
+* [811. 子域名访问计数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SubdomainVisitCount.java)
+* [812. 最大三角形面积](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/LargestTriangleArea.java)
 * [837. 新21点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/New21Game.java)
 * [990. 等式方程的可满足性](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SatisfiabilityOfEqualityEquations.java)
 * [1014. 最佳观光组合](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/BestSightseeingPair.java)
@@ -751,6 +753,8 @@ leetcode 刷题记录
 * [799. 香槟塔](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ChampagneTower.java)
 * [804. 唯一摩尔斯密码词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/UniqueMorseCodeWords.java)
 * [806. 写字符串需要的行数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/NumberOfLinesToWriteString.java)
+* [811. 子域名访问计数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SubdomainVisitCount.java)
+* [812. 最大三角形面积](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/LargestTriangleArea.java)
 * [837. 新21点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/New21Game.java)
 * [912. 排序数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/SortAnArray.java)
 * [983. 最低票价](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/MinimumCostForTickets.java)
@@ -786,6 +790,7 @@ leetcode 刷题记录
 * [剑指 Offer 52. 两个链表的第一个公共节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IntersectionNode.java)
 * [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SearchI.java)
 * [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MissingNumber.java)
+
 
 
 
