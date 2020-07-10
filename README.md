@@ -398,6 +398,8 @@ leetcode 刷题记录
 * [792. 匹配子序列的单词数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/NumberOfMatchingSubsequences.java)
 * [799. 香槟塔](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ChampagneTower.java)
 * [806. 写字符串需要的行数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/NumberOfLinesToWriteString.java)
+* [面试题 16.11. 跳水板](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/DivingBoardLcci.java)
+* [面试题 17.13. 恢复空格](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ReSpaceLcci.java)
 * [剑指 Offer 03. 数组中重复的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/FindRepeatNumber.java)
 * [剑指 Offer 05. 替换空格](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ReplaceSpace.java)
 * [剑指 Offer 06. 从尾到头打印链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ReversePrint.java)
@@ -767,6 +769,8 @@ leetcode 刷题记录
 
 
 * [面试题13. 机器人的运动范围](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MovingCount.java)
+* [面试题 16.11. 跳水板](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/DivingBoardLcci.java)
+* [面试题 17.13. 恢复空格](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ReSpaceLcci.java)
 * [面试题46. 把数字翻译成字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/TranslateNumToString.java)
 * [面试题51. 数组中的逆序对](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ReversePairs.java)
 * [面试题56 - I. 数组中数字出现的次数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/SingleNumbers.java)
@@ -785,6 +789,8 @@ leetcode 刷题记录
 
 
 
+ 
+ 
  
  
  
