@@ -396,10 +396,14 @@ leetcode 刷题记录
 ### 2020-07
 
 * [108. 将有序数组转换为二叉搜索树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ConvertSortedArrayToBinarySearchTree.java)
+* [350. 两个数组的交集 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IntersectionOfTwoArraysii.java)
 * [378. 有序矩阵中第K小的元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/KthSmallestElementInASortedMatrix.java)
 * [792. 匹配子序列的单词数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/NumberOfMatchingSubsequences.java)
 * [799. 香槟塔](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ChampagneTower.java)
 * [806. 写字符串需要的行数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/NumberOfLinesToWriteString.java)
+* [807. 保持城市天际线](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MaxIncreaseToKeepCitySkyline.java)
+* [819. 最常见的单词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MostCommonWord.java)
+* [821. 字符的最短距离](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ShortestDistanceToACharacter.java)
 * [面试题 16.11. 跳水板](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/DivingBoardLcci.java)
 * [面试题 17.13. 恢复空格](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ReSpaceLcci.java)
 * [剑指 Offer 03. 数组中重复的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/FindRepeatNumber.java)
@@ -584,6 +588,7 @@ leetcode 刷题记录
 * [307. 区域和检索 - 数组可修改](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/RangeSumQueryMutable.java)
 * [309. 最佳买卖股票时机含冷冻期](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/BestTimeToBuyAndSellStockWithCooldown.java)
 * [343. 整数拆分](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/IntegerBreak.java)
+* [350. 两个数组的交集 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IntersectionOfTwoArraysii.java)
 * [378. 有序矩阵中第K小的元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/KthSmallestElementInASortedMatrix.java)
 * [406. 根据身高重建队列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/QueueReconstructionByHeight.java)
 * [409. 最长回文串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/LongestPalindrome.java)
@@ -753,8 +758,11 @@ leetcode 刷题记录
 * [799. 香槟塔](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ChampagneTower.java)
 * [804. 唯一摩尔斯密码词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/UniqueMorseCodeWords.java)
 * [806. 写字符串需要的行数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/NumberOfLinesToWriteString.java)
+* [807. 保持城市天际线](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MaxIncreaseToKeepCitySkyline.java)
 * [811. 子域名访问计数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SubdomainVisitCount.java)
 * [812. 最大三角形面积](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/LargestTriangleArea.java)
+* [819. 最常见的单词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MostCommonWord.java)
+* [821. 字符的最短距离](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ShortestDistanceToACharacter.java)
 * [837. 新21点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/New21Game.java)
 * [912. 排序数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/SortAnArray.java)
 * [983. 最低票价](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/MinimumCostForTickets.java)
@@ -790,6 +798,11 @@ leetcode 刷题记录
 * [剑指 Offer 52. 两个链表的第一个公共节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IntersectionNode.java)
 * [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SearchI.java)
 * [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MissingNumber.java)
+
+* [350. 两个数组的交集 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IntersectionOfTwoArraysii.java)
+* [807. 保持城市天际线](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MaxIncreaseToKeepCitySkyline.java)
+* [819. 最常见的单词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MostCommonWord.java)
+* [821. 字符的最短距离](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ShortestDistanceToACharacter.java)
 
 
 
