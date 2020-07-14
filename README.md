@@ -404,6 +404,9 @@ leetcode 刷题记录
 * [807. 保持城市天际线](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MaxIncreaseToKeepCitySkyline.java)
 * [819. 最常见的单词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MostCommonWord.java)
 * [821. 字符的最短距离](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ShortestDistanceToACharacter.java)
+* [824. 山羊拉丁文](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/GoatLatin.java)
+* [830. 较大分组的位置](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/PositionsOfLargeGroups.java)
+* [831. 隐藏个人信息](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MaskingPersonalInformation.java)
 * [面试题 16.11. 跳水板](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/DivingBoardLcci.java)
 * [面试题 17.13. 恢复空格](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ReSpaceLcci.java)
 * [剑指 Offer 03. 数组中重复的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/FindRepeatNumber.java)
@@ -763,6 +766,9 @@ leetcode 刷题记录
 * [812. 最大三角形面积](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/LargestTriangleArea.java)
 * [819. 最常见的单词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MostCommonWord.java)
 * [821. 字符的最短距离](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ShortestDistanceToACharacter.java)
+* [824. 山羊拉丁文](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/GoatLatin.java)
+* [830. 较大分组的位置](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/PositionsOfLargeGroups.java)
+* [831. 隐藏个人信息](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MaskingPersonalInformation.java)
 * [837. 新21点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/New21Game.java)
 * [912. 排序数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/SortAnArray.java)
 * [983. 最低票价](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/MinimumCostForTickets.java)
@@ -799,15 +805,11 @@ leetcode 刷题记录
 * [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SearchI.java)
 * [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MissingNumber.java)
 
-* [350. 两个数组的交集 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IntersectionOfTwoArraysii.java)
-* [807. 保持城市天际线](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MaxIncreaseToKeepCitySkyline.java)
-* [819. 最常见的单词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MostCommonWord.java)
-* [821. 字符的最短距离](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ShortestDistanceToACharacter.java)
-
-
 
 
  
+ 
+  
  
  
  
