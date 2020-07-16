@@ -399,6 +399,7 @@ leetcode 刷题记录
 * [108. 将有序数组转换为二叉搜索树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ConvertSortedArrayToBinarySearchTree.java)
 * [350. 两个数组的交集 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IntersectionOfTwoArraysii.java)
 * [378. 有序矩阵中第K小的元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/KthSmallestElementInASortedMatrix.java)
+* [785. 判断二分图](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IsGraphBipartite.java)
 * [792. 匹配子序列的单词数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/NumberOfMatchingSubsequences.java)
 * [799. 香槟塔](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ChampagneTower.java)
 * [806. 写字符串需要的行数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/NumberOfLinesToWriteString.java)
@@ -412,6 +413,9 @@ leetcode 刷题记录
 * [833. 字符串中的查找与替换](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/FindAndReplaceInString.java)
 * [835. 图像重叠](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ImageOverlap.java)
 * [836. 矩形重叠](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/RectangleOverlap.java)
+* [838. 推多米诺](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/PushDominoes.java)
+* [840. 矩阵中的幻方](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MagicSquaresInGrid.java)
+* [841. 钥匙和房间](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/KeysAndRooms.java)
 * [面试题 16.11. 跳水板](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/DivingBoardLcci.java)
 * [面试题 17.13. 恢复空格](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ReSpaceLcci.java)
 * [剑指 Offer 03. 数组中重复的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/FindRepeatNumber.java)
@@ -756,6 +760,7 @@ leetcode 刷题记录
 * [781. 森林中的兔子](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/RabbitsInForest.java)
 * [783. 二叉搜索树节点最小距离](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/MinimumDistanceBetweenBstNodes.java)
 * [784. 字母大小写全排列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/LetterCasePermutation.java)
+* [785. 判断二分图](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IsGraphBipartite.java)
 * [787. K 站中转内最便宜的航班](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/FindCheapestPrice.java)
 * [788. 旋转数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/RotatedDigits.java)
 * [789. 逃脱阻碍者](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/EscapeTheGhosts.java)
@@ -780,6 +785,9 @@ leetcode 刷题记录
 * [835. 图像重叠](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ImageOverlap.java)
 * [836. 矩形重叠](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/RectangleOverlap.java)
 * [837. 新21点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/New21Game.java)
+* [838. 推多米诺](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/PushDominoes.java)
+* [840. 矩阵中的幻方](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MagicSquaresInGrid.java)
+* [841. 钥匙和房间](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/KeysAndRooms.java)
 * [912. 排序数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/SortAnArray.java)
 * [983. 最低票价](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/MinimumCostForTickets.java)
 * [990. 等式方程的可满足性](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SatisfiabilityOfEqualityEquations.java)
@@ -814,7 +822,6 @@ leetcode 刷题记录
 * [剑指 Offer 52. 两个链表的第一个公共节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IntersectionNode.java)
 * [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SearchI.java)
 * [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MissingNumber.java)
-
 
 
 
