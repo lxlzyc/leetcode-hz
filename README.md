@@ -416,6 +416,12 @@ leetcode 刷题记录
 * [838. 推多米诺](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/PushDominoes.java)
 * [840. 矩阵中的幻方](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MagicSquaresInGrid.java)
 * [841. 钥匙和房间](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/KeysAndRooms.java)
+* [842. 将数组拆分成斐波那契序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SplitArrayIntoFibonacciSequence.java)
+* [844. 比较含退格的字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/BackspaceStringCompare.java)
+* [845. 数组中的最长山脉](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/LongestMountainInArray.java)
+* [846. 一手顺子](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/HandOfStraights.java)
+* [848. 字母移位](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ShiftingLetters.java)
+* [849. 到最近的人的最大距离](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MaximizeDistanceToClosestPerson.java)
 * [面试题 16.11. 跳水板](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/DivingBoardLcci.java)
 * [面试题 17.13. 恢复空格](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ReSpaceLcci.java)
 * [剑指 Offer 03. 数组中重复的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/FindRepeatNumber.java)
@@ -788,6 +794,12 @@ leetcode 刷题记录
 * [838. 推多米诺](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/PushDominoes.java)
 * [840. 矩阵中的幻方](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MagicSquaresInGrid.java)
 * [841. 钥匙和房间](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/KeysAndRooms.java)
+* [842. 将数组拆分成斐波那契序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SplitArrayIntoFibonacciSequence.java)
+* [844. 比较含退格的字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/BackspaceStringCompare.java)
+* [845. 数组中的最长山脉](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/LongestMountainInArray.java)
+* [846. 一手顺子](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/HandOfStraights.java)
+* [848. 字母移位](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ShiftingLetters.java)
+* [849. 到最近的人的最大距离](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MaximizeDistanceToClosestPerson.java)
 * [912. 排序数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/SortAnArray.java)
 * [983. 最低票价](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/MinimumCostForTickets.java)
 * [990. 等式方程的可满足性](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SatisfiabilityOfEqualityEquations.java)
@@ -822,6 +834,7 @@ leetcode 刷题记录
 * [剑指 Offer 52. 两个链表的第一个公共节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IntersectionNode.java)
 * [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SearchI.java)
 * [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MissingNumber.java)
+
 
 
 
