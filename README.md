@@ -422,6 +422,9 @@ leetcode 刷题记录
 * [846. 一手顺子](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/HandOfStraights.java)
 * [848. 字母移位](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ShiftingLetters.java)
 * [849. 到最近的人的最大距离](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MaximizeDistanceToClosestPerson.java)
+* [852. 山脉数组的峰顶索引](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/PeakIndexInAMountainArray.java)
+* [853. 车队](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/CarFleet.java)
+* [855. 考场就座](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ExamRoom.java) 
 * [面试题 16.11. 跳水板](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/DivingBoardLcci.java)
 * [面试题 17.13. 恢复空格](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ReSpaceLcci.java)
 * [剑指 Offer 03. 数组中重复的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/FindRepeatNumber.java)
@@ -800,6 +803,9 @@ leetcode 刷题记录
 * [846. 一手顺子](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/HandOfStraights.java)
 * [848. 字母移位](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ShiftingLetters.java)
 * [849. 到最近的人的最大距离](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MaximizeDistanceToClosestPerson.java)
+* [852. 山脉数组的峰顶索引](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/PeakIndexInAMountainArray.java)
+* [853. 车队](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/CarFleet.java)
+* [855. 考场就座](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ExamRoom.java) 
 * [912. 排序数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/SortAnArray.java)
 * [983. 最低票价](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/MinimumCostForTickets.java)
 * [990. 等式方程的可满足性](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SatisfiabilityOfEqualityEquations.java)
@@ -837,10 +843,7 @@ leetcode 刷题记录
 
 
 
-* [852. 山脉数组的峰顶索引](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/PeakIndexInAMountainArray.java)
-* [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/CarFleet.java)
-* [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/.java)
-* [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/.java)
+
 
 
  
