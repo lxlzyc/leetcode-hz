@@ -433,6 +433,7 @@ leetcode 刷题记录
 * [860. 柠檬水找零](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/LemonadeChange.java)
 * [863. 二叉树中所有距离为 K 的结点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/AllNodesDistanceKInBinaryTree.java)
 * [867. 转置矩阵](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/TransposeMatrix.java)
+* [871. 最低加油次数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MinimumNumberOfRefuelingStops.java)
 * [1025. 除数博弈](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/DivisorGame.java)
 * [面试题 16.11. 跳水板](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/DivingBoardLcci.java)
 * [面试题 17.13. 恢复空格](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ReSpaceLcci.java)
@@ -823,6 +824,7 @@ leetcode 刷题记录
 * [860. 柠檬水找零](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/LemonadeChange.java)
 * [863. 二叉树中所有距离为 K 的结点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/AllNodesDistanceKInBinaryTree.java)
 * [867. 转置矩阵](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/TransposeMatrix.java)
+* [871. 最低加油次数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MinimumNumberOfRefuelingStops.java)
 * [912. 排序数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/SortAnArray.java)
 * [983. 最低票价](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/MinimumCostForTickets.java)
 * [990. 等式方程的可满足性](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SatisfiabilityOfEqualityEquations.java)
@@ -864,7 +866,7 @@ leetcode 刷题记录
 
 
 
- 
+
   
  
  
