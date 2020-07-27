@@ -849,7 +849,11 @@ leetcode 刷题记录
 * [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SearchI.java)
 * [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MissingNumber.java)
 
-
+* [860. 柠檬水找零](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/LemonadeChange.java)
+* [863. 二叉树中所有距离为 K 的结点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/AllNodesDistanceKInBinaryTree.java)
+* [867. 转置矩阵](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/TransposeMatrix.java)
+* [329. 矩阵中的最长递增路径](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/LongestIncreasingPathInAMatrix.java)
+* [392. 判断子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IsSubsequence.java)
 
 
 
