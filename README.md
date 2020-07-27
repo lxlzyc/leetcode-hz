@@ -397,8 +397,10 @@ leetcode 刷题记录
 
 * [96. 不同的二叉搜索树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/UniqueBinarySearchTrees.java)
 * [108. 将有序数组转换为二叉搜索树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ConvertSortedArrayToBinarySearchTree.java)
+* [329. 矩阵中的最长递增路径](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/LongestIncreasingPathInAMatrix.java)
 * [350. 两个数组的交集 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IntersectionOfTwoArraysii.java)
 * [378. 有序矩阵中第K小的元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/KthSmallestElementInASortedMatrix.java)
+* [392. 判断子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IsSubsequence.java)
 * [785. 判断二分图](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IsGraphBipartite.java)
 * [792. 匹配子序列的单词数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/NumberOfMatchingSubsequences.java)
 * [799. 香槟塔](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ChampagneTower.java)
@@ -428,6 +430,9 @@ leetcode 刷题记录
 * [856. 括号的分数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ScoreOfParentheses.java)
 * [858. 镜面反射](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MirrorReflection.java)
 * [859. 亲密字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/BuddyStrings.java)
+* [860. 柠檬水找零](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/LemonadeChange.java)
+* [863. 二叉树中所有距离为 K 的结点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/AllNodesDistanceKInBinaryTree.java)
+* [867. 转置矩阵](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/TransposeMatrix.java)
 * [1025. 除数博弈](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/DivisorGame.java)
 * [面试题 16.11. 跳水板](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/DivingBoardLcci.java)
 * [面试题 17.13. 恢复空格](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ReSpaceLcci.java)
@@ -613,9 +618,11 @@ leetcode 刷题记录
 * [304. 二维区域和检索 - 矩阵不可变](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/RangeSumQuery2dImmutable.java)
 * [307. 区域和检索 - 数组可修改](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/RangeSumQueryMutable.java)
 * [309. 最佳买卖股票时机含冷冻期](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/BestTimeToBuyAndSellStockWithCooldown.java)
+* [329. 矩阵中的最长递增路径](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/LongestIncreasingPathInAMatrix.java)
 * [343. 整数拆分](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/IntegerBreak.java)
 * [350. 两个数组的交集 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IntersectionOfTwoArraysii.java)
 * [378. 有序矩阵中第K小的元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/KthSmallestElementInASortedMatrix.java)
+* [392. 判断子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IsSubsequence.java)
 * [406. 根据身高重建队列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/QueueReconstructionByHeight.java)
 * [409. 最长回文串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/LongestPalindrome.java)
 * [412. Fizz Buzz](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/FizzBuzz.java)
@@ -813,6 +820,9 @@ leetcode 刷题记录
 * [856. 括号的分数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ScoreOfParentheses.java)
 * [858. 镜面反射](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MirrorReflection.java)
 * [859. 亲密字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/BuddyStrings.java)
+* [860. 柠檬水找零](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/LemonadeChange.java)
+* [863. 二叉树中所有距离为 K 的结点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/AllNodesDistanceKInBinaryTree.java)
+* [867. 转置矩阵](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/TransposeMatrix.java)
 * [912. 排序数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/SortAnArray.java)
 * [983. 最低票价](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/MinimumCostForTickets.java)
 * [990. 等式方程的可满足性](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SatisfiabilityOfEqualityEquations.java)
@@ -849,11 +859,8 @@ leetcode 刷题记录
 * [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SearchI.java)
 * [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MissingNumber.java)
 
-* [860. 柠檬水找零](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/LemonadeChange.java)
-* [863. 二叉树中所有距离为 K 的结点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/AllNodesDistanceKInBinaryTree.java)
-* [867. 转置矩阵](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/TransposeMatrix.java)
-* [329. 矩阵中的最长递增路径](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/LongestIncreasingPathInAMatrix.java)
-* [392. 判断子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IsSubsequence.java)
+
+
 
 
 
