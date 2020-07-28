@@ -433,7 +433,12 @@ leetcode 刷题记录
 * [860. 柠檬水找零](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/LemonadeChange.java)
 * [863. 二叉树中所有距离为 K 的结点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/AllNodesDistanceKInBinaryTree.java)
 * [867. 转置矩阵](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/TransposeMatrix.java)
-* [871. 最低加油次数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MinimumNumberOfRefuelingStops.java)
+* [865. 具有所有最深结点的最小子树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SmallestSubtreeWithAllTheDeepestNodes.java)
+* [870. 优势洗牌](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/AdvantageShuffle.java)
+* [872. 叶子相似的树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/LeafSimilarTrees.java)
+* [873. 最长的斐波那契子序列的长度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/LengthOfLongestFibonacciSubsequence.java)
+* [874. 模拟行走机器人](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/WalkingRobotSimulation.java)
+
 * [1025. 除数博弈](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/DivisorGame.java)
 * [面试题 16.11. 跳水板](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/DivingBoardLcci.java)
 * [面试题 17.13. 恢复空格](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ReSpaceLcci.java)
@@ -823,8 +828,13 @@ leetcode 刷题记录
 * [859. 亲密字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/BuddyStrings.java)
 * [860. 柠檬水找零](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/LemonadeChange.java)
 * [863. 二叉树中所有距离为 K 的结点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/AllNodesDistanceKInBinaryTree.java)
+* [865. 具有所有最深结点的最小子树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SmallestSubtreeWithAllTheDeepestNodes.java)
 * [867. 转置矩阵](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/TransposeMatrix.java)
+* [870. 优势洗牌](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/AdvantageShuffle.java)
 * [871. 最低加油次数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MinimumNumberOfRefuelingStops.java)
+* [872. 叶子相似的树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/LeafSimilarTrees.java)
+* [873. 最长的斐波那契子序列的长度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/LengthOfLongestFibonacciSubsequence.java)
+* [874. 模拟行走机器人](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/WalkingRobotSimulation.java)
 * [912. 排序数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/SortAnArray.java)
 * [983. 最低票价](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/MinimumCostForTickets.java)
 * [990. 等式方程的可满足性](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SatisfiabilityOfEqualityEquations.java)
@@ -860,7 +870,6 @@ leetcode 刷题记录
 * [剑指 Offer 52. 两个链表的第一个公共节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IntersectionNode.java)
 * [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SearchI.java)
 * [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MissingNumber.java)
-
 
 
 
