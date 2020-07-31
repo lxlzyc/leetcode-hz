@@ -446,9 +446,13 @@ leetcode 刷题记录
 * [885. 螺旋矩阵 III](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SpiralMatrixiii.java)
 * [888. 公平的糖果交换](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/FairCandySwap.java)
 * [889. 根据前序和后序遍历构造二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ConstructBinaryTreeFromPreorderAndPostorderTraversal.java)
+* [890. 查找和替换模式](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/FindAndReplacePattern.java)
+* [893. 特殊等价字符串组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/GroupsOfSpecialEquivalentStrings.java)
 * [1025. 除数博弈](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/DivisorGame.java)
+
 * [面试题 16.11. 跳水板](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/DivingBoardLcci.java)
 * [面试题 17.13. 恢复空格](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ReSpaceLcci.java)
+* [面试题 08.03. 魔术索引](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MagicIndexLcci.java)
 * [剑指 Offer 03. 数组中重复的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/FindRepeatNumber.java)
 * [剑指 Offer 05. 替换空格](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ReplaceSpace.java)
 * [剑指 Offer 06. 从尾到头打印链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ReversePrint.java)
@@ -850,6 +854,8 @@ leetcode 刷题记录
 * [885. 螺旋矩阵 III](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SpiralMatrixiii.java)
 * [888. 公平的糖果交换](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/FairCandySwap.java)
 * [889. 根据前序和后序遍历构造二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ConstructBinaryTreeFromPreorderAndPostorderTraversal.java)
+* [890. 查找和替换模式](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/FindAndReplacePattern.java)
+* [893. 特殊等价字符串组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/GroupsOfSpecialEquivalentStrings.java)
 * [912. 排序数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/SortAnArray.java)
 * [983. 最低票价](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/MinimumCostForTickets.java)
 * [990. 等式方程的可满足性](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SatisfiabilityOfEqualityEquations.java)
@@ -877,6 +883,7 @@ leetcode 刷题记录
 * [面试题64. 求1+2+…+n](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/Sum1toNNums.java)
 * [面试题 08.11. 硬币](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/CoinLcci.java)
 * [面试题 16.18. 模式匹配](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/PatternMatchingLcci.java)
+* [面试题 08.03. 魔术索引](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MagicIndexLcci.java)
 
 * [剑指 Offer 03. 数组中重复的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/FindRepeatNumber.java)
 * [剑指 Offer 05. 替换空格](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ReplaceSpace.java)
@@ -888,7 +895,8 @@ leetcode 刷题记录
 
 
 
-  
+
+ 
  
  
  
