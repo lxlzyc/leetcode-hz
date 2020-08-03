@@ -894,8 +894,13 @@ leetcode 刷题记录
 * [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MissingNumber.java)
 
 
+* [632. 最小区间](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SmallestRangeCoveringElementsFromKLists.java)
+* [114. 二叉树展开为链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/FlattenBinaryTreeToLinkedList.java)
+* [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IncreasingOrderSearchTree.java)
+* [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/.java)
+* [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/.java)
 
-
+ 
  
  
  
