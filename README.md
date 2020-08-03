@@ -460,6 +460,15 @@ leetcode 刷题记录
 * [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SearchI.java)
 * [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MissingNumber.java)
 
+### 2020-07
+
+* [114. 二叉树展开为链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/FlattenBinaryTreeToLinkedList.java)
+* [632. 最小区间](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SmallestRangeCoveringElementsFromKLists.java)
+* [896. 单调数列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MonotonicArray.java)
+* [897. 递增顺序查找树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IncreasingOrderSearchTree.java)
+* [905. 按奇偶排序数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SortArrayByParity.java)
+
+
 ## 全部顺序
 
 * [1. 两数之和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/TwoSum.java)
@@ -556,6 +565,7 @@ leetcode 刷题记录
 * [111. 二叉树的最小深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/MinimumDepthOfBinaryTree.java)
 * [112. 路径总和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/PathSum.java)
 * [113. 路径总和 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/PathSum2.java)
+* [114. 二叉树展开为链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/FlattenBinaryTreeToLinkedList.java)
 * [116. 填充每个节点的下一个右侧节点指针](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/PopulatingNextRightPointersInEachNode.java)
 * [118. 杨辉三角](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/PascalsTriangle.java)
 * [119. 杨辉三角2](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/PascalsTriangle2.java)
@@ -733,6 +743,7 @@ leetcode 刷题记录
 * [621. 任务调度器](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/TaskScheduler.java)
 * [623. 在二叉树中增加一行](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/AddOneRowToTree.java)
 * [628. 三个数的最大乘积](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MaximumProductOfThreeNumbers.java)
+* [632. 最小区间](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SmallestRangeCoveringElementsFromKLists.java)
 * [637. 二叉树的层平均值](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/AverageOfLevelsInBinaryTree.java)
 * [646. 最长数对链](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/MaximumLengthOfPairChain.java)
 * [647. 回文子串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/PalindromicSubstrings.java)
@@ -856,6 +867,9 @@ leetcode 刷题记录
 * [889. 根据前序和后序遍历构造二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ConstructBinaryTreeFromPreorderAndPostorderTraversal.java)
 * [890. 查找和替换模式](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/FindAndReplacePattern.java)
 * [893. 特殊等价字符串组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/GroupsOfSpecialEquivalentStrings.java)
+* [896. 单调数列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MonotonicArray.java)
+* [897. 递增顺序查找树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IncreasingOrderSearchTree.java)
+* [905. 按奇偶排序数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SortArrayByParity.java)
 * [912. 排序数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/SortAnArray.java)
 * [983. 最低票价](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/MinimumCostForTickets.java)
 * [990. 等式方程的可满足性](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SatisfiabilityOfEqualityEquations.java)
@@ -894,11 +908,7 @@ leetcode 刷题记录
 * [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MissingNumber.java)
 
 
-* [632. 最小区间](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SmallestRangeCoveringElementsFromKLists.java)
-* [114. 二叉树展开为链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/FlattenBinaryTreeToLinkedList.java)
-* [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IncreasingOrderSearchTree.java)
-* [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/.java)
-* [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/.java)
+
 
  
  
