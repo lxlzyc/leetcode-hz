@@ -462,12 +462,15 @@ leetcode 刷题记录
 
 ### 2020-07
 
-* [114. 二叉树展开为链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/FlattenBinaryTreeToLinkedList.java)
-* [632. 最小区间](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SmallestRangeCoveringElementsFromKLists.java)
-* [896. 单调数列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MonotonicArray.java)
-* [897. 递增顺序查找树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IncreasingOrderSearchTree.java)
-* [905. 按奇偶排序数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SortArrayByParity.java)
-
+* [207. 课程表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/CourseSchedule.java)
+* [114. 二叉树展开为链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/FlattenBinaryTreeToLinkedList.java)
+* [632. 最小区间](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/SmallestRangeCoveringElementsFromKLists.java)
+* [894. 所有可能的满二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/AllPossibleFullBinaryTrees.java)
+* [896. 单调数列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/MonotonicArray.java)
+* [897. 递增顺序查找树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/IncreasingOrderSearchTree.java)
+* [905. 按奇偶排序数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/SortArrayByParity.java)
+* [900. RLE 迭代器](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/RLEIterator.java) 
+* [901. 股票价格跨度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/OnlineStockSpan.java)
 
 ## 全部顺序
 
@@ -614,6 +617,7 @@ leetcode 刷题记录
 * [203. 移除链表元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/RemoveLinkedListElements.java)
 * [205. 同构字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/IsomorphicStrings.java)
 * [206. 反转链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ReverseLinkedList.java)
+* [207. 课程表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/CourseSchedule.java)
 * [208. 实现 Trie (前缀树)](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ImplementTriePrefixTree.java)
 * [209. 长度最小的子数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/MinimumSizeSubarraySum.java)
 * [210. 课程表 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/CourseScheduleii.java)
@@ -867,8 +871,11 @@ leetcode 刷题记录
 * [889. 根据前序和后序遍历构造二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ConstructBinaryTreeFromPreorderAndPostorderTraversal.java)
 * [890. 查找和替换模式](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/FindAndReplacePattern.java)
 * [893. 特殊等价字符串组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/GroupsOfSpecialEquivalentStrings.java)
+* [894. 所有可能的满二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/AllPossibleFullBinaryTrees.java)
 * [896. 单调数列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MonotonicArray.java)
 * [897. 递增顺序查找树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IncreasingOrderSearchTree.java)
+* [900. RLE 迭代器](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/RLEIterator.java) 
+* [901. 股票价格跨度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/OnlineStockSpan.java)
 * [905. 按奇偶排序数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SortArrayByParity.java)
 * [912. 排序数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/SortAnArray.java)
 * [983. 最低票价](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/MinimumCostForTickets.java)
@@ -913,8 +920,8 @@ leetcode 刷题记录
  
  
  
- 
- 
+
+
  
  
  
