@@ -480,6 +480,11 @@ leetcode 刷题记录
 * [917. 仅仅反转字母](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ReverseOnlyLetters.java)
 * [922. 按奇偶排序数组 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/SortArrayByParityii.java)
 * [925. 长按键入](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/LongPressedName.java)
+* [926. 将字符串翻转到单调递增](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/FlipStringToMonotoneIncreasing.java)
+* [929. 独特的电子邮件地址](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/UniqueEmailAddresses.java)
+* [933. 最近的请求次数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/NumberOfRecentCalls.java)
+* [5468. 第 k 个缺失的正整数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/FindKthPositive.java)
+* [5483. 整理字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/MakeTheStringGreat.java)
 
 ## 全部顺序
 
@@ -896,6 +901,9 @@ leetcode 刷题记录
 * [917. 仅仅反转字母](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ReverseOnlyLetters.java)
 * [922. 按奇偶排序数组 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/SortArrayByParityii.java)
 * [925. 长按键入](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/LongPressedName.java)
+* [926. 将字符串翻转到单调递增](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/FlipStringToMonotoneIncreasing.java)
+* [929. 独特的电子邮件地址](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/UniqueEmailAddresses.java)
+* [933. 最近的请求次数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/NumberOfRecentCalls.java)
 * [983. 最低票价](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/MinimumCostForTickets.java)
 * [990. 等式方程的可满足性](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SatisfiabilityOfEqualityEquations.java)
 * [999. 车的可用捕获量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/AvailableCapturesForRook.java)
@@ -911,6 +919,8 @@ leetcode 刷题记录
 * [1300. 转变数组后最接近目标值的数组和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SumOfMutatedArrayClosestToTarget.java)
 * [1431. 拥有最多糖果的孩子](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/KidsWithTheGreatestNumberOfCandies.java)
 
+* [5468. 第 k 个缺失的正整数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/FindKthPositive.java)
+* [5483. 整理字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/MakeTheStringGreat.java)
 
 * [面试题13. 机器人的运动范围](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MovingCount.java)
 * [面试题 16.11. 跳水板](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/DivingBoardLcci.java)
@@ -936,11 +946,12 @@ leetcode 刷题记录
  
 
 
-
+  
+ 
+  
+  
  
  
-
-
  
  
  
