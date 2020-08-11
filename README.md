@@ -945,6 +945,9 @@ leetcode 刷题记录
 
  
 
+* [937. 重新排列日志文件](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ReorderDataInLogFiles.java)
+* [938. 二叉搜索树的范围和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/RangeSumOfBst.java)
+* [946. 验证栈序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ValidateStackSequences.java)
 
   
  
