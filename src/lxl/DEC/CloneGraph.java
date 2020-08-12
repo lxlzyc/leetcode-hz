@@ -47,6 +47,37 @@ public class CloneGraph {
         }
     }
 
+    private Map<Node, Node> visit = new HashMap<>();
+
+    public Node cloneGraphBFS(Node node) {
+        if (node == null) {
+            return null;
+        }
+        Stack<Node> nodes = new Stack<>();
+        nodes.push(node);
+        while (!nodes.isEmpty()) {
+            Node index = nodes.pop();
+            visit.put(index, new Node(index.val, null));
+            for (Node item : index.neighbors) {
+                if (!visit.containsKey(item)) {
+                    visit.put(item, new Node(item.val, null));
+                    nodes.push(item);
+                }
+            }
+        }
+        for (Node item : visit.keySet()) {
+            Node cp = visit.get(item);
+            if (item.neighbors != null) {
+                List<Node> nei = new ArrayList<>();
+                for (Node itemnei : item.neighbors) {
+                    nei.add(visit.get(itemnei));
+                }
+                cp.neighbors = nei;
+            }
+        }
+        return visit.get(node);
+    }
+
     public Node cloneGraph(Node node) {
         Set<Integer> clones = new HashSet<>();
         HashMap<Integer, Node> map = new HashMap<>();
@@ -104,7 +135,7 @@ public class CloneGraph {
         list4.add(node3);
         node4.neighbors = list4;
         CloneGraph cloneGraph = new CloneGraph();
-        cloneGraph.cloneGraph(node1);
+        cloneGraph.cloneGraphBFS(node1);
     }
 
 }
