@@ -460,8 +460,9 @@ leetcode 刷题记录
 * [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SearchI.java)
 * [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MissingNumber.java)
 
-### 2020-07
+### 2020-08
 
+* [43. 字符串相乘](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/MultiplyStrings.java)
 * [114. 二叉树展开为链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/FlattenBinaryTreeToLinkedList.java)
 * [207. 课程表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/CourseSchedule.java)
 * [213. 打家劫舍 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/HouseRobber2.java)
@@ -478,6 +479,7 @@ leetcode 刷题记录
 * [910. 最小差值 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/SmallestRangeii.java)
 * [911. 在线选举](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/TopVotedCandidate.java)
 * [917. 仅仅反转字母](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ReverseOnlyLetters.java)
+* [921. 使括号有效的最少添加](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/MinimumAddToMakeParenthesesValid.java)
 * [922. 按奇偶排序数组 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/SortArrayByParityii.java)
 * [925. 长按键入](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/LongPressedName.java)
 * [926. 将字符串翻转到单调递增](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/FlipStringToMonotoneIncreasing.java)
@@ -488,6 +490,7 @@ leetcode 刷题记录
 * [937. 重新排列日志文件](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ReorderDataInLogFiles.java)
 * [938. 二叉搜索树的范围和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/RangeSumOfBst.java)
 * [941. 有效的山脉数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ValidMountainArray.java)
+* [945. 使数组唯一的最小增量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/MinimumIncrementToMakeArrayUnique.java)
 * [946. 验证栈序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ValidateStackSequences.java)
 * [5468. 第 k 个缺失的正整数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/FindKthPositive.java)
 * [5483. 整理字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/MakeTheStringGreat.java)
@@ -532,6 +535,7 @@ leetcode 刷题记录
 * [40. 组合总和 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/CombinationSum2.java)
 * [41.缺失的第一个正整数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/FirstMissingPositive.java)
 * [42. 接雨水](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/TrappingRainWater.java)
+* [43. 字符串相乘](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/MultiplyStrings.java)
 * [45. 跳跃游戏 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/Jump.java)
 * [46.全排列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/Permutations.java)
 * [47. 全排列 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/Permutations2.java)
@@ -905,6 +909,7 @@ leetcode 刷题记录
 * [911. 在线选举](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/TopVotedCandidate.java)
 * [912. 排序数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/SortAnArray.java)
 * [917. 仅仅反转字母](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ReverseOnlyLetters.java)
+* [921. 使括号有效的最少添加](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/MinimumAddToMakeParenthesesValid.java)
 * [922. 按奇偶排序数组 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/SortArrayByParityii.java)
 * [925. 长按键入](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/LongPressedName.java)
 * [926. 将字符串翻转到单调递增](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/FlipStringToMonotoneIncreasing.java)
@@ -915,6 +920,7 @@ leetcode 刷题记录
 * [937. 重新排列日志文件](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ReorderDataInLogFiles.java)
 * [938. 二叉搜索树的范围和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/RangeSumOfBst.java)
 * [941. 有效的山脉数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ValidMountainArray.java)
+* [945. 使数组唯一的最小增量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/MinimumIncrementToMakeArrayUnique.java)
 * [946. 验证栈序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ValidateStackSequences.java)
 * [983. 最低票价](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/MinimumCostForTickets.java)
 * [990. 等式方程的可满足性](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SatisfiabilityOfEqualityEquations.java)
@@ -961,8 +967,7 @@ leetcode 刷题记录
 
 
   
- 
-  
+
   
  
  
