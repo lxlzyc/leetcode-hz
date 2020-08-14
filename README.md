@@ -487,11 +487,15 @@ leetcode 刷题记录
 * [931. 下降路径最小和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/MinimumFallingPathSum.java)
 * [933. 最近的请求次数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/NumberOfRecentCalls.java)
 * [934. 最短的桥](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ShortestBridge.java)
+* [935. 骑士拨号器](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/KnightDialer.java)
 * [937. 重新排列日志文件](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ReorderDataInLogFiles.java)
 * [938. 二叉搜索树的范围和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/RangeSumOfBst.java)
 * [941. 有效的山脉数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ValidMountainArray.java)
 * [945. 使数组唯一的最小增量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/MinimumIncrementToMakeArrayUnique.java)
 * [946. 验证栈序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ValidateStackSequences.java)
+* [953. 验证外星语词典](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/VerifyingAnAlienDictionary.java)
+* [958. 二叉树的完全性检验](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/CheckCompletenessOfABinaryTree.java)
+
 * [5468. 第 k 个缺失的正整数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/FindKthPositive.java)
 * [5483. 整理字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/MakeTheStringGreat.java)
 
@@ -917,11 +921,14 @@ leetcode 刷题记录
 * [931. 下降路径最小和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/MinimumFallingPathSum.java)
 * [933. 最近的请求次数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/NumberOfRecentCalls.java)
 * [934. 最短的桥](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ShortestBridge.java)
+* [935. 骑士拨号器](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/KnightDialer.java)
 * [937. 重新排列日志文件](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ReorderDataInLogFiles.java)
 * [938. 二叉搜索树的范围和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/RangeSumOfBst.java)
 * [941. 有效的山脉数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ValidMountainArray.java)
 * [945. 使数组唯一的最小增量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/MinimumIncrementToMakeArrayUnique.java)
 * [946. 验证栈序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ValidateStackSequences.java)
+* [953. 验证外星语词典](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/VerifyingAnAlienDictionary.java)
+* [958. 二叉树的完全性检验](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/CheckCompletenessOfABinaryTree.java)
 * [983. 最低票价](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/MinimumCostForTickets.java)
 * [990. 等式方程的可满足性](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SatisfiabilityOfEqualityEquations.java)
 * [999. 车的可用捕获量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/AvailableCapturesForRook.java)
@@ -962,6 +969,7 @@ leetcode 刷题记录
 
 
  
+
 
 
 
