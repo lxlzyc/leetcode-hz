@@ -463,6 +463,7 @@ leetcode 刷题记录
 ### 2020-08
 
 * [43. 字符串相乘](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/MultiplyStrings.java)
+* [110. 平衡二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/BalancedBinaryTree.java)
 * [114. 二叉树展开为链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/FlattenBinaryTreeToLinkedList.java)
 * [207. 课程表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/CourseSchedule.java)
 * [213. 打家劫舍 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/HouseRobber2.java)
@@ -493,11 +494,16 @@ leetcode 刷题记录
 * [941. 有效的山脉数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ValidMountainArray.java)
 * [945. 使数组唯一的最小增量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/MinimumIncrementToMakeArrayUnique.java)
 * [946. 验证栈序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ValidateStackSequences.java)
+* [951. 翻转等价二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/FlipEquivalentBinaryTrees.java)
 * [953. 验证外星语词典](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/VerifyingAnAlienDictionary.java)
 * [965. 单值二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/UnivaluedBinaryTree.java)
+* [971. 翻转二叉树以匹配先序遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/FlipBinaryTreeToMatchPreorderTraversal.java)
 
 * [5468. 第 k 个缺失的正整数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/FindKthPositive.java)
 * [5483. 整理字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/MakeTheStringGreat.java)
+
+
+
 
 ## 全部顺序
 
@@ -593,6 +599,7 @@ leetcode 刷题记录
 * [107. 二叉树的层次遍历 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/BinaryTreeLevelOrderTraversal2.java)
 * [108. 将有序数组转换为二叉搜索树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ConvertSortedArrayToBinarySearchTree.java)
 * [109. 有序链表转换二叉搜索树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/ConvertSortedListToBinarySearchTree.java)
+* [110. 平衡二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/BalancedBinaryTree.java)
 * [111. 二叉树的最小深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/MinimumDepthOfBinaryTree.java)
 * [112. 路径总和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/PathSum.java)
 * [113. 路径总和 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/PathSum2.java)
@@ -927,8 +934,10 @@ leetcode 刷题记录
 * [941. 有效的山脉数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ValidMountainArray.java)
 * [945. 使数组唯一的最小增量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/MinimumIncrementToMakeArrayUnique.java)
 * [946. 验证栈序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ValidateStackSequences.java)
+* [951. 翻转等价二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/FlipEquivalentBinaryTrees.java)
 * [953. 验证外星语词典](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/VerifyingAnAlienDictionary.java)
 * [965. 单值二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/UnivaluedBinaryTree.java)
+* [971. 翻转二叉树以匹配先序遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/FlipBinaryTreeToMatchPreorderTraversal.java)
 * [983. 最低票价](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/MinimumCostForTickets.java)
 * [990. 等式方程的可满足性](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SatisfiabilityOfEqualityEquations.java)
 * [999. 车的可用捕获量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/AvailableCapturesForRook.java)
@@ -968,7 +977,7 @@ leetcode 刷题记录
 * [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MissingNumber.java)
 
 
- 
+
 
 
 
