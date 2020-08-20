@@ -469,6 +469,7 @@ leetcode 刷题记录
 * [213. 打家劫舍 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/HouseRobber2.java)
 * [336. 回文对](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/PalindromePairs.java)
 * [337. 打家劫舍 III](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/HouseRobberiii.java)
+* [529. 扫雷游戏](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/Minesweeper.java)
 * [632. 最小区间](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/SmallestRangeCoveringElementsFromKLists.java)
 * [894. 所有可能的满二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/AllPossibleFullBinaryTrees.java)
 * [896. 单调数列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/MonotonicArray.java)
@@ -499,8 +500,10 @@ leetcode 刷题记录
 * [961. 重复 N 次的元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/NRepeatedElementInSize2nArray.java)
 * [962. 最大宽度坡](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/MaximumWidthRamp.java)
 * [965. 单值二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/UnivaluedBinaryTree.java)
+* [970. 强整数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/PowerfulIntegers.java)
 * [971. 翻转二叉树以匹配先序遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/FlipBinaryTreeToMatchPreorderTraversal.java)
 * [973. 最接近原点的 K 个点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/KClosestPointsToOrigin.java)
+* [977. 有序数组的平方](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/SquaresOfASortedArray.java)
 * [981. 基于时间的键值存储](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/TimeBasedKeyValueStore.java)
 * [985. 查询后的偶数和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/SumOfEvenNumbersAfterQueries.java)
 * [989. 数组形式的整数加法](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/AddToArrayFormOfInteger.java)
@@ -755,6 +758,7 @@ leetcode 刷题记录
 * [520. 检测大写字母](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/DetectCapital.java)
 * [521. 最长特殊序列 Ⅰ](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/LongestUncommonSubsequencei.java)
 * [528. 按权重随机选择](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/RandomPickWithWeight.java) 
+* [529. 扫雷游戏](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/Minesweeper.java)
 * [530. 二叉搜索树的最小绝对差](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MinimumAbsoluteDifferenceInBst.java)
 * [532. 数组中的K-diff数对](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/KDiffPairsInAnArray.java)
 * [535. TinyURL 的加密与解密](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/EncodeAndDecodeTinyurl.java)
@@ -946,8 +950,10 @@ leetcode 刷题记录
 * [961. 重复 N 次的元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/NRepeatedElementInSize2nArray.java)
 * [962. 最大宽度坡](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/MaximumWidthRamp.java)
 * [965. 单值二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/UnivaluedBinaryTree.java)
+* [970. 强整数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/PowerfulIntegers.java)
 * [971. 翻转二叉树以匹配先序遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/FlipBinaryTreeToMatchPreorderTraversal.java)
 * [973. 最接近原点的 K 个点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/KClosestPointsToOrigin.java)
+* [977. 有序数组的平方](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/SquaresOfASortedArray.java)
 * [981. 基于时间的键值存储](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/TimeBasedKeyValueStore.java)
 * [983. 最低票价](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/MinimumCostForTickets.java)
 * [985. 查询后的偶数和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/SumOfEvenNumbersAfterQueries.java)
@@ -995,7 +1001,8 @@ leetcode 刷题记录
 
   
 
-  
+
+
  
  
  
