@@ -506,7 +506,10 @@ leetcode 刷题记录
 * [977. 有序数组的平方](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/SquaresOfASortedArray.java)
 * [981. 基于时间的键值存储](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/TimeBasedKeyValueStore.java)
 * [985. 查询后的偶数和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/SumOfEvenNumbersAfterQueries.java)
+* [986. 区间列表的交集](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/IntervalListIntersections.java)
+* [987. 二叉树的垂序遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/VerticalOrderTraversalOfABinaryTree.java)
 * [989. 数组形式的整数加法](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/AddToArrayFormOfInteger.java)
+* [993. 二叉树的堂兄弟节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/CousinsInBinaryTree.java)
 * [994. 腐烂的橘子](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/RottingOranges.java)
 
 * [5468. 第 k 个缺失的正整数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/FindKthPositive.java)
@@ -957,8 +960,11 @@ leetcode 刷题记录
 * [981. 基于时间的键值存储](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/TimeBasedKeyValueStore.java)
 * [983. 最低票价](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/MinimumCostForTickets.java)
 * [985. 查询后的偶数和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/SumOfEvenNumbersAfterQueries.java)
+* [986. 区间列表的交集](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/IntervalListIntersections.java)
+* [987. 二叉树的垂序遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/VerticalOrderTraversalOfABinaryTree.java)
 * [989. 数组形式的整数加法](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/AddToArrayFormOfInteger.java)
 * [990. 等式方程的可满足性](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SatisfiabilityOfEqualityEquations.java)
+* [993. 二叉树的堂兄弟节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/CousinsInBinaryTree.java)
 * [994. 腐烂的橘子](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/RottingOranges.java)
 * [999. 车的可用捕获量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/AvailableCapturesForRook.java)
 * [1014. 最佳观光组合](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/BestSightseeingPair.java)
@@ -995,6 +1001,7 @@ leetcode 刷题记录
 * [剑指 Offer 52. 两个链表的第一个公共节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IntersectionNode.java)
 * [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SearchI.java)
 * [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MissingNumber.java)
+
 
 
 
