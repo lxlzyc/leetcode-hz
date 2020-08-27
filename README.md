@@ -462,11 +462,13 @@ leetcode 刷题记录
 
 ### 2020-08
 
+* [37. 解数独](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/SudokuSolver.java)
 * [43. 字符串相乘](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/MultiplyStrings.java)
 * [110. 平衡二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/BalancedBinaryTree.java)
 * [114. 二叉树展开为链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/FlattenBinaryTreeToLinkedList.java)
 * [207. 课程表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/CourseSchedule.java)
 * [213. 打家劫舍 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/HouseRobber2.java)
+* [332. 重新安排行程](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ReconstructItinerary.java)
 * [336. 回文对](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/PalindromePairs.java)
 * [337. 打家劫舍 III](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/HouseRobberiii.java)
 * [529. 扫雷游戏](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/Minesweeper.java)
@@ -505,13 +507,13 @@ leetcode 刷题记录
 * [973. 最接近原点的 K 个点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/KClosestPointsToOrigin.java)
 * [977. 有序数组的平方](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/SquaresOfASortedArray.java)
 * [981. 基于时间的键值存储](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/TimeBasedKeyValueStore.java)
+* [984. 不含 AAA 或 BBB 的字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/StringWithoutaaaOrbbb.java)
 * [985. 查询后的偶数和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/SumOfEvenNumbersAfterQueries.java)
 * [986. 区间列表的交集](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/IntervalListIntersections.java)
 * [987. 二叉树的垂序遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/VerticalOrderTraversalOfABinaryTree.java)
 * [989. 数组形式的整数加法](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/AddToArrayFormOfInteger.java)
 * [993. 二叉树的堂兄弟节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/CousinsInBinaryTree.java)
 * [994. 腐烂的橘子](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/RottingOranges.java)
-
 * [5468. 第 k 个缺失的正整数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/FindKthPositive.java)
 * [5483. 整理字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/MakeTheStringGreat.java)
 
@@ -553,6 +555,7 @@ leetcode 刷题记录
 * [34. 在排序数组中查找元素的第一个和最后一个位置](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/FindFirstALastPositionInSortedArray.java)
 * [35. 搜索插入位置](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/SearchInsertPosition.java)
 * [36.有效的数独](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/ValidSudoku.java)
+* [37. 解数独](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/SudokuSolver.java)
 * [38.报数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/CountAndSay.java)
 * [39.组合总和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/CombinationSum.java)
 * [40. 组合总和 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/CombinationSum2.java)
@@ -699,6 +702,7 @@ leetcode 刷题记录
 * [307. 区域和检索 - 数组可修改](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/RangeSumQueryMutable.java)
 * [309. 最佳买卖股票时机含冷冻期](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/BestTimeToBuyAndSellStockWithCooldown.java)
 * [329. 矩阵中的最长递增路径](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/LongestIncreasingPathInAMatrix.java)
+* [332. 重新安排行程](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ReconstructItinerary.java)
 * [336. 回文对](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/PalindromePairs.java)
 * [337. 打家劫舍 III](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/HouseRobberiii.java)
 * [343. 整数拆分](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/IntegerBreak.java)
@@ -959,6 +963,7 @@ leetcode 刷题记录
 * [977. 有序数组的平方](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/SquaresOfASortedArray.java)
 * [981. 基于时间的键值存储](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/TimeBasedKeyValueStore.java)
 * [983. 最低票价](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/MinimumCostForTickets.java)
+* [984. 不含 AAA 或 BBB 的字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/StringWithoutaaaOrbbb.java)
 * [985. 查询后的偶数和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/SumOfEvenNumbersAfterQueries.java)
 * [986. 区间列表的交集](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/IntervalListIntersections.java)
 * [987. 二叉树的垂序遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/VerticalOrderTraversalOfABinaryTree.java)
@@ -1004,9 +1009,6 @@ leetcode 刷题记录
 
 
 
-
-
-  
 
 
 
