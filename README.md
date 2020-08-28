@@ -462,10 +462,14 @@ leetcode 刷题记录
 
 ### 2020-08
 
+
+* [30. 串联所有单词的子串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/SubstringWithConcatenationOfAllWords.java)
 * [37. 解数独](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/SudokuSolver.java)
 * [43. 字符串相乘](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/MultiplyStrings.java)
+* [106. 从中序与后序遍历序列构造二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ConstructBinaryTreeFromInorderAndPostorderTraversal.java)
 * [110. 平衡二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/BalancedBinaryTree.java)
 * [114. 二叉树展开为链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/FlattenBinaryTreeToLinkedList.java)
+* [162. 寻找峰值](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/FindPeakElement.java)
 * [207. 课程表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/CourseSchedule.java)
 * [213. 打家劫舍 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/HouseRobber2.java)
 * [332. 重新安排行程](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ReconstructItinerary.java)
@@ -549,6 +553,7 @@ leetcode 刷题记录
 * [26. 删除排序数组中的重复项](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/RemoveDuplicatesFromSortedArray.java)
 * [27. 移除元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/RemoveElement.java)
 * [28. 实现 strStr()](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/ImplementStrstr.java)
+* [30. 串联所有单词的子串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/SubstringWithConcatenationOfAllWords.java)
 * [31. 下一个排列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/NextPermutation.java)
 * [32.最长的有效括号](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/LongestValidParentheses.java)
 * [33. 搜索旋转排序数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/SearchInRotatedSortedArray.java)
@@ -612,6 +617,7 @@ leetcode 刷题记录
 * [103. 二叉树的锯齿形层次遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/BinaryTreeZigzagLevelOrderTraversal.java)
 * [104. 二叉树的最大深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/MaximumDepthOfBinaryTree.java)
 * [105. 从前序与中序遍历序列构造二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/ConstructBinaryTreeFromPreorderAndInorderTraversal.java)
+* [106. 从中序与后序遍历序列构造二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ConstructBinaryTreeFromInorderAndPostorderTraversal.java)
 * [107. 二叉树的层次遍历 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/BinaryTreeLevelOrderTraversal2.java)
 * [108. 将有序数组转换为二叉搜索树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ConvertSortedArrayToBinarySearchTree.java)
 * [109. 有序链表转换二叉搜索树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/DEC/ConvertSortedListToBinarySearchTree.java)
@@ -651,6 +657,7 @@ leetcode 刷题记录
 * [154. 寻找旋转排序数组中的最小值](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/FindMinimumInRotatedSortedArray2.java)
 * [155. 最小栈](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/MinStack.java)
 * [160. 相交链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/IntersectionOfTwoLinkedLists.java)
+* [162. 寻找峰值](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/FindPeakElement.java)
 * [167. 两数之和 II - 输入有序数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/TwoSumInputArrayIsSorted2.java)
 * [168. Excel表列名称](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ExcelSheetColumnTitle.java)
 * [169. 多数元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/MajorityElement.java)
@@ -1006,11 +1013,6 @@ leetcode 刷题记录
 * [剑指 Offer 52. 两个链表的第一个公共节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IntersectionNode.java)
 * [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SearchI.java)
 * [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MissingNumber.java)
-
-
-
-
-
 
  
  
