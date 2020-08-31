@@ -470,8 +470,11 @@ leetcode 刷题记录
 * [110. 平衡二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/BalancedBinaryTree.java)
 * [114. 二叉树展开为链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/FlattenBinaryTreeToLinkedList.java)
 * [162. 寻找峰值](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/FindPeakElement.java)
+* [204. 计数质数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/CountPrimes.java)
 * [207. 课程表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/CourseSchedule.java)
 * [213. 打家劫舍 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/HouseRobber2.java)
+* [219. 存在重复元素 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ContainsDuplicate2.java)
+* [220. 存在重复元素 III](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ContainsDuplicateiii.java)
 * [332. 重新安排行程](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ReconstructItinerary.java)
 * [336. 回文对](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/PalindromePairs.java)
 * [337. 打家劫舍 III](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/HouseRobberiii.java)
@@ -673,6 +676,7 @@ leetcode 刷题记录
 * [200. 岛屿数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/NumberOfIslands.java)
 * [202. 快乐数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/HappyNumber.java)
 * [203. 移除链表元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/RemoveLinkedListElements.java)
+* [204. 计数质数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/CountPrimes.java)
 * [205. 同构字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/IsomorphicStrings.java)
 * [206. 反转链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ReverseLinkedList.java)
 * [207. 课程表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/CourseSchedule.java)
@@ -683,6 +687,8 @@ leetcode 刷题记录
 * [215. 数组中的第K个最大元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/KthLargestElementInAnArray.java)
 * [216. 组合总和 III](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/CombinationSum3.java)
 * [217. 存在重复元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ContainsDuplicate.java)
+* [219. 存在重复元素 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ContainsDuplicate2.java)
+* [220. 存在重复元素 III](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ContainsDuplicateiii.java)
 * [222. 完全二叉树的节点个数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/CountCompleteTreeNodes.java)
 * [223. 矩形面积](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/RectangleArea.java)
 * [225. 用队列实现栈](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ImplementStackUsingQueues.java)
@@ -1017,15 +1023,7 @@ leetcode 刷题记录
  
  
  
- 
- 
- 
- 
-  
 
-
-  
- 
   
  
   
