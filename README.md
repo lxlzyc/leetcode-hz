@@ -462,7 +462,6 @@ leetcode 刷题记录
 
 ### 2020-08
 
-
 * [30. 串联所有单词的子串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/SubstringWithConcatenationOfAllWords.java)
 * [37. 解数独](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/SudokuSolver.java)
 * [43. 字符串相乘](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/MultiplyStrings.java)
@@ -524,7 +523,14 @@ leetcode 刷题记录
 * [5468. 第 k 个缺失的正整数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/FindKthPositive.java)
 * [5483. 整理字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/MakeTheStringGreat.java)
 
+### 2020-09
 
+* [290. 单词规律](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/WordPattern.java)
+* [318. 最大单词长度乘积](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/MaximumProductOfWordLengths.java)
+* [319. 灯泡开关](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/BulbSwitcher.java)
+* [328. 奇偶链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/OddEvenLinkedList.java)
+* [344. 反转字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/ReverseString.java)
+* [486. 预测赢家](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/PredictTheWinner.java)
 
 
 ## 全部顺序
@@ -1024,9 +1030,7 @@ leetcode 刷题记录
  
  
 
-  
- 
-  
+
  
  
 
