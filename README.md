@@ -526,12 +526,16 @@ leetcode 刷题记录
 ### 2020-09
 
 * [290. 单词规律](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/WordPattern.java)
+* [316. 去除重复字母](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/RemoveDuplicateLetters.java)
 * [318. 最大单词长度乘积](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/MaximumProductOfWordLengths.java)
 * [319. 灯泡开关](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/BulbSwitcher.java)
+* [326. 3的幂](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/PowerOfThree.java)
 * [328. 奇偶链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/OddEvenLinkedList.java)
 * [344. 反转字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/ReverseString.java)
+* [347. 前 K 个高频元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/TopKFrequentElements.java)
 * [486. 预测赢家](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/PredictTheWinner.java)
 
+* [剑指 Offer 20. 表示数值的字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/IsNumber.java)
 
 ## 全部顺序
 
@@ -720,11 +724,14 @@ leetcode 刷题记录
 * [304. 二维区域和检索 - 矩阵不可变](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/RangeSumQuery2dImmutable.java)
 * [307. 区域和检索 - 数组可修改](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/RangeSumQueryMutable.java)
 * [309. 最佳买卖股票时机含冷冻期](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/BestTimeToBuyAndSellStockWithCooldown.java)
+* [316. 去除重复字母](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/RemoveDuplicateLetters.java)
+* [326. 3的幂](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/PowerOfThree.java)
 * [329. 矩阵中的最长递增路径](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/LongestIncreasingPathInAMatrix.java)
 * [332. 重新安排行程](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ReconstructItinerary.java)
 * [336. 回文对](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/PalindromePairs.java)
 * [337. 打家劫舍 III](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/HouseRobberiii.java)
 * [343. 整数拆分](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/IntegerBreak.java)
+* [347. 前 K 个高频元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/TopKFrequentElements.java)
 * [350. 两个数组的交集 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IntersectionOfTwoArraysii.java)
 * [378. 有序矩阵中第K小的元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/KthSmallestElementInASortedMatrix.java)
 * [392. 判断子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IsSubsequence.java)
@@ -1022,15 +1029,12 @@ leetcode 刷题记录
 * [剑指 Offer 05. 替换空格](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ReplaceSpace.java)
 * [剑指 Offer 06. 从尾到头打印链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/ReversePrint.java)
 * [剑指 Offer 09. 用两个栈实现队列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/CQueue.java)
+* [剑指 Offer 20. 表示数值的字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/IsNumber.java)
 * [剑指 Offer 52. 两个链表的第一个公共节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IntersectionNode.java)
 * [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SearchI.java)
 * [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MissingNumber.java)
 
  
- 
- 
-
-
  
  
 
