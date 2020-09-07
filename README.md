@@ -531,7 +531,9 @@ leetcode 刷题记录
 * [319. 灯泡开关](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/BulbSwitcher.java)
 * [326. 3的幂](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/PowerOfThree.java)
 * [328. 奇偶链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/OddEvenLinkedList.java)
+* [342. 4的幂](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/PowerOfFour.java)
 * [344. 反转字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/ReverseString.java)
+* [345. 反转字符串中的元音字母](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/ReverseVowelsOfAString.java)
 * [347. 前 K 个高频元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/TopKFrequentElements.java)
 * [486. 预测赢家](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/PredictTheWinner.java)
 
@@ -730,7 +732,10 @@ leetcode 刷题记录
 * [332. 重新安排行程](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/ReconstructItinerary.java)
 * [336. 回文对](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/PalindromePairs.java)
 * [337. 打家劫舍 III](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/HouseRobberiii.java)
+* [342. 4的幂](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/PowerOfFour.java)
 * [343. 整数拆分](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/IntegerBreak.java)
+* [344. 反转字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/ReverseString.java)
+* [345. 反转字符串中的元音字母](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/ReverseVowelsOfAString.java)
 * [347. 前 K 个高频元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/TopKFrequentElements.java)
 * [350. 两个数组的交集 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IntersectionOfTwoArraysii.java)
 * [378. 有序矩阵中第K小的元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/KthSmallestElementInASortedMatrix.java)
@@ -1036,7 +1041,8 @@ leetcode 刷题记录
 
  
  
- 
+
+
 
 
  
