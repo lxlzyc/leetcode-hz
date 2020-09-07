@@ -36,17 +36,11 @@ import java.util.*;
  **/
 public class TopKFrequentElements {
 
-    public List<Integer> topKFrequent(int[] nums, int k) {
-        // 使用字典，统计每个元素出现的次数，元素为键，元素出现的次数为值
-        HashMap<Integer, Integer> map = new HashMap();
+    public int[] topKFrequent(int[] nums, int k) {
+        HashMap<Integer, Integer> map = new HashMap<>();
         for (int num : nums) {
-            if (map.containsKey(num)) {
-                map.put(num, map.get(num) + 1);
-            } else {
-                map.put(num, 1);
-            }
+            map.put(num, map.getOrDefault(num, 0) + 1);
         }
-        // 遍历map，用最小堆保存频率最大的k个元素
         PriorityQueue<Integer> pq = new PriorityQueue<>(new Comparator<Integer>() {
             @Override
             public int compare(Integer a, Integer b) {
@@ -62,11 +56,19 @@ public class TopKFrequentElements {
             }
         }
         // 取出最小堆中的元素
-        List<Integer> res = new ArrayList<>();
+        int[] res = new int[pq.size()];
+        int i = 0;
         while (!pq.isEmpty()) {
-            res.add(pq.remove());
+            res[i] = pq.remove();
+            i++;
         }
         return res;
     }
 
+    public static void main(String[] args) {
+        TopKFrequentElements topKFrequentElements = new TopKFrequentElements();
+        int[] nums = {1, 1, 1, 2, 2, 3};
+
+        System.out.println(topKFrequentElements.topKFrequent(nums, 2));
+    }
 }
