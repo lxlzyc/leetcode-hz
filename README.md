@@ -536,6 +536,7 @@ leetcode 刷题记录
 * [345. 反转字符串中的元音字母](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/ReverseVowelsOfAString.java)
 * [347. 前 K 个高频元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/TopKFrequentElements.java)
 * [486. 预测赢家](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/PredictTheWinner.java)
+* [1226. 哲学家进餐](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/DiningPhilosophers.java)
 
 * [剑指 Offer 20. 表示数值的字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/IsNumber.java)
 
@@ -1011,6 +1012,7 @@ leetcode 刷题记录
 * [1114. 按序打印](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/PrintInOrder.java)
 * [1115. 交替打印FooBar](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/PrintFoobarAlternately.java)
 * [1122. 数组的相对排序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/RelativeSortArray.java)
+* [1226. 哲学家进餐](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/DiningPhilosophers.java)
 * [1248. 统计「优美子数组」](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/CountNumberOfNiceSubarrays.java)
 * [1300. 转变数组后最接近目标值的数组和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SumOfMutatedArrayClosestToTarget.java)
 * [1431. 拥有最多糖果的孩子](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/KidsWithTheGreatestNumberOfCandies.java)
@@ -1040,9 +1042,6 @@ leetcode 刷题记录
 * [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MissingNumber.java)
 
  
- 
-
-
 
 
  
