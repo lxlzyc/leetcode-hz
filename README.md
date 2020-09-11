@@ -526,6 +526,7 @@ leetcode 刷题记录
 ### 2020-09
 
 * [131. 分割回文串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/PalindromePartitioning.java)
+* [258. 各位相加](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/AddDigits.java)
 * [260. 只出现一次的数字 III](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/SingleNumberiii.java)
 * [290. 单词规律](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/WordPattern.java)
 * [316. 去除重复字母](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/RemoveDuplicateLetters.java)
@@ -539,7 +540,9 @@ leetcode 刷题记录
 * [345. 反转字符串中的元音字母](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/ReverseVowelsOfAString.java)
 * [347. 前 K 个高频元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/TopKFrequentElements.java)
 * [349. 两个数组的交集](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/IntersectionOfTwoArrays.java)
+* [374. 猜数字大小](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/GuessNumberHigherOrLower.java)
 * [486. 预测赢家](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/PredictTheWinner.java)
+* [516. 最长回文子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/LongestPalindromicSubsequence.java)
 * [1116. 打印零与奇偶数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/PrintZeroEvenOdd3.java)
 * [1117. H2O 生成](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/BuildingH2O.java)
 * [1226. 哲学家进餐](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/DiningPhilosophers.java)
@@ -723,6 +726,7 @@ leetcode 刷题记录
 * [240. 搜索二维矩阵 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/SearchA2DMatrix2.java)
 * [242. 有效的字母异位词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ValidAnagram.java)
 * [257. 二叉树的所有路径](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/BinaryTreePaths.java)
+* [258. 各位相加](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/AddDigits.java)
 * [260. 只出现一次的数字 III](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/SingleNumberiii.java)
 * [268. 缺失数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/MissingNumber.java)
 * [284. 顶端迭代器](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/PeekingIterator.java)
@@ -749,6 +753,7 @@ leetcode 刷题记录
 * [347. 前 K 个高频元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/TopKFrequentElements.java)
 * [349. 两个数组的交集](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/IntersectionOfTwoArrays.java)
 * [350. 两个数组的交集 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IntersectionOfTwoArraysii.java)
+* [374. 猜数字大小](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/GuessNumberHigherOrLower.java)
 * [378. 有序矩阵中第K小的元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/KthSmallestElementInASortedMatrix.java)
 * [392. 判断子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IsSubsequence.java)
 * [406. 根据身高重建队列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/QueueReconstructionByHeight.java)
@@ -804,6 +809,7 @@ leetcode 刷题记录
 * [509. 斐波那契数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/FibonacciNumber.java)
 * [513. 找树左下角的值](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/FindBottomLeftTreeValue.java)
 * [515. 在每个树行中找最大值](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/FindLargestValueInEachTreeRow.java)
+* [516. 最长回文子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/LongestPalindromicSubsequence.java)
 * [520. 检测大写字母](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/DetectCapital.java)
 * [521. 最长特殊序列 Ⅰ](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/LongestUncommonSubsequencei.java)
 * [528. 按权重随机选择](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/RandomPickWithWeight.java) 
@@ -1052,6 +1058,7 @@ leetcode 刷题记录
 * [剑指 Offer 52. 两个链表的第一个公共节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IntersectionNode.java)
 * [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SearchI.java)
 * [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MissingNumber.java)
+
 
 
 
