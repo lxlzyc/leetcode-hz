@@ -526,6 +526,7 @@ leetcode 刷题记录
 ### 2020-09
 
 * [131. 分割回文串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/PalindromePartitioning.java)
+* [235. 二叉搜索树的最近公共祖先](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/LowestCommonAncestorOfABinarySearchTree.java)
 * [258. 各位相加](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/AddDigits.java)
 * [260. 只出现一次的数字 III](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/SingleNumberiii.java)
 * [290. 单词规律](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/WordPattern.java)
@@ -543,6 +544,8 @@ leetcode 刷题记录
 * [374. 猜数字大小](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/GuessNumberHigherOrLower.java)
 * [486. 预测赢家](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/PredictTheWinner.java)
 * [516. 最长回文子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/LongestPalindromicSubsequence.java)
+* [684. 冗余连接](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/RedundantConnection.java)
+* [685. 冗余连接 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/RedundantConnectionii.java)
 * [1116. 打印零与奇偶数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/PrintZeroEvenOdd3.java)
 * [1117. H2O 生成](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/BuildingH2O.java)
 * [1226. 哲学家进餐](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/DiningPhilosophers.java)
@@ -721,6 +724,7 @@ leetcode 刷题记录
 * [231. 2的幂](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/PowerOfTwo.java)
 * [232. 用栈实现队列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ImplementQueueUsingStacks.java)
 * [234. 回文链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/PalindromeLinkedList.java)
+* [235. 二叉搜索树的最近公共祖先](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/LowestCommonAncestorOfABinarySearchTree.java)
 * [236. 二叉树的最近公共祖先](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/LowestCommonAncestorOfABinaryTree.java)
 * [238. 除自身以外数组的乘积](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ProductOfArrayExceptSelf.java)
 * [240. 搜索二维矩阵 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/SearchA2DMatrix2.java)
@@ -871,6 +875,8 @@ leetcode 刷题记录
 * [678. 有效的括号字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/ValidParenthesisString.java)
 * [680. 验证回文字符串 Ⅱ](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/ValidPalindromeii.java)
 * [682. 棒球比赛](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/BaseballGame.java)
+* [684. 冗余连接](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/RedundantConnection.java)
+* [685. 冗余连接 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/RedundantConnectionii.java)
 * [687. 最长同值路径](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/LongestUnivaluePath.java)
 * [692. 前K个高频单词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/TopKFrequentWords.java)
 * [693. 交替位二进制数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/BinaryNumberWithAlternatingBits.java)
@@ -1062,6 +1068,7 @@ leetcode 刷题记录
 
 
 
+ 
 
 
  
