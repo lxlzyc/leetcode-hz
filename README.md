@@ -546,6 +546,7 @@ leetcode 刷题记录
 * [516. 最长回文子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/LongestPalindromicSubsequence.java)
 * [684. 冗余连接](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/RedundantConnection.java)
 * [685. 冗余连接 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/RedundantConnectionii.java)
+* [968. 监控二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/BinaryTreeCameras.java)
 * [1116. 打印零与奇偶数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/PrintZeroEvenOdd3.java)
 * [1117. H2O 生成](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/BuildingH2O.java)
 * [1226. 哲学家进餐](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/DiningPhilosophers.java)
@@ -1011,6 +1012,7 @@ leetcode 刷题记录
 * [961. 重复 N 次的元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/NRepeatedElementInSize2nArray.java)
 * [962. 最大宽度坡](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/MaximumWidthRamp.java)
 * [965. 单值二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/UnivaluedBinaryTree.java)
+* [968. 监控二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/BinaryTreeCameras.java)
 * [970. 强整数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/PowerfulIntegers.java)
 * [971. 翻转二叉树以匹配先序遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/FlipBinaryTreeToMatchPreorderTraversal.java)
 * [973. 最接近原点的 K 个点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/KClosestPointsToOrigin.java)
@@ -1064,7 +1066,6 @@ leetcode 刷题记录
 * [剑指 Offer 52. 两个链表的第一个公共节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IntersectionNode.java)
 * [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SearchI.java)
 * [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MissingNumber.java)
-
 
 
 
