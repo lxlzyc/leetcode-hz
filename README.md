@@ -525,6 +525,7 @@ leetcode 刷题记录
 
 ### 2020-09
 
+* [4. 寻找两个正序数组的中位数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/MedianOfTwoSortedArrays.java)
 * [131. 分割回文串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/PalindromePartitioning.java)
 * [235. 二叉搜索树的最近公共祖先](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/LowestCommonAncestorOfABinarySearchTree.java)
 * [258. 各位相加](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/AddDigits.java)
@@ -558,6 +559,7 @@ leetcode 刷题记录
 * [1. 两数之和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/TwoSum.java)
 * [2. 两数相加](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/AddTwoNumbers.java)
 * [3. 无重复字符的最长子串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/LongestSubstringWithoutRep.java)
+* [4. 寻找两个正序数组的中位数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/MedianOfTwoSortedArrays.java)
 * [5. 最长回文子串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/LongestPalindromicSubstring.java)
 * [6. Z 字形变换](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/ZigzagConversion.java)
 * [7. 整数反转](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/ReverseInteger.java)
