@@ -554,6 +554,13 @@ leetcode 刷题记录
 
 * [剑指 Offer 20. 表示数值的字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/IsNumber.java)
 
+### 2020-10
+
+* [518. 零钱兑换 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/CoinChange2.java)
+
+* [最小堆](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/MinHeap.java)
+* [红黑树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/RedBlackTree.java)
+
 ## 全部顺序
 
 * [1. 两数之和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/TwoSum.java)
@@ -817,6 +824,7 @@ leetcode 刷题记录
 * [513. 找树左下角的值](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/FindBottomLeftTreeValue.java)
 * [515. 在每个树行中找最大值](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/FindLargestValueInEachTreeRow.java)
 * [516. 最长回文子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/LongestPalindromicSubsequence.java)
+* [518. 零钱兑换 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/CoinChange2.java)
 * [520. 检测大写字母](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/DetectCapital.java)
 * [521. 最长特殊序列 Ⅰ](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/LongestUncommonSubsequencei.java)
 * [528. 按权重随机选择](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/RandomPickWithWeight.java) 
@@ -1069,6 +1077,8 @@ leetcode 刷题记录
 * [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SearchI.java)
 * [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MissingNumber.java)
 
+* [最小堆](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/MinHeap.java)
+* [红黑树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/RedBlackTree.java)
 
 
  
