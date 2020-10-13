@@ -556,7 +556,10 @@ leetcode 刷题记录
 
 ### 2020-10
 
+* [222. 完全二叉树的节点个数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/CountCompleteTreeNodes.java)
+* [229. 求众数 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/MajorityElementii.java)
 * [518. 零钱兑换 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/CoinChange2.java)
+* [583. 两个字符串的删除操作](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/DeleteOperationForTwoStrings.java)
 
 * [最小堆](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/MinHeap.java)
 * [红黑树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/RedBlackTree.java)
@@ -730,6 +733,7 @@ leetcode 刷题记录
 * [225. 用队列实现栈](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ImplementStackUsingQueues.java)
 * [226. 翻转二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/InvertBinaryTree.java)
 * [228. 汇总区间](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/SummaryRanges.java)
+* [229. 求众数 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/MajorityElementii.java)
 * [230. 二叉搜索树中第K小的元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/KthSmallestElementInABst.java)
 * [231. 2的幂](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/PowerOfTwo.java)
 * [232. 用栈实现队列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ImplementQueueUsingStacks.java)
@@ -1081,7 +1085,6 @@ leetcode 刷题记录
 * [红黑树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/RedBlackTree.java)
 
 
- 
 
 
  
