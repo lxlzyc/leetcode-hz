@@ -560,6 +560,7 @@ leetcode 刷题记录
 * [229. 求众数 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/MajorityElementii.java)
 * [518. 零钱兑换 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/CoinChange2.java)
 * [583. 两个字符串的删除操作](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/DeleteOperationForTwoStrings.java)
+* [1002. 查找常用字符](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/FindCommonCharacters.java)
 
 * [最小堆](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/MinHeap.java)
 * [红黑树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/RedBlackTree.java)
@@ -1042,6 +1043,7 @@ leetcode 刷题记录
 * [993. 二叉树的堂兄弟节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/CousinsInBinaryTree.java)
 * [994. 腐烂的橘子](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/RottingOranges.java)
 * [999. 车的可用捕获量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/AvailableCapturesForRook.java)
+* [1002. 查找常用字符](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/FindCommonCharacters.java)
 * [1014. 最佳观光组合](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/BestSightseeingPair.java)
 * [1025. 除数博弈](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/DivisorGame.java)
 * [1028. 从先序遍历还原二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/RecoverATreeFromPreorderTraversal.java)
