@@ -558,8 +558,11 @@ leetcode 刷题记录
 
 * [222. 完全二叉树的节点个数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/CountCompleteTreeNodes.java)
 * [229. 求众数 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/MajorityElementii.java)
+* [300. 最长上升子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/LongestIncreasingSubsequence.java)
 * [518. 零钱兑换 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/CoinChange2.java)
 * [583. 两个字符串的删除操作](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/DeleteOperationForTwoStrings.java)
+* [645. 错误的集合](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/SetMismatch.java)
+* [654. 最大二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/MaximumBinaryTree.java)
 * [1002. 查找常用字符](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/FindCommonCharacters.java)
 
 * [最小堆](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/MinHeap.java)
@@ -754,6 +757,7 @@ leetcode 刷题记录
 * [292. Nim 游戏](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/NimGame.java)
 * [297. 二叉树的序列化与反序列化](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SerializeAndDeserializeBinaryTree.java)
 * [299. 猜数字游戏](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/BullsAndCows.java)
+* [300. 最长上升子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/LongestIncreasingSubsequence.java)
 * [303. 区域和检索 - 数组不可变](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/RangeSumQueryImmutable.java)
 * [304. 二维区域和检索 - 矩阵不可变](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/RangeSumQuery2dImmutable.java)
 * [307. 区域和检索 - 数组可修改](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/RangeSumQueryMutable.java)
@@ -873,11 +877,13 @@ leetcode 刷题记录
 * [628. 三个数的最大乘积](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MaximumProductOfThreeNumbers.java)
 * [632. 最小区间](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SmallestRangeCoveringElementsFromKLists.java)
 * [637. 二叉树的层平均值](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/AverageOfLevelsInBinaryTree.java)
+* [645. 错误的集合](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/SetMismatch.java)
 * [646. 最长数对链](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/MaximumLengthOfPairChain.java)
 * [647. 回文子串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/PalindromicSubstrings.java)
 * [650. 只有两个键的键盘](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/TwoKeysKeyboard.java)
 * [652. 寻找重复的子树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/FindDuplicateSubtrees.java)
 * [653. 两数之和 IV - 输入 BST](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/TwoSumIvInputIsABst.java)
+* [654. 最大二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/MaximumBinaryTree.java)
 * [655. 输出二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/PrintBinaryTree.java)
 * [657. 机器人能否返回原点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/RobotReturnToOrigin.java)
 * [658. 找到 K 个最接近的元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/FindKClosestElements.java)
@@ -1085,6 +1091,7 @@ leetcode 刷题记录
 
 * [最小堆](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/MinHeap.java)
 * [红黑树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/RedBlackTree.java)
+
 
 
 
