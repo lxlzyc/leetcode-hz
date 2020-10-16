@@ -556,6 +556,7 @@ leetcode 刷题记录
 
 ### 2020-10
 
+* [146. LRU缓存机制](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/LRUCache.java)
 * [222. 完全二叉树的节点个数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/CountCompleteTreeNodes.java)
 * [229. 求众数 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/MajorityElementii.java)
 * [300. 最长上升子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/LongestIncreasingSubsequence.java)
@@ -563,6 +564,7 @@ leetcode 刷题记录
 * [583. 两个字符串的删除操作](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/DeleteOperationForTwoStrings.java)
 * [645. 错误的集合](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/SetMismatch.java)
 * [654. 最大二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/MaximumBinaryTree.java)
+* [673. 最长递增子序列的个数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/NumberOfLongestIncreasingSubsequence.java)
 * [1002. 查找常用字符](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/FindCommonCharacters.java)
 
 * [最小堆](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/MinHeap.java)
@@ -694,6 +696,7 @@ leetcode 刷题记录
 * [143. 重排链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/ReorderList.java)
 * [144. 二叉树的前序遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/BinaryTreePreorderTraversal.java)
 * [145. 二叉树的后序遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/BinaryTreePostorderTraversal.java)
+* [146. LRU缓存机制](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/LRUCache.java)
 * [147. 对链表进行插入排序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/InsertionSortList.java)
 * [148. 排序链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/SortList.java)
 * [150. 逆波兰表达式求值](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JAN/EvaluateReversePolishNotation.java)
@@ -891,6 +894,7 @@ leetcode 刷题记录
 * [662. 二叉树最大宽度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/MaximumWidthOfBinaryTree.java)
 * [670. 最大交换](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/MaximumSwap.java)
 * [671. 二叉树中第二小的节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SecondMinimumNodeInABinaryTree.java)
+* [673. 最长递增子序列的个数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/NumberOfLongestIncreasingSubsequence.java)
 * [674. 最长连续递增序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/LongestContinuousIncreasingSubsequence.java)
 * [676. 实现一个魔法字典](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/MagicDictionary.java)
 * [677. 键值映射](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/MapSumPairs.java)
