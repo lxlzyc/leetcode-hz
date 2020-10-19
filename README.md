@@ -565,6 +565,7 @@ leetcode 刷题记录
 * [645. 错误的集合](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/SetMismatch.java)
 * [654. 最大二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/MaximumBinaryTree.java)
 * [673. 最长递增子序列的个数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/NumberOfLongestIncreasingSubsequence.java)
+* [862. 和至少为 K 的最短子数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/ShortestSubarrayWithSumAtLeastK.java)
 * [1002. 查找常用字符](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/FindCommonCharacters.java)
 
 * [最小堆](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/MinHeap.java)
@@ -989,6 +990,7 @@ leetcode 刷题记录
 * [858. 镜面反射](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/MirrorReflection.java)
 * [859. 亲密字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/BuddyStrings.java)
 * [860. 柠檬水找零](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/LemonadeChange.java)
+* [862. 和至少为 K 的最短子数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/ShortestSubarrayWithSumAtLeastK.java)
 * [863. 二叉树中所有距离为 K 的结点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/AllNodesDistanceKInBinaryTree.java)
 * [865. 具有所有最深结点的最小子树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SmallestSubtreeWithAllTheDeepestNodes.java)
 * [867. 转置矩阵](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/TransposeMatrix.java)
