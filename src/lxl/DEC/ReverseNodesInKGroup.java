@@ -31,6 +31,7 @@ import java.util.Stack;
  * <p>
  * 你的算法只能使用常数的额外空间。
  * 你不能只是单纯的改变节点内部的值，而是需要实际的进行节点交换。
+ * https://leetcode-cn.com/problems/reverse-nodes-in-k-group/
  * @author: lxl
  * @create: 2019-12-04 14:32
  **/
@@ -150,7 +151,52 @@ public class ReverseNodesInKGroup {
 
     public static void main(String[] args) {
         ReverseNodesInKGroup reverseNodesInKGroup = new ReverseNodesInKGroup();
+        System.out.println(reverseNodesInKGroup.reverseKGroup2(ListNodeTest.getListNode4(), 3));
         System.out.println(reverseNodesInKGroup.reverseKGroup(ListNodeTest.getListNode4(), 3));
+
+    }
+
+    //node1->node2->node3->node4->node5 3
+    //base->node2->node1->node3...
+    //base->node3->node2->node1->node4...
+    //base->node3->node2->node1->node5->node4...
+
+    public ListNode reverseKGroup2(ListNode head, int k) {
+        //base节点
+        ListNode base = new ListNode(0);
+        ListNode pre = base;
+        pre.next = head;
+        ListNode index = head;
+        int i = 0;
+        while (index != null) {
+            i++;
+            if (i == k) {
+                i = 0;
+                ListNode next = index.next;
+                index.next = null;
+                ListNode[] re = this.reverseList(pre.next);
+                pre.next = re[1];
+                pre = re[0];
+                pre.next = next;
+                index = next;
+            } else {
+                index = index.next;
+            }
+        }
+        return base.next;
+    }
+
+    //翻转链表
+    public ListNode[] reverseList(ListNode head) {
+        ListNode prev = null;
+        ListNode curr = head;
+        while (curr != null) {
+            ListNode nextTemp = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = nextTemp;
+        }
+        return new ListNode[]{head, prev};
     }
 
 }
