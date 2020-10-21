@@ -89,4 +89,9 @@ public class SuperEggDrop {
         return ans;
     }
 
+    public static void main(String[] args) {
+        SuperEggDrop superEggDrop = new SuperEggDrop();
+        System.out.println(superEggDrop.superEggDrop(3, 14));
+    }
+
 }
