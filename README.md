@@ -570,6 +570,9 @@ leetcode 刷题记录
 * [1004. 最大连续1的个数 III](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/MaxConsecutiveOnesiii.java)
 * [1005. K 次取反后最大化的数组和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/MaximizeSumOfArrayAfterKNegations.java)
 * [1008. 前序遍历构造二叉搜索树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/ConstructBinarySearchTreeFromPreorderTraversal.java)
+* [1365. 有多少小于当前数字的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/HowManyNumbersAreSmallerThanTheCurrentNumber.java)
+* [1366. 通过投票对团队排名](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/RankTeamsByVotes.java)
+* [1367. 二叉树中的列表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/LinkedListInBinaryTree.java)
 
 * [最小堆](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/MinHeap.java)
 * [红黑树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/RedBlackTree.java)
@@ -1075,6 +1078,9 @@ leetcode 刷题记录
 * [1226. 哲学家进餐](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/DiningPhilosophers.java)
 * [1248. 统计「优美子数组」](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/CountNumberOfNiceSubarrays.java)
 * [1300. 转变数组后最接近目标值的数组和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SumOfMutatedArrayClosestToTarget.java)
+* [1365. 有多少小于当前数字的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/HowManyNumbersAreSmallerThanTheCurrentNumber.java)
+* [1366. 通过投票对团队排名](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/RankTeamsByVotes.java)
+* [1367. 二叉树中的列表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/LinkedListInBinaryTree.java)
 * [1431. 拥有最多糖果的孩子](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/KidsWithTheGreatestNumberOfCandies.java)
 
 * [5468. 第 k 个缺失的正整数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/AUG/FindKthPositive.java)
@@ -1108,10 +1114,11 @@ leetcode 刷题记录
 
 
 
+  
  
  
 
-   
+    
   
  
  
