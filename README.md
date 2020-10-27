@@ -560,8 +560,10 @@ leetcode 刷题记录
 * [222. 完全二叉树的节点个数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/CountCompleteTreeNodes.java)
 * [229. 求众数 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/MajorityElementii.java)
 * [300. 最长上升子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/LongestIncreasingSubsequence.java)
+* [382. 链表随机节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/LinkedListRandomNode.java)
 * [518. 零钱兑换 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/CoinChange2.java)
 * [583. 两个字符串的删除操作](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/DeleteOperationForTwoStrings.java)
+* [622. 设计循环队列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/DesignCircularQueue.java)
 * [645. 错误的集合](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/SetMismatch.java)
 * [654. 最大二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/MaximumBinaryTree.java)
 * [673. 最长递增子序列的个数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/NumberOfLongestIncreasingSubsequence.java)
@@ -788,6 +790,7 @@ leetcode 刷题记录
 * [350. 两个数组的交集 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IntersectionOfTwoArraysii.java)
 * [374. 猜数字大小](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/GuessNumberHigherOrLower.java)
 * [378. 有序矩阵中第K小的元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/KthSmallestElementInASortedMatrix.java)
+* [382. 链表随机节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/LinkedListRandomNode.java)
 * [392. 判断子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IsSubsequence.java)
 * [406. 根据身高重建队列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/QueueReconstructionByHeight.java)
 * [409. 最长回文串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/LongestPalindrome.java)
@@ -883,6 +886,7 @@ leetcode 刷题记录
 * [611. 有效三角形的个数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/ValidTriangleNumber.java)
 * [617. 合并二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MergeTwoBinaryTrees.java)
 * [621. 任务调度器](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/TaskScheduler.java)
+* [622. 设计循环队列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/DesignCircularQueue.java)
 * [623. 在二叉树中增加一行](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/AddOneRowToTree.java)
 * [628. 三个数的最大乘积](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MaximumProductOfThreeNumbers.java)
 * [632. 最小区间](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SmallestRangeCoveringElementsFromKLists.java)
@@ -1110,12 +1114,11 @@ leetcode 刷题记录
 * [最小堆](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/MinHeap.java)
 * [红黑树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/RedBlackTree.java)
 
-
-
+ 
 
 
   
- 
+  
  
 
     
