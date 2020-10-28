@@ -564,14 +564,17 @@ leetcode 刷题记录
 * [518. 零钱兑换 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/CoinChange2.java)
 * [583. 两个字符串的删除操作](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/DeleteOperationForTwoStrings.java)
 * [622. 设计循环队列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/DesignCircularQueue.java)
+* [641. 设计循环双端队列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/DesignCircularDeque.java)
 * [645. 错误的集合](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/SetMismatch.java)
 * [654. 最大二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/MaximumBinaryTree.java)
 * [673. 最长递增子序列的个数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/NumberOfLongestIncreasingSubsequence.java)
+* [738. 单调递增的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/MonotoneIncreasingDigits.java)
 * [862. 和至少为 K 的最短子数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/ShortestSubarrayWithSumAtLeastK.java)
 * [1002. 查找常用字符](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/FindCommonCharacters.java)
 * [1004. 最大连续1的个数 III](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/MaxConsecutiveOnesiii.java)
 * [1005. K 次取反后最大化的数组和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/MaximizeSumOfArrayAfterKNegations.java)
 * [1008. 前序遍历构造二叉搜索树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/ConstructBinarySearchTreeFromPreorderTraversal.java)
+* [1207. 独一无二的出现次数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/UniqueNumberOfOccurrences.java)
 * [1365. 有多少小于当前数字的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/HowManyNumbersAreSmallerThanTheCurrentNumber.java)
 * [1366. 通过投票对团队排名](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/RankTeamsByVotes.java)
 * [1367. 二叉树中的列表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/LinkedListInBinaryTree.java)
@@ -891,6 +894,7 @@ leetcode 刷题记录
 * [628. 三个数的最大乘积](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/MaximumProductOfThreeNumbers.java)
 * [632. 最小区间](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/SmallestRangeCoveringElementsFromKLists.java)
 * [637. 二叉树的层平均值](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/AverageOfLevelsInBinaryTree.java)
+* [641. 设计循环双端队列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/DesignCircularDeque.java)
 * [645. 错误的集合](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/SetMismatch.java)
 * [646. 最长数对链](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/MaximumLengthOfPairChain.java)
 * [647. 回文子串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAY/PalindromicSubstrings.java)
@@ -940,6 +944,7 @@ leetcode 刷题记录
 * [728. 自除数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SelfDividingNumbers.java)
 * [729. 我的日程安排表 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/MyCalendari.java)
 * [733. 图像渲染](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/FloodFill.java)
+* [738. 单调递增的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/MonotoneIncreasingDigits.java)
 * [739. 每日温度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/DailyTemperatures.java)
 * [740. 删除与获得点数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/DeleteAndEarn.java)
 * [743. 网络延迟时间](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/NetworkDelayTime.java)
@@ -1079,6 +1084,7 @@ leetcode 刷题记录
 * [1116. 打印零与奇偶数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/PrintZeroEvenOdd3.java)
 * [1117. H2O 生成](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/BuildingH2O.java)
 * [1122. 数组的相对排序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/NOV/RelativeSortArray.java)
+* [1207. 独一无二的出现次数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/UniqueNumberOfOccurrences.java)
 * [1226. 哲学家进餐](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/DiningPhilosophers.java)
 * [1248. 统计「优美子数组」](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/APR/CountNumberOfNiceSubarrays.java)
 * [1300. 转变数组后最接近目标值的数组和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/SumOfMutatedArrayClosestToTarget.java)
@@ -1113,13 +1119,6 @@ leetcode 刷题记录
 
 * [最小堆](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/MinHeap.java)
 * [红黑树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/RedBlackTree.java)
-
- 
-
-
-  
-  
- 
 
     
   
