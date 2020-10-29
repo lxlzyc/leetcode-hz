@@ -561,6 +561,8 @@ leetcode 刷题记录
 * [229. 求众数 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/MajorityElementii.java)
 * [300. 最长上升子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/LongestIncreasingSubsequence.java)
 * [382. 链表随机节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/LinkedListRandomNode.java)
+* [384. 打乱数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/ShuffleAnArray.java)
+* [389. 找不同](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/FindTheDifference.java)
 * [518. 零钱兑换 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/CoinChange2.java)
 * [583. 两个字符串的删除操作](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/DeleteOperationForTwoStrings.java)
 * [622. 设计循环队列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/DesignCircularQueue.java)
@@ -569,6 +571,7 @@ leetcode 刷题记录
 * [654. 最大二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/MaximumBinaryTree.java)
 * [673. 最长递增子序列的个数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/NumberOfLongestIncreasingSubsequence.java)
 * [738. 单调递增的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/MonotoneIncreasingDigits.java)
+* [756. 金字塔转换矩阵](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/PyramidTransitionMatrix.java)
 * [862. 和至少为 K 的最短子数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/ShortestSubarrayWithSumAtLeastK.java)
 * [1002. 查找常用字符](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/FindCommonCharacters.java)
 * [1004. 最大连续1的个数 III](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/MaxConsecutiveOnesiii.java)
@@ -794,6 +797,8 @@ leetcode 刷题记录
 * [374. 猜数字大小](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/SEP/GuessNumberHigherOrLower.java)
 * [378. 有序矩阵中第K小的元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/KthSmallestElementInASortedMatrix.java)
 * [382. 链表随机节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/LinkedListRandomNode.java)
+* [384. 打乱数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/ShuffleAnArray.java)
+* [389. 找不同](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/FindTheDifference.java)
 * [392. 判断子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUL/IsSubsequence.java)
 * [406. 根据身高重建队列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/QueueReconstructionByHeight.java)
 * [409. 最长回文串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/MAR/LongestPalindrome.java)
@@ -952,6 +957,7 @@ leetcode 刷题记录
 * [746. 使用最小花费爬楼梯](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/MinCostClimbingStairs.java)
 * [747. 至少是其他数字两倍的最大数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/LargestNumberAtLeastTwiceOfOthers.java)
 * [748. 最短完整词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/ShortestCompletingWord.java)
+* [756. 金字塔转换矩阵](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/OCT/PyramidTransitionMatrix.java)
 * [762. 二进制表示中质数个计算置位](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/PrimeNumberOfSetBitsInBinaryRepresentation.java)
 * [763. 划分字母区间](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/PartitionLabels.java)
 * [765. 情侣牵手](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/JUN/CouplesHoldingHands.java)
@@ -1122,7 +1128,7 @@ leetcode 刷题记录
 
     
   
+
  
  
-
-
+ 
