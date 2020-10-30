@@ -32,9 +32,6 @@ import java.util.*;
  * 1 <= grid.length = grid[0].length <= 50
  * 0 <= grid[i][j] <= 1
  * <p>
- * 通过次数3,962
- * 提交次数3,962
- * <p>
  * 来源：力扣（LeetCode）
  * 链接：https://leetcode-cn.com/problems/making-a-large-island
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
