@@ -586,6 +586,11 @@ leetcode 刷题记录
 * [最小堆](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/MinHeap.java)
 * [红黑树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/RedBlackTree.java)
 
+### 2020-11
+
+* [514. 自由之路](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/NOV/FreedomTrail.java)
+
+
 ## 全部顺序
 
 * [1. 两数之和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUN/TwoSum.java)
@@ -853,6 +858,7 @@ leetcode 刷题记录
 * [508. 出现次数最多的子树元素和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/APR/MostFrequentSubtreeSum.java)
 * [509. 斐波那契数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/APR/FibonacciNumber.java)
 * [513. 找树左下角的值](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/APR/FindBottomLeftTreeValue.java)
+* [514. 自由之路](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/NOV/FreedomTrail.java)
 * [515. 在每个树行中找最大值](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/APR/FindLargestValueInEachTreeRow.java)
 * [516. 最长回文子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/SEP/LongestPalindromicSubsequence.java)
 * [518. 零钱兑换 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/CoinChange2.java)
@@ -1130,7 +1136,7 @@ leetcode 刷题记录
 
     
 
- 
+
  
  
  
