@@ -589,7 +589,9 @@ leetcode 刷题记录
 ### 2020-11
 
 * [514. 自由之路](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/NOV/FreedomTrail.java)
-
+* [1046. 最后一块石头的重量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/LastStoneWeight.java)
+* [1047. 删除字符串中的所有相邻重复项](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/RemoveAllAdjacentDuplicatesInString.java)
+* [1089. 重复零](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/DuplicateZeros.java)
 
 ## 全部顺序
 
@@ -1091,6 +1093,9 @@ leetcode 刷题记录
 * [1014. 最佳观光组合](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUN/BestSightseeingPair.java)
 * [1025. 除数博弈](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUL/DivisorGame.java)
 * [1028. 从先序遍历还原二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUN/RecoverATreeFromPreorderTraversal.java)
+* [1046. 最后一块石头的重量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/LastStoneWeight.java)
+* [1047. 删除字符串中的所有相邻重复项](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/RemoveAllAdjacentDuplicatesInString.java)
+* [1089. 重复零](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/DuplicateZeros.java)
 * [1095. 山脉数组中查找目标值](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/APR/FindinMountainArray.java)
 * [1111. 有效括号的嵌套深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/APR/MaximumNestingDepthOfTwoValidParenthesesStrings.java)
 * [1114. 按序打印](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUN/PrintInOrder.java)
@@ -1135,6 +1140,10 @@ leetcode 刷题记录
 * [红黑树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/RedBlackTree.java)
 
     
+* [1046. 最后一块石头的重量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/LastStoneWeight.java)
+* [1047. 删除字符串中的所有相邻重复项](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/RemoveAllAdjacentDuplicatesInString.java)
+* [1089. 重复零](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/DuplicateZeros.java)
+* [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/.java)
 
 
  
