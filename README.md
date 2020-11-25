@@ -592,6 +592,7 @@ leetcode 刷题记录
 * [1046. 最后一块石头的重量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/LastStoneWeight.java)
 * [1047. 删除字符串中的所有相邻重复项](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/RemoveAllAdjacentDuplicatesInString.java)
 * [1089. 重复零](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/DuplicateZeros.java)
+* [1370. 上升下降字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/IncreasingDecreasingString.java)
 
 ## 全部顺序
 
@@ -1110,6 +1111,7 @@ leetcode 刷题记录
 * [1365. 有多少小于当前数字的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/HowManyNumbersAreSmallerThanTheCurrentNumber.java)
 * [1366. 通过投票对团队排名](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/RankTeamsByVotes.java)
 * [1367. 二叉树中的列表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/LinkedListInBinaryTree.java)
+* [1370. 上升下降字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/IncreasingDecreasingString.java)
 * [1431. 拥有最多糖果的孩子](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/NOV/KidsWithTheGreatestNumberOfCandies.java)
 
 * [5468. 第 k 个缺失的正整数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/AUG/FindKthPositive.java)
@@ -1144,6 +1146,9 @@ leetcode 刷题记录
 * [1047. 删除字符串中的所有相邻重复项](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/RemoveAllAdjacentDuplicatesInString.java)
 * [1089. 重复零](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/DuplicateZeros.java)
 * [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/.java)
+* [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/.java)
+* [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/.java)
+
 
 
  
