@@ -589,6 +589,7 @@ leetcode 刷题记录
 ### 2020-11
 
 * [164. 最大间距](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/MaximumGap.java)
+* [454. 四数相加 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/FourSumii.java)
 * [514. 自由之路](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/NOV/FreedomTrail.java)
 * [1046. 最后一块石头的重量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/LastStoneWeight.java)
 * [1047. 删除字符串中的所有相邻重复项](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/RemoveAllAdjacentDuplicatesInString.java)
@@ -597,6 +598,8 @@ leetcode 刷题记录
 * [1103. 分糖果 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/DistributeCandiesToPeople.java)
 * [1104. 二叉树寻路](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/PathInZigzagLabelledBinaryTree.java)
 * [1110. 删点成林](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/DeleteNodesAndReturnForest.java)
+* [1143. 最长公共子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/LongestCommonSubsequence.java)
+* [1154. 一年中的第几天](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/DayOfTheYear.java)
 * [1370. 上升下降字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/IncreasingDecreasingString.java)
 
 ## 全部顺序
@@ -837,6 +840,7 @@ leetcode 刷题记录
 * [451. 根据字符出现频率排序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/MAR/SortCharactersByFrequency.java)
 * [452. 用最少数量的箭引爆气球](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/MAR/MinimumNumberOfArrowsToBurstBalloons.java)
 * [453. 最小移动次数使数组元素相等](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/MAR/MinimumMovesToEqualArrayElements.java)
+* [454. 四数相加 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/FourSumii.java)
 * [456. 132模式](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/MAR/Find132pattern.java)
 * [459. 重复的子字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/MAR/RepeatedSubstringPattern.java)
 * [461. 汉明距离](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/MAR/HammingDistance.java)
@@ -1114,6 +1118,8 @@ leetcode 刷题记录
 * [1116. 打印零与奇偶数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/SEP/PrintZeroEvenOdd3.java)
 * [1117. H2O 生成](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/SEP/BuildingH2O.java)
 * [1122. 数组的相对排序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/NOV/RelativeSortArray.java)
+* [1143. 最长公共子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/LongestCommonSubsequence.java)
+* [1154. 一年中的第几天](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/DayOfTheYear.java)
 * [1207. 独一无二的出现次数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/UniqueNumberOfOccurrences.java)
 * [1226. 哲学家进餐](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/SEP/DiningPhilosophers.java)
 * [1248. 统计「优美子数组」](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/APR/CountNumberOfNiceSubarrays.java)
@@ -1156,6 +1162,7 @@ leetcode 刷题记录
 * [1047. 删除字符串中的所有相邻重复项](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/RemoveAllAdjacentDuplicatesInString.java)
 * [1089. 重复零](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/DuplicateZeros.java)
 * [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/.java)
+
 
 
 
