@@ -598,8 +598,11 @@ leetcode 刷题记录
 * [1103. 分糖果 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/DistributeCandiesToPeople.java)
 * [1104. 二叉树寻路](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/PathInZigzagLabelledBinaryTree.java)
 * [1110. 删点成林](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/DeleteNodesAndReturnForest.java)
+* [1137. 第 N 个泰波那契数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/NThTribonacciNumber.java)
 * [1143. 最长公共子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/LongestCommonSubsequence.java)
 * [1154. 一年中的第几天](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/DayOfTheYear.java)
+* [1160. 拼写单词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/FindWordsThatCanBeFormedByCharacters.java)
+* [1161. 最大层内元素和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/MaximumLevelSumOfABinaryTree.java)
 * [1370. 上升下降字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/IncreasingDecreasingString.java)
 
 ## 全部顺序
@@ -1118,8 +1121,11 @@ leetcode 刷题记录
 * [1116. 打印零与奇偶数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/SEP/PrintZeroEvenOdd3.java)
 * [1117. H2O 生成](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/SEP/BuildingH2O.java)
 * [1122. 数组的相对排序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/NOV/RelativeSortArray.java)
+* [1137. 第 N 个泰波那契数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/NThTribonacciNumber.java)
 * [1143. 最长公共子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/LongestCommonSubsequence.java)
 * [1154. 一年中的第几天](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/DayOfTheYear.java)
+* [1160. 拼写单词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/FindWordsThatCanBeFormedByCharacters.java)
+* [1161. 最大层内元素和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/MaximumLevelSumOfABinaryTree.java)
 * [1207. 独一无二的出现次数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/UniqueNumberOfOccurrences.java)
 * [1226. 哲学家进餐](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/SEP/DiningPhilosophers.java)
 * [1248. 统计「优美子数组」](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/APR/CountNumberOfNiceSubarrays.java)
@@ -1161,9 +1167,11 @@ leetcode 刷题记录
 * [1046. 最后一块石头的重量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/LastStoneWeight.java)
 * [1047. 删除字符串中的所有相邻重复项](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/RemoveAllAdjacentDuplicatesInString.java)
 * [1089. 重复零](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/DuplicateZeros.java)
-* [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/.java)
 
 
+ 
+ 
+ 
 
 
 
