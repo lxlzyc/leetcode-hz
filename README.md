@@ -611,8 +611,11 @@ leetcode 刷题记录
 * [1209. 删除字符串中的所有相邻重复项 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/RemoveAllAdjacentDuplicatesInStringii.java)
 * [1171. 从链表中删去总和值为零的连续节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/RemoveZeroSumConsecutiveNodesFromLinkedList.java)
 * [1185. 一周中的第几天](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/DayOfTheWeek.java)
+* [1195. 交替打印字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/FizzBuzzMultithreaded.java)
 * [1209. 删除字符串中的所有相邻重复项 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/RemoveAllAdjacentDuplicatesInStringii.java)
 * [1217. 玩筹码](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/MinimumCostToMoveChipsToTheSamePosition.java)
+* [1295. 统计位数为偶数的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/FindNumbersWithEvenNumberOfDigits.java)
+* [1299. 将每个元素替换为右侧最大元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/ReplaceElementsWithGreatestElementOnRightSide.java)
 
 ## 全部顺序
 
@@ -1139,11 +1142,14 @@ leetcode 刷题记录
 * [1161. 最大层内元素和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/NOV/MaximumLevelSumOfABinaryTree.java)
 * [1171. 从链表中删去总和值为零的连续节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/RemoveZeroSumConsecutiveNodesFromLinkedList.java)
 * [1185. 一周中的第几天](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/DayOfTheWeek.java)
+* [1195. 交替打印字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/FizzBuzzMultithreaded.java)
 * [1207. 独一无二的出现次数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/UniqueNumberOfOccurrences.java)
 * [1209. 删除字符串中的所有相邻重复项 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/RemoveAllAdjacentDuplicatesInStringii.java)
 * [1217. 玩筹码](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/MinimumCostToMoveChipsToTheSamePosition.java)
 * [1226. 哲学家进餐](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/SEP/DiningPhilosophers.java)
 * [1248. 统计「优美子数组」](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/APR/CountNumberOfNiceSubarrays.java)
+* [1295. 统计位数为偶数的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/FindNumbersWithEvenNumberOfDigits.java)
+* [1299. 将每个元素替换为右侧最大元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/ReplaceElementsWithGreatestElementOnRightSide.java)
 * [1300. 转变数组后最接近目标值的数组和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUN/SumOfMutatedArrayClosestToTarget.java)
 * [1365. 有多少小于当前数字的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/HowManyNumbersAreSmallerThanTheCurrentNumber.java)
 * [1366. 通过投票对团队排名](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/RankTeamsByVotes.java)
@@ -1186,6 +1192,7 @@ leetcode 刷题记录
 
  
 * [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/.java)
+
 
 
 
