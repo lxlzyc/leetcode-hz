@@ -616,6 +616,9 @@ leetcode 刷题记录
 * [1217. 玩筹码](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/MinimumCostToMoveChipsToTheSamePosition.java)
 * [1295. 统计位数为偶数的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/FindNumbersWithEvenNumberOfDigits.java)
 * [1299. 将每个元素替换为右侧最大元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/ReplaceElementsWithGreatestElementOnRightSide.java)
+* [1306. 跳跃游戏 III](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/JumpGameiii.java)
+* [1309. 解码字母到整数映射](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/DecryptStringFromAlphabetToIntegerMapping.java)
+* [1324. 竖直打印单词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/PrintWordsVertically.java)
 
 ## 全部顺序
 
@@ -1151,6 +1154,9 @@ leetcode 刷题记录
 * [1295. 统计位数为偶数的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/FindNumbersWithEvenNumberOfDigits.java)
 * [1299. 将每个元素替换为右侧最大元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/ReplaceElementsWithGreatestElementOnRightSide.java)
 * [1300. 转变数组后最接近目标值的数组和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUN/SumOfMutatedArrayClosestToTarget.java)
+* [1306. 跳跃游戏 III](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/JumpGameiii.java)
+* [1309. 解码字母到整数映射](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/DecryptStringFromAlphabetToIntegerMapping.java)
+* [1324. 竖直打印单词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/PrintWordsVertically.java)
 * [1365. 有多少小于当前数字的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/HowManyNumbersAreSmallerThanTheCurrentNumber.java)
 * [1366. 通过投票对团队排名](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/RankTeamsByVotes.java)
 * [1367. 二叉树中的列表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/LinkedListInBinaryTree.java)
@@ -1192,6 +1198,8 @@ leetcode 刷题记录
 
  
 * [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/.java)
+
+
 
 
 
