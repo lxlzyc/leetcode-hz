@@ -608,6 +608,8 @@ leetcode 刷题记录
 ### 2020-12
 
 * [139. 单词拆分](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/WordBreak.java)
+* [190. 颠倒二进制位](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/ReverseBits.java)
+* [191. 位1的个数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/NumberOf1Bits.java)
 * [321. 拼接最大数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/CreateMaximumNumber.java)
 * [861. 翻转矩阵后的得分](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/ScoreAfterFlippingMatrix.java)
 * [1209. 删除字符串中的所有相邻重复项 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/RemoveAllAdjacentDuplicatesInStringii.java)
@@ -772,6 +774,8 @@ leetcode 刷题记录
 * [175. 组合两个表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JAN/CombineTtwoTables.sql)
 * [176. 第二高的薪水](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JAN/SecondHighestSalary.sql)
 * [179. 最大数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JAN/LargestNumber.java)
+* [190. 颠倒二进制位](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/ReverseBits.java)
+* [191. 位1的个数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/NumberOf1Bits.java)
 * [198. 打家劫舍](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/MAY/HouseRobber.java)
 * [199. 二叉树的右视图](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JAN/BinaryTreeRightSideView.java)
 * [200. 岛屿数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JAN/NumberOfIslands.java)
@@ -1204,7 +1208,6 @@ leetcode 刷题记录
 
  
 * [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/.java)
-
 
 
 
