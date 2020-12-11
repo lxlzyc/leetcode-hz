@@ -617,6 +617,9 @@ leetcode 刷题记录
 * [321. 拼接最大数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/CreateMaximumNumber.java)
 * [322. 零钱兑换](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/CoinChange.java)
 * [373. 查找和最小的K对数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/FindKPairsWithSmallestSums.java)
+* [606. 根据二叉树创建字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/ConstructStringFromBinaryTree.java)
+* [649. Dota2 参议院](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/Dota2Senate.java)
+* [695. 岛屿的最大面积](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/MaxAreaOfIsland.java)
 * [861. 翻转矩阵后的得分](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/ScoreAfterFlippingMatrix.java)
 * [1209. 删除字符串中的所有相邻重复项 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/RemoveAllAdjacentDuplicatesInStringii.java)
 * [1171. 从链表中删去总和值为零的连续节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/RemoveZeroSumConsecutiveNodesFromLinkedList.java)
@@ -630,6 +633,8 @@ leetcode 刷题记录
 * [1306. 跳跃游戏 III](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/JumpGameiii.java)
 * [1309. 解码字母到整数映射](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/DecryptStringFromAlphabetToIntegerMapping.java)
 * [1324. 竖直打印单词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/PrintWordsVertically.java)
+
+* [面试题 16.17. 连续数列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/ContiguousSequenceLcci.java)
 
 ## 全部顺序
 
@@ -948,6 +953,7 @@ leetcode 刷题记录
 * [598. 范围求和 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/APR/RangeAdditionii.java)
 * [599. 两个列表的最小索引总和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/APR/MinimumIndexSumOfTwoLists.java)
 * [605. 种花问题](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/APR/CanPlaceFlowers.java)
+* [606. 根据二叉树创建字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/ConstructStringFromBinaryTree.java)
 * [609. 在系统中查找重复文件](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/APR/FindDuplicateFileInSystem.java)
 * [611. 有效三角形的个数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/APR/ValidTriangleNumber.java)
 * [617. 合并二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/APR/MergeTwoBinaryTrees.java)
@@ -961,6 +967,7 @@ leetcode 刷题记录
 * [645. 错误的集合](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/SetMismatch.java)
 * [646. 最长数对链](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/MAY/MaximumLengthOfPairChain.java)
 * [647. 回文子串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/MAY/PalindromicSubstrings.java)
+* [649. Dota2 参议院](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/Dota2Senate.java)
 * [650. 只有两个键的键盘](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/MAY/TwoKeysKeyboard.java)
 * [652. 寻找重复的子树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/MAY/FindDuplicateSubtrees.java)
 * [653. 两数之和 IV - 输入 BST](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/MAY/TwoSumIvInputIsABst.java)
@@ -984,6 +991,7 @@ leetcode 刷题记录
 * [687. 最长同值路径](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUN/LongestUnivaluePath.java)
 * [692. 前K个高频单词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUN/TopKFrequentWords.java)
 * [693. 交替位二进制数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUN/BinaryNumberWithAlternatingBits.java)
+* [695. 岛屿的最大面积](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/MaxAreaOfIsland.java)
 * [696. 计数二进制子串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUN/CountBinarySubstrings.java)
 * [697. 数组的度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUN/DegreeOfAnArray.java)
 * [698. 划分为k个相等的子集](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUN/PartitionToKEqualSumSubsets.java)
@@ -1196,6 +1204,7 @@ leetcode 刷题记录
 * [面试题62. 圆圈中最后剩下的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/MAR/lastRemaining.java)
 * [面试题64. 求1+2+…+n](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUN/Sum1toNNums.java)
 * [面试题 08.11. 硬币](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/APR/CoinLcci.java)
+* [面试题 16.17. 连续数列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/ContiguousSequenceLcci.java)
 * [面试题 16.18. 模式匹配](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUN/PatternMatchingLcci.java)
 * [面试题 08.03. 魔术索引](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUL/MagicIndexLcci.java)
 
