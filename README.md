@@ -636,6 +636,10 @@ leetcode 刷题记录
 * [1309. 解码字母到整数映射](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/DecryptStringFromAlphabetToIntegerMapping.java)
 * [1324. 竖直打印单词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/PrintWordsVertically.java)
 
+* [面试题 01.06. 字符串压缩](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/CompressStringLcci.java)
+* [面试题 01.07. 旋转矩阵](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/RotateMatrixLcci.java)
+* [面试题 01.08. 零矩阵](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/ZeroMatrixLcci.java)
+* [面试题 02.02. 返回倒数第 k 个节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/KthNodeFromEndOfListLcci.java)
 * [面试题 16.17. 连续数列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/ContiguousSequenceLcci.java)
 
 
@@ -1200,6 +1204,10 @@ leetcode 刷题记录
 * [5468. 第 k 个缺失的正整数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/AUG/FindKthPositive.java)
 * [5483. 整理字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/AUG/MakeTheStringGreat.java)
 
+* [面试题 01.06. 字符串压缩](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/CompressStringLcci.java)
+* [面试题 01.07. 旋转矩阵](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/RotateMatrixLcci.java)
+* [面试题 01.08. 零矩阵](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/ZeroMatrixLcci.java)
+* [面试题 02.02. 返回倒数第 k 个节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/KthNodeFromEndOfListLcci.java)
 * [面试题13. 机器人的运动范围](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/APR/MovingCount.java)
 * [面试题 16.11. 跳水板](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUL/DivingBoardLcci.java)
 * [面试题 17.13. 恢复空格](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUL/ReSpaceLcci.java)
@@ -1234,7 +1242,7 @@ leetcode 刷题记录
  
 * [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/.java)
 
-* [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/.java)
+
 
 
 
