@@ -642,6 +642,7 @@ leetcode 刷题记录
 * [面试题 02.02. 返回倒数第 k 个节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/KthNodeFromEndOfListLcci.java)
 * [面试题 16.17. 连续数列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/ContiguousSequenceLcci.java)
 
+* [LCP 01. 猜数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/GuessNumbers.java)
 
 ## 全部顺序
 
@@ -1229,6 +1230,8 @@ leetcode 刷题记录
 * [剑指 Offer 52. 两个链表的第一个公共节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUL/IntersectionNode.java)
 * [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUL/SearchI.java)
 * [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUL/MissingNumber.java)
+
+* [LCP 01. 猜数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/GuessNumbers.java)
 
 * [最小堆](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/MinHeap.java)
 * [红黑树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/RedBlackTree.java)
