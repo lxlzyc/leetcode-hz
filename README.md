@@ -647,6 +647,9 @@ leetcode 刷题记录
 
 * [LCP 01. 猜数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/GuessNumbers.java)
 
+### 2021-01
+
+* [547. 省份数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/NumberOfProvinces.java)
 
 ## 全部顺序
 
