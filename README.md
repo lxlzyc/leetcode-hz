@@ -649,7 +649,8 @@ leetcode 刷题记录
 
 ### 2021-01
 
-* [547. 省份数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/DEC/NumberOfProvinces.java)
+* [189. 旋转数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/RotateArray.java)
+* [547. 省份数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/NumberOfProvinces.java)
 
 ## 全部顺序
 
@@ -801,6 +802,7 @@ leetcode 刷题记录
 * [175. 组合两个表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JAN/CombineTtwoTables.sql)
 * [176. 第二高的薪水](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JAN/SecondHighestSalary.sql)
 * [179. 最大数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JAN/LargestNumber.java)
+* [189. 旋转数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/RotateArray.java)
 * [190. 颠倒二进制位](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/ReverseBits.java)
 * [191. 位1的个数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/NumberOf1Bits.java)
 * [198. 打家劫舍](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/MAY/HouseRobber.java)
@@ -1246,14 +1248,13 @@ leetcode 刷题记录
 * [最小堆](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/MinHeap.java)
 * [红黑树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/RedBlackTree.java)
 
-    
+
 * [1046. 最后一块石头的重量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/NOV/LastStoneWeight.java)
 * [1047. 删除字符串中的所有相邻重复项](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/NOV/RemoveAllAdjacentDuplicatesInString.java)
 * [1089. 重复零](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/NOV/DuplicateZeros.java)
 
 
- 
-* [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/.java)
+* [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/.java)
 
 
 
