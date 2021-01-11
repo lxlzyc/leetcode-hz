@@ -651,6 +651,7 @@ leetcode 刷题记录
 
 * [189. 旋转数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/RotateArray.java)
 * [547. 省份数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/NumberOfProvinces.java)
+* [1202. 交换字符串中的元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/SmallestStringWithSwaps.java)
 
 ## 全部顺序
 
@@ -1195,6 +1196,7 @@ leetcode 刷题记录
 * [1171. 从链表中删去总和值为零的连续节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/RemoveZeroSumConsecutiveNodesFromLinkedList.java)
 * [1185. 一周中的第几天](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/DayOfTheWeek.java)
 * [1195. 交替打印字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/FizzBuzzMultithreaded.java)
+* [1202. 交换字符串中的元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/SmallestStringWithSwaps.java)
 * [1207. 独一无二的出现次数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/UniqueNumberOfOccurrences.java)
 * [1209. 删除字符串中的所有相邻重复项 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/RemoveAllAdjacentDuplicatesInStringii.java)
 * [1217. 玩筹码](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/MinimumCostToMoveChipsToTheSamePosition.java)
@@ -1256,6 +1258,7 @@ leetcode 刷题记录
 
 * [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/.java)
 
+ 
 
 
 
