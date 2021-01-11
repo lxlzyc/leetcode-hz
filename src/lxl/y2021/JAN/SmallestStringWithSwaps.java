@@ -84,18 +84,28 @@ public class SmallestStringWithSwaps {
     class UnionFound {
         private int[] unions;
         private int size;
+        /**
+         * 以 i 为根结点的子树的高度（引入了路径压缩以后该定义并不准确）
+         */
+        private int[] rank;
 
         UnionFound(int size) {
             this.size = size;
             unions = new int[size];
+            this.rank = new int[size];
             for (int i = 0; i < size; i++) {
                 unions[i] = i;
+                rank[i] = i;
             }
         }
 
         //查看元素属于哪个集合
         public int find(int offset) {
+            if (offset != unions[offset]) {
+                unions[offset] = find(unions[offset]);
+            }
             return unions[offset];
+
         }
 
         //查看俩元素属于同一个集合
@@ -103,21 +113,25 @@ public class SmallestStringWithSwaps {
             return find(firstElement) == find(secondElement);
         }
 
-        public void unionElements(int firstElement, int secondElement) {
-            //找出firstElement所在的集合
-            int firstUnion = find(firstElement);
-            //找出secondElement所在的集合
-            int secondUnion = find(secondElement);
+        public void unionElements(int x, int y) {
+            int rootX = find(x);
+            int rootY = find(y);
+            if (rootX == rootY) {
+                return;
+            }
 
-            //如果这两个不是同一个集合，那么合并。
-            if (firstUnion != secondUnion) {
-                //遍历数组，使原来的firstUnion、secondUnion合并为secondUnion
-                for (int i = 0; i < this.size; i++) {
-                    if (unions[i] == firstUnion) {
-                        unions[i] = secondUnion;
-                    }
-                }
+            if (rank[rootX] == rank[rootY]) {
+                unions[rootX] = rootY;
+                // 此时以 rootY 为根结点的树的高度仅加了 1
+                rank[rootY]++;
+            } else if (rank[rootX] < rank[rootY]) {
+                unions[rootX] = rootY;
+                // 此时以 rootY 为根结点的树的高度不变
+            } else {
+                // 同理，此时以 rootX 为根结点的树的高度不变
+                unions[rootY] = rootX;
             }
         }
+
     }
 }
