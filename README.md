@@ -651,6 +651,7 @@ leetcode 刷题记录
 
 * [189. 旋转数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/RotateArray.java)
 * [547. 省份数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/NumberOfProvinces.java)
+* [947. 移除最多的同行或同列石头](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/MostStonesRemovedWithSameRowOrColumn.java)
 * [1202. 交换字符串中的元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/SmallestStringWithSwaps.java)
 
 ## 全部顺序
@@ -1145,6 +1146,7 @@ leetcode 刷题记录
 * [941. 有效的山脉数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/AUG/ValidMountainArray.java)
 * [945. 使数组唯一的最小增量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/AUG/MinimumIncrementToMakeArrayUnique.java)
 * [946. 验证栈序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/AUG/ValidateStackSequences.java)
+* [947. 移除最多的同行或同列石头](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/MostStonesRemovedWithSameRowOrColumn.java)
 * [951. 翻转等价二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/AUG/FlipEquivalentBinaryTrees.java)
 * [953. 验证外星语词典](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/AUG/VerifyingAnAlienDictionary.java)
 * [961. 重复 N 次的元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/AUG/NRepeatedElementInSize2nArray.java)
@@ -1255,8 +1257,8 @@ leetcode 刷题记录
 * [1047. 删除字符串中的所有相邻重复项](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/NOV/RemoveAllAdjacentDuplicatesInString.java)
 * [1089. 重复零](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/NOV/DuplicateZeros.java)
 
-
 * [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/.java)
+
 
  
 
