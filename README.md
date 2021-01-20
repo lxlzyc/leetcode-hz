@@ -650,6 +650,7 @@ leetcode 刷题记录
 ### 2021-01
 
 * [189. 旋转数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/RotateArray.java)
+* [395. 至少有K个重复字符的最长子串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/LongestSubstringWithAtLeastKRepeatingCharacters.java)
 * [547. 省份数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/NumberOfProvinces.java)
 * [947. 移除最多的同行或同列石头](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/MostStonesRemovedWithSameRowOrColumn.java)
 * [1202. 交换字符串中的元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/SmallestStringWithSwaps.java)
@@ -883,6 +884,7 @@ leetcode 刷题记录
 * [384. 打乱数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/ShuffleAnArray.java)
 * [389. 找不同](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/FindTheDifference.java)
 * [392. 判断子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUL/IsSubsequence.java)
+* [395. 至少有K个重复字符的最长子串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/LongestSubstringWithAtLeastKRepeatingCharacters.java)
 * [406. 根据身高重建队列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/MAR/QueueReconstructionByHeight.java)
 * [409. 最长回文串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/MAR/LongestPalindrome.java)
 * [412. Fizz Buzz](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/MAR/FizzBuzz.java)
@@ -1262,7 +1264,7 @@ leetcode 刷题记录
 * [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/.java)
 
 
- 
+
 
 
 
