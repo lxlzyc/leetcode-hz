@@ -51,7 +51,7 @@ public class LargestRectangleInHistogram {
             while (!monoStack.isEmpty() && heights[monoStack.peek()] >= heights[i]) {
                 monoStack.pop();
             }
-            right[i] = (monoStack.isEmpty() ? -1 : monoStack.peek());
+            right[i] = (monoStack.isEmpty() ? len : monoStack.peek());
             monoStack.push(i);
         }
         int ans = 0;
