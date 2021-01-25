@@ -649,6 +649,7 @@ leetcode 刷题记录
 
 ### 2021-01
 
+* [84. 柱状图中最大的矩形](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/LargestRectangleInHistogram.java)
 * [189. 旋转数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/RotateArray.java)
 * [395. 至少有K个重复字符的最长子串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/LongestSubstringWithAtLeastKRepeatingCharacters.java)
 * [547. 省份数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/NumberOfProvinces.java)
@@ -737,6 +738,7 @@ leetcode 刷题记录
 * [81. 搜索旋转排序数组 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2019/DEC/SearchInRotatedSortedArray2.java)
 * [82. 删除排序链表中的重复元素 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2019/DEC/RemoveDuplicatesFromSortedList2.java)
 * [83. 删除排序链表中的重复元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2019/DEC/RemoveDuplicatesFromSortedList.java)
+* [84. 柱状图中最大的矩形](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/LargestRectangleInHistogram.java)
 * [85. 最大矩形](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2019/DEC/MaximalRectangle.java)
 * [86. 分隔链表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2019/DEC/PartitionList.java)
 * [88. 合并两个有序数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2019/DEC/RemoveDuplicatesFromSortedList.java)
