@@ -651,6 +651,7 @@ leetcode 刷题记录
 
 * [84. 柱状图中最大的矩形](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/LargestRectangleInHistogram.java)
 * [189. 旋转数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/RotateArray.java)
+* [380. 常数时间插入、删除和获取随机元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/InsertDeleteGetrandomO1.java)
 * [395. 至少有K个重复字符的最长子串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/LongestSubstringWithAtLeastKRepeatingCharacters.java)
 * [547. 省份数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/NumberOfProvinces.java)
 * [918. 环形子数组的最大和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/MaximumSumCircularSubarray.java)
@@ -883,6 +884,7 @@ leetcode 刷题记录
 * [373. 查找和最小的K对数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/FindKPairsWithSmallestSums.java)
 * [374. 猜数字大小](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/SEP/GuessNumberHigherOrLower.java)
 * [378. 有序矩阵中第K小的元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUL/KthSmallestElementInASortedMatrix.java)
+* [380. 常数时间插入、删除和获取随机元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/InsertDeleteGetrandomO1.java)
 * [382. 链表随机节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/LinkedListRandomNode.java)
 * [384. 打乱数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/ShuffleAnArray.java)
 * [389. 找不同](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/FindTheDifference.java)
@@ -1266,6 +1268,7 @@ leetcode 刷题记录
 * [1089. 重复零](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/NOV/DuplicateZeros.java)
 
 * [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/.java)
+  
 
 
  
