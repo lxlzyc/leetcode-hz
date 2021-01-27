@@ -657,6 +657,7 @@ leetcode 刷题记录
 * [918. 环形子数组的最大和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/MaximumSumCircularSubarray.java)
 * [947. 移除最多的同行或同列石头](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/MostStonesRemovedWithSameRowOrColumn.java)
 * [1202. 交换字符串中的元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/SmallestStringWithSwaps.java)
+* [1579. 保证图可完全遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/RemoveMaxNumberOfEdgesToKeepGraphGullyTraversable.java)
 * [1584. 连接所有点的最小费用](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/MinCostToConnectAllPoints.java)
 
 ## 全部顺序
@@ -1225,6 +1226,7 @@ leetcode 刷题记录
 * [1367. 二叉树中的列表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/LinkedListInBinaryTree.java)
 * [1370. 上升下降字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/NOV/IncreasingDecreasingString.java)
 * [1431. 拥有最多糖果的孩子](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/NOV/KidsWithTheGreatestNumberOfCandies.java)
+* [1579. 保证图可完全遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/RemoveMaxNumberOfEdgesToKeepGraphGullyTraversable.java)
 * [1584. 连接所有点的最小费用](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/MinCostToConnectAllPoints.java)
 
 * [5468. 第 k 个缺失的正整数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/AUG/FindKthPositive.java)
@@ -1268,7 +1270,7 @@ leetcode 刷题记录
 * [1089. 重复零](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/NOV/DuplicateZeros.java)
 
 * [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/.java)
-  
+
 
 
  
