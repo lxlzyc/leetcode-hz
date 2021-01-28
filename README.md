@@ -654,6 +654,7 @@ leetcode 刷题记录
 * [380. 常数时间插入、删除和获取随机元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/InsertDeleteGetrandomO1.java)
 * [395. 至少有K个重复字符的最长子串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/LongestSubstringWithAtLeastKRepeatingCharacters.java)
 * [547. 省份数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/NumberOfProvinces.java)
+* [724. 寻找数组的中心索引](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/FindPivotIndex.java)
 * [918. 环形子数组的最大和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/MaximumSumCircularSubarray.java)
 * [947. 移除最多的同行或同列石头](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/MostStonesRemovedWithSameRowOrColumn.java)
 * [1202. 交换字符串中的元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/SmallestStringWithSwaps.java)
@@ -1270,6 +1271,7 @@ leetcode 刷题记录
 * [1089. 重复零](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/NOV/DuplicateZeros.java)
 
 * [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/.java)
+  
 
 
 
