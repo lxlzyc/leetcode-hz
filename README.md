@@ -667,6 +667,8 @@ leetcode 刷题记录
 
 ### 2021-02
 
+* [424. 替换后的最长重复字符](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/LongestRepeatingCharacterReplacement.java)
+  
 * [剑指 Offer 57 - II. 和为s的连续正数序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/FindContinuousSequence.java)
 * [剑指 Offer 58 - I. 翻转单词顺序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/ReverseWords.java)
 * [剑指 Offer 59 - I. 滑动窗口的最大值](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/MaxSlidingWindow.java)
@@ -911,6 +913,7 @@ leetcode 刷题记录
 * [417. 太平洋大西洋水流问题](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/MAR/PacificAtlanticWaterFlow.java)
 * [419. 甲板上的战舰](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/MAR/BattleshipsInABoard.java)
 * [423. 从英文中重建数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/MAR/ReconstructOriginalDigitsFromEnglish.java)
+* [424. 替换后的最长重复字符](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/LongestRepeatingCharacterReplacement.java)
 * [429. N叉树的层序遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/MAR/NAryTreeLevelOrderTraversal.java)
 * [434. 字符串中的单词数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/MAR/NumberOfSegmentsInAString.java)
 * [437. 路径总和 III](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/MAR/PathSumiii.java)
@@ -1286,7 +1289,8 @@ leetcode 刷题记录
 * [1047. 删除字符串中的所有相邻重复项](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/NOV/RemoveAllAdjacentDuplicatesInString.java)
 * [1089. 重复零](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/NOV/DuplicateZeros.java)
 
-* [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/.java)
+* [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/.java)
+
 
 
 
