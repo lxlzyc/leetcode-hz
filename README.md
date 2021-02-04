@@ -667,9 +667,11 @@ leetcode 刷题记录
 
 ### 2021-02
 
+* [324. 摆动排序 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/WiggleSortii.java)
+* [334. 递增的三元子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/IncreasingTripletSubsequence.java)
 * [424. 替换后的最长重复字符](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/LongestRepeatingCharacterReplacement.java)
 * [643. 子数组最大平均数 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/MaximumAverageSubarrayi.java)
-  
+
 * [剑指 Offer 57 - II. 和为s的连续正数序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/FindContinuousSequence.java)
 * [剑指 Offer 58 - I. 翻转单词顺序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/ReverseWords.java)
 * [剑指 Offer 59 - I. 滑动窗口的最大值](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/MaxSlidingWindow.java)
@@ -884,9 +886,11 @@ leetcode 刷题记录
 * [316. 去除重复字母](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/SEP/RemoveDuplicateLetters.java)
 * [321. 拼接最大数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/CreateMaximumNumber.java)
 * [322. 零钱兑换](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/CoinChange.java)
+* [324. 摆动排序 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/WiggleSortii.java)
 * [326. 3的幂](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/SEP/PowerOfThree.java)
 * [329. 矩阵中的最长递增路径](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUL/LongestIncreasingPathInAMatrix.java)
 * [332. 重新安排行程](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/AUG/ReconstructItinerary.java)
+* [334. 递增的三元子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/IncreasingTripletSubsequence.java)
 * [336. 回文对](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/AUG/PalindromePairs.java)
 * [337. 打家劫舍 III](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/AUG/HouseRobberiii.java)
 * [342. 4的幂](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/SEP/PowerOfFour.java)
