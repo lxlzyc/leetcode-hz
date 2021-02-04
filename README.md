@@ -668,6 +668,7 @@ leetcode 刷题记录
 ### 2021-02
 
 * [424. 替换后的最长重复字符](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/LongestRepeatingCharacterReplacement.java)
+* [643. 子数组最大平均数 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/MaximumAverageSubarrayi.java)
   
 * [剑指 Offer 57 - II. 和为s的连续正数序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/FindContinuousSequence.java)
 * [剑指 Offer 58 - I. 翻转单词顺序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/ReverseWords.java)
@@ -1008,6 +1009,7 @@ leetcode 刷题记录
 * [632. 最小区间](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUL/SmallestRangeCoveringElementsFromKLists.java)
 * [637. 二叉树的层平均值](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/APR/AverageOfLevelsInBinaryTree.java)
 * [641. 设计循环双端队列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/DesignCircularDeque.java)
+* [643. 子数组最大平均数 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/MaximumAverageSubarrayi.java)
 * [645. 错误的集合](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/SetMismatch.java)
 * [646. 最长数对链](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/MAY/MaximumLengthOfPairChain.java)
 * [647. 回文子串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/MAY/PalindromicSubstrings.java)
