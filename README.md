@@ -671,10 +671,13 @@ leetcode 刷题记录
 * [334. 递增的三元子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/IncreasingTripletSubsequence.java)
 * [424. 替换后的最长重复字符](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/LongestRepeatingCharacterReplacement.java)
 * [643. 子数组最大平均数 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/MaximumAverageSubarrayi.java)
+* [752. 打开转盘锁](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/OpenTheLock.java)
+* [769. 最多能完成排序的块](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/MaxChunksToMakeSorted.java)
 
 * [剑指 Offer 57 - II. 和为s的连续正数序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/FindContinuousSequence.java)
 * [剑指 Offer 58 - I. 翻转单词顺序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/ReverseWords.java)
 * [剑指 Offer 59 - I. 滑动窗口的最大值](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/MaxSlidingWindow.java)
+* [剑指 Offer 61. 扑克牌中的顺子](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/PokerIsStraight.java)
 
 ## 全部顺序
 
@@ -1073,12 +1076,14 @@ leetcode 刷题记录
 * [746. 使用最小花费爬楼梯](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUN/MinCostClimbingStairs.java)
 * [747. 至少是其他数字两倍的最大数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUN/LargestNumberAtLeastTwiceOfOthers.java)
 * [748. 最短完整词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUN/ShortestCompletingWord.java)
+* [752. 打开转盘锁](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/OpenTheLock.java)
 * [756. 金字塔转换矩阵](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/PyramidTransitionMatrix.java)
 * [762. 二进制表示中质数个计算置位](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUN/PrimeNumberOfSetBitsInBinaryRepresentation.java)
 * [763. 划分字母区间](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUN/PartitionLabels.java)
 * [765. 情侣牵手](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUN/CouplesHoldingHands.java)
 * [766. 托普利茨矩阵](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUN/ToeplitzMatrix.java)
 * [767. 重构字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUN/ReorganizeString.java)
+* [769. 最多能完成排序的块](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/MaxChunksToMakeSorted.java)
 * [771. 宝石与石头](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUN/JewelsAndStones.java)
 * [773. 滑动谜题](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUN/SlidingPuzzle.java)
 * [775. 全局倒置与局部倒置](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUN/GlobalAndLocalInversions.java)
@@ -1284,6 +1289,7 @@ leetcode 刷题记录
 * [剑指 Offer 57 - II. 和为s的连续正数序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/FindContinuousSequence.java)
 * [剑指 Offer 58 - I. 翻转单词顺序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/ReverseWords.java)
 * [剑指 Offer 59 - I. 滑动窗口的最大值](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/MaxSlidingWindow.java)
+* [剑指 Offer 61. 扑克牌中的顺子](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/PokerIsStraight.java)
 
 * [LCP 01. 猜数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/GuessNumbers.java)
 
@@ -1296,6 +1302,7 @@ leetcode 刷题记录
 * [1089. 重复零](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/NOV/DuplicateZeros.java)
 
 * [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/.java)
+
 
 
 
