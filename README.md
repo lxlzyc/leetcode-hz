@@ -670,9 +670,12 @@ leetcode 刷题记录
 * [324. 摆动排序 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/WiggleSortii.java)
 * [334. 递增的三元子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/IncreasingTripletSubsequence.java)
 * [424. 替换后的最长重复字符](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/LongestRepeatingCharacterReplacement.java)
+* [556. 下一个更大元素 III](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/NextGreaterElementiii.java)
 * [643. 子数组最大平均数 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/MaximumAverageSubarrayi.java)
 * [752. 打开转盘锁](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/OpenTheLock.java)
+* [754. 到达终点数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/ReachANumber.java)
 * [769. 最多能完成排序的块](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/MaxChunksToMakeSorted.java)
+* [1184. 公交站间的距离](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/DistanceBetweenBusStops.java)
 
 * [剑指 Offer 57 - II. 和为s的连续正数序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/FindContinuousSequence.java)
 * [剑指 Offer 58 - I. 翻转单词顺序](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/ReverseWords.java)
@@ -987,6 +990,7 @@ leetcode 刷题记录
 * [551. 学生出勤记录 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/APR/StudentAttendanceRecordI.java)
 * [554.砖墙](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/APR/BrickWall.java)
 * [560. 和为K的子数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/APR/SubarraySumEqualsk.java)
+* [556. 下一个更大元素 III](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/NextGreaterElementiii.java)
 * [557. 反转字符串中的单词 III](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/APR/ReverseWordsInAStringIII.java)
 * [559. N叉树的最大深度](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/APR/MaximumDepthOfNAryTree.java)
 * [561. 数组拆分 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/APR/ArrayPartitioni.java)
@@ -1077,6 +1081,7 @@ leetcode 刷题记录
 * [747. 至少是其他数字两倍的最大数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUN/LargestNumberAtLeastTwiceOfOthers.java)
 * [748. 最短完整词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUN/ShortestCompletingWord.java)
 * [752. 打开转盘锁](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/OpenTheLock.java)
+* [754. 到达终点数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/ReachANumber.java)
 * [756. 金字塔转换矩阵](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/PyramidTransitionMatrix.java)
 * [762. 二进制表示中质数个计算置位](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUN/PrimeNumberOfSetBitsInBinaryRepresentation.java)
 * [763. 划分字母区间](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUN/PartitionLabels.java)
@@ -1231,6 +1236,7 @@ leetcode 刷题记录
 * [1160. 拼写单词](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/NOV/FindWordsThatCanBeFormedByCharacters.java)
 * [1161. 最大层内元素和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/NOV/MaximumLevelSumOfABinaryTree.java)
 * [1171. 从链表中删去总和值为零的连续节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/RemoveZeroSumConsecutiveNodesFromLinkedList.java)
+* [1184. 公交站间的距离](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/DistanceBetweenBusStops.java)
 * [1185. 一周中的第几天](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/DayOfTheWeek.java)
 * [1195. 交替打印字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/FizzBuzzMultithreaded.java)
 * [1202. 交换字符串中的元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/SmallestStringWithSwaps.java)
@@ -1302,6 +1308,7 @@ leetcode 刷题记录
 * [1089. 重复零](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/NOV/DuplicateZeros.java)
 
 * [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/.java)
+
 
 
 
