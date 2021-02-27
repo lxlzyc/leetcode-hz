@@ -667,11 +667,14 @@ leetcode 刷题记录
 
 ### 2021-02
 
+* [69. x 的平方根](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/Sqrtx.java)
 * [275. H 指数 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/HIndexii.java)
 * [278. 第一个错误的版本](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/FirstBadVersion.java)
+* [279. 完全平方数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/PerfectSquares.java)
 * [324. 摆动排序 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/WiggleSortii.java)
 * [334. 递增的三元子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/IncreasingTripletSubsequence.java)
 * [357. 计算各个位数不同的数字个数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/CountNumbersWithUniqueDigits.java)
+* [371. 两整数之和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/SumOfTwoIntegers.java)
 * [424. 替换后的最长重复字符](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/LongestRepeatingCharacterReplacement.java)
 * [480. 滑动窗口中位数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/SlidingWindowMedian.java)
 * [525. 连续数组](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/ContiguousArray.java)
@@ -757,6 +760,7 @@ leetcode 刷题记录
 * [66. 加一](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2019/DEC/PlusOne.java)
 * [67. 二进制求和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2019/DEC/AddBinary.java)
 * [68. 文本左右对齐](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2019/DEC/TextJustTification.java)
+* [69. x 的平方根](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/Sqrtx.java)
 * [70. 爬楼梯](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2019/DEC/ClimbingStairs.java)
 * [71. 简化路径](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2019/NOV/SimplifyPath.java)
 * [72. 编辑距离](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/APR/EditDistance.java)
@@ -888,6 +892,7 @@ leetcode 刷题记录
 * [274. H 指数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/HIndex.java)
 * [275. H 指数 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/HIndexii.java)
 * [278. 第一个错误的版本](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/FirstBadVersion.java)
+* [279. 完全平方数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/PerfectSquares.java)
 * [284. 顶端迭代器](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JAN/PeekingIterator.java)
 * [287. 寻找重复数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JAN/FindTheDuplicateNumber.java)
 * [289. 生命游戏](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/APR/GameOfLife.java)
@@ -918,6 +923,7 @@ leetcode 刷题记录
 * [349. 两个数组的交集](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/SEP/IntersectionOfTwoArrays.java)
 * [350. 两个数组的交集 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUL/IntersectionOfTwoArraysii.java)
 * [357. 计算各个位数不同的数字个数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/CountNumbersWithUniqueDigits.java)
+* [371. 两整数之和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/SumOfTwoIntegers.java)
 * [373. 查找和最小的K对数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/FindKPairsWithSmallestSums.java)
 * [374. 猜数字大小](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/SEP/GuessNumberHigherOrLower.java)
 * [378. 有序矩阵中第K小的元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUL/KthSmallestElementInASortedMatrix.java)
