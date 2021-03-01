@@ -33,7 +33,7 @@ public class Sqrtx {
         int left = 0;
         int right = x;
         int ans = -1;
-        while (left <= x) {
+        while (left <= right) {
             int mid = left + (right - left) / 2;
             if ((long) mid * mid <= x) {
                 ans = mid;
