@@ -698,6 +698,7 @@ leetcode 刷题记录
 ### 2021-03
 
 * [295. 数据流的中位数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/FindMedianFromDataStream.java)
+* [365. 水壶问题](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/WaterAndJugProblem.java)
 
 ## 全部顺序
 
@@ -929,6 +930,7 @@ leetcode 刷题记录
 * [349. 两个数组的交集](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/SEP/IntersectionOfTwoArrays.java)
 * [350. 两个数组的交集 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUL/IntersectionOfTwoArraysii.java)
 * [357. 计算各个位数不同的数字个数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/CountNumbersWithUniqueDigits.java)
+* [365. 水壶问题](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/WaterAndJugProblem.java)
 * [371. 两整数之和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/SumOfTwoIntegers.java)
 * [373. 查找和最小的K对数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/FindKPairsWithSmallestSums.java)
 * [374. 猜数字大小](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/SEP/GuessNumberHigherOrLower.java)
@@ -1332,7 +1334,6 @@ leetcode 刷题记录
 * [最小堆](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/MinHeap.java)
 * [红黑树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/RedBlackTree.java)
 
-* [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/.java)
 * [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/.java)
 
 
