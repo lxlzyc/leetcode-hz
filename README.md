@@ -700,6 +700,9 @@ leetcode 刷题记录
 * [295. 数据流的中位数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/FindMedianFromDataStream.java)
 * [338. 比特位计数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/CountingBits.java)
 * [365. 水壶问题](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/WaterAndJugProblem.java)
+* [401. 二进制手表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/BinaryWatch.java)
+* [405. 数字转换为十六进制数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/ConvertANumberToHexadecimal.java)
+* [455. 分发饼干](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/AssignCookies.java)
 
 ## 全部顺序
 
@@ -943,6 +946,8 @@ leetcode 刷题记录
 * [389. 找不同](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/FindTheDifference.java)
 * [392. 判断子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUL/IsSubsequence.java)
 * [395. 至少有K个重复字符的最长子串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/LongestSubstringWithAtLeastKRepeatingCharacters.java)
+* [401. 二进制手表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/BinaryWatch.java)
+* [405. 数字转换为十六进制数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/ConvertANumberToHexadecimal.java)
 * [406. 根据身高重建队列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/MAR/QueueReconstructionByHeight.java)
 * [409. 最长回文串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/MAR/LongestPalindrome.java)
 * [412. Fizz Buzz](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/MAR/FizzBuzz.java)
@@ -967,6 +972,7 @@ leetcode 刷题记录
 * [452. 用最少数量的箭引爆气球](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/MAR/MinimumNumberOfArrowsToBurstBalloons.java)
 * [453. 最小移动次数使数组元素相等](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/MAR/MinimumMovesToEqualArrayElements.java)
 * [454. 四数相加 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/NOV/FourSumii.java)
+* [455. 分发饼干](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/AssignCookies.java)
 * [456. 132模式](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/MAR/Find132pattern.java)
 * [459. 重复的子字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/MAR/RepeatedSubstringPattern.java)
 * [461. 汉明距离](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/MAR/HammingDistance.java)
