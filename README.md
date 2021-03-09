@@ -709,6 +709,7 @@ leetcode 刷题记录
 * [665. 非递减数列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/NonDecreasingArray.java)
 * [883. 三维形体投影面积](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/ProjectionAreaOf3dShapes.java)
 * [1051. 高度检查器](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/HeightChecker.java)
+* [1200. 最小绝对差](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/MinimumAbsoluteDifference.java)
 
 ## 全部顺序
 
@@ -1290,6 +1291,7 @@ leetcode 刷题记录
 * [1184. 公交站间的距离](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/DistanceBetweenBusStops.java)
 * [1185. 一周中的第几天](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/DayOfTheWeek.java)
 * [1195. 交替打印字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/FizzBuzzMultithreaded.java)
+* [1200. 最小绝对差](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/MinimumAbsoluteDifference.java)
 * [1202. 交换字符串中的元素](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/SmallestStringWithSwaps.java)
 * [1207. 独一无二的出现次数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/UniqueNumberOfOccurrences.java)
 * [1209. 删除字符串中的所有相邻重复项 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/RemoveAllAdjacentDuplicatesInStringii.java)
@@ -1355,9 +1357,9 @@ leetcode 刷题记录
 * [红黑树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/RedBlackTree.java)
 
 * [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/.java)
-  
 
 
+ 
 
 
 
