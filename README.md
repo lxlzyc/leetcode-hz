@@ -701,6 +701,7 @@ leetcode 刷题记录
 * [224. 基本计算器](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/BasicValculator.java)
 * [227. 基本计算器 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/BasicValculatorii.java)
 * [295. 数据流的中位数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/FindMedianFromDataStream.java)
+* [331. 验证二叉树的前序序列化](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/VerifyPreorderSerializationOfABinaryTree.java)
 * [338. 比特位计数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/CountingBits.java)
 * [365. 水壶问题](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/WaterAndJugProblem.java)
 * [367. 有效的完全平方数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/ValidPerfectSquare.java)
@@ -934,6 +935,7 @@ leetcode 刷题记录
 * [324. 摆动排序 II](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/WiggleSortii.java)
 * [326. 3的幂](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/SEP/PowerOfThree.java)
 * [329. 矩阵中的最长递增路径](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUL/LongestIncreasingPathInAMatrix.java)
+* [331. 验证二叉树的前序序列化](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/VerifyPreorderSerializationOfABinaryTree.java)
 * [332. 重新安排行程](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/AUG/ReconstructItinerary.java)
 * [334. 递增的三元子序列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/IncreasingTripletSubsequence.java)
 * [336. 回文对](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/AUG/PalindromePairs.java)
@@ -1360,7 +1362,6 @@ leetcode 刷题记录
 * [最小堆](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/MinHeap.java)
 * [红黑树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/RedBlackTree.java)
 
-* [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/.java)
 * [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/.java)
 
 
