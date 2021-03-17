@@ -714,6 +714,10 @@ leetcode 刷题记录
 * [1051. 高度检查器](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/HeightChecker.java)
 * [1200. 最小绝对差](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/MinimumAbsoluteDifference.java)
 
+* [剑指 Offer 32 - I. 从上到下打印二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/TreeLevelOrder.java)
+* [剑指 Offer 40. 最小的k个数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/GetLeastNumbers.java)
+* [剑指 Offer 50. 第一个只出现一次的字符](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/FirstUniqChar.java)
+
 ## 全部顺序
 
 * [1. 两数之和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUN/TwoSum.java)
@@ -1349,6 +1353,9 @@ leetcode 刷题记录
 * [剑指 Offer 09. 用两个栈实现队列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUN/CQueue.java)
 * [剑指 Offer 20. 表示数值的字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/SEP/IsNumber.java)
 * [剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/ExchangeArr.java)
+* [剑指 Offer 32 - I. 从上到下打印二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/TreeLevelOrder.java)
+* [剑指 Offer 40. 最小的k个数](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/GetLeastNumbers.java)
+* [剑指 Offer 50. 第一个只出现一次的字符](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/FirstUniqChar.java)
 * [剑指 Offer 52. 两个链表的第一个公共节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUL/IntersectionNode.java)
 * [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUL/SearchI.java)
 * [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUL/MissingNumber.java)
@@ -1363,6 +1370,7 @@ leetcode 刷题记录
 * [红黑树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/RedBlackTree.java)
 
 * [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/.java)
+
 
 
  
