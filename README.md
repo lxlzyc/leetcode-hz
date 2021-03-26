@@ -719,6 +719,7 @@ leetcode 刷题记录
 * [1051. 高度检查器](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/HeightChecker.java)
 * [1189. “气球” 的最大数量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/MaximumNumberOfBalloons.java)
 * [1200. 最小绝对差](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/MinimumAbsoluteDifference.java)
+* [1572. 矩阵对角线元素的和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/MatrixDiagonalSum.java)
 * [1603. 设计停车系统](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/DesignParkingSystem.java)
 
 * [剑指 Offer 32 - I. 从上到下打印二叉树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/TreeLevelOrder.java)
@@ -1336,6 +1337,7 @@ leetcode 刷题记录
 * [1367. 二叉树中的列表](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/LinkedListInBinaryTree.java)
 * [1370. 上升下降字符串](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/NOV/IncreasingDecreasingString.java)
 * [1431. 拥有最多糖果的孩子](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/NOV/KidsWithTheGreatestNumberOfCandies.java)
+* [1572. 矩阵对角线元素的和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/MatrixDiagonalSum.java)
 * [1579. 保证图可完全遍历](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/RemoveMaxNumberOfEdgesToKeepGraphGullyTraversable.java)
 * [1584. 连接所有点的最小费用](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/JAN/MinCostToConnectAllPoints.java)
 * [1603. 设计停车系统](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/DesignParkingSystem.java)
