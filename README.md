@@ -728,6 +728,10 @@ leetcode 刷题记录
 * [剑指 Offer 50. 第一个只出现一次的字符](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/FirstUniqChar.java)
 * [剑指 Offer 54. 二叉搜索树的第k大节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/KthLargest.java)
 
+### 2021-04
+
+* [1006. 笨阶乘](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/APR/ClumsyFactorial.java)
+
 ## 全部顺序
 
 * [1. 两数之和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUN/TwoSum.java)
@@ -1285,6 +1289,7 @@ leetcode 刷题记录
 * [1002. 查找常用字符](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/FindCommonCharacters.java)
 * [1004. 最大连续1的个数 III](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/MaxConsecutiveOnesiii.java)
 * [1005. K 次取反后最大化的数组和](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/MaximizeSumOfArrayAfterKNegations.java)
+* [1006. 笨阶乘](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/APR/ClumsyFactorial.java)
 * [1008. 前序遍历构造二叉搜索树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/ConstructBinarySearchTreeFromPreorderTraversal.java)
 * [1013. 将数组分成和相等的三个部分](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/FEB/PartitionArrayIntoThreePartsWithEqualSum.java)
 * [1014. 最佳观光组合](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUN/BestSightseeingPair.java)
@@ -1388,7 +1393,6 @@ leetcode 刷题记录
 * [最小堆](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/MinHeap.java)
 * [红黑树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/RedBlackTree.java)
 
-* [](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/MAR/.java)
 
 
 
