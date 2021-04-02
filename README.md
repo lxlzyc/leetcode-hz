@@ -731,6 +731,7 @@ leetcode 刷题记录
 ### 2021-04
 
 * [1006. 笨阶乘](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/APR/ClumsyFactorial.java)
+* [面试题 17.21. 直方图的水量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/APR/VolumeOfHistogramLcci.java)
 
 ## 全部顺序
 
@@ -1368,6 +1369,7 @@ leetcode 刷题记录
 * [面试题 08.11. 硬币](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/APR/CoinLcci.java)
 * [面试题 16.17. 连续数列](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/ContiguousSequenceLcci.java)
 * [面试题 16.18. 模式匹配](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUN/PatternMatchingLcci.java)
+* [面试题 17.21. 直方图的水量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/APR/VolumeOfHistogramLcci.java)
 * [面试题 08.03. 魔术索引](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUL/MagicIndexLcci.java)
 
 * [剑指 Offer 03. 数组中重复的数字](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUL/FindRepeatNumber.java)
@@ -1392,6 +1394,7 @@ leetcode 刷题记录
 
 * [最小堆](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/MinHeap.java)
 * [红黑树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/RedBlackTree.java)
+  
 
 
 
