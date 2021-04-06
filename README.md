@@ -731,6 +731,7 @@ leetcode 刷题记录
 ### 2021-04
 
 * [1006. 笨阶乘](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/APR/ClumsyFactorial.java)
+* [面试题 04.06. 后继者](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/APR/SuccessorLcci.java)
 * [面试题 17.21. 直方图的水量](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/APR/VolumeOfHistogramLcci.java)
 
 ## 全部顺序
@@ -1357,6 +1358,7 @@ leetcode 刷题记录
 * [面试题 01.07. 旋转矩阵](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/RotateMatrixLcci.java)
 * [面试题 01.08. 零矩阵](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/ZeroMatrixLcci.java)
 * [面试题 02.02. 返回倒数第 k 个节点](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/DEC/KthNodeFromEndOfListLcci.java)
+* [面试题 04.06. 后继者](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2021/APR/SuccessorLcci.java)
 * [面试题13. 机器人的运动范围](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/APR/MovingCount.java)
 * [面试题 16.11. 跳水板](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUL/DivingBoardLcci.java)
 * [面试题 17.13. 恢复空格](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/JUL/ReSpaceLcci.java)
@@ -1394,7 +1396,7 @@ leetcode 刷题记录
 
 * [最小堆](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/MinHeap.java)
 * [红黑树](https://github.com/lxlzyc/leetcode-hz/blob/master/src/lxl/y2020/OCT/RedBlackTree.java)
-  
+
 
 
 
